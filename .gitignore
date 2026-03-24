@@ -1,0 +1,9 @@
+# Tägliche Recherche-Berichte (lokal, nicht im Repo)
+reports/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/

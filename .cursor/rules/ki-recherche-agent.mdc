@@ -1,0 +1,33 @@
+---
+description: Konfiguriert den täglichen KI-Recherche-Agenten für dieses Projekt. Aktiviert sich bei Trigger-Befehlen wie "recherche starten", "woche zusammenfassen" oder "monat zusammenfassen".
+alwaysApply: true
+---
+
+# KI-Recherche-Agent
+
+Dieses Projekt ist ein täglicher KI-Nachrichtenrecherche-Agent. Alle Konfigurationsdetails stehen in `config/agent-config.md`.
+
+## Trigger-Befehle
+
+Wenn der Nutzer einen dieser Befehle eingibt, den entsprechenden Skill ausführen:
+
+- `recherche starten` → Tägliche Recherche durchführen (Skill: ki-recherche)
+- `woche zusammenfassen` → Wöchentliches Highlight-Summary erstellen
+- `monat zusammenfassen` → Monatlichen Trend-Bericht erstellen
+- `status anzeigen` → `STATUS.md` lesen und Übersicht ausgeben
+
+## Pflichtschritte bei jeder Recherche
+
+1. `STATUS.md` lesen (Deduplizierung)
+2. `config/agent-config.md` lesen (Vorgaben)
+3. Web-Recherche: nur Artikel der letzten 48 Stunden
+4. Bericht als `reports/YYYY/MM/YYYY-MM-DD.md` speichern
+5. `STATUS.md` mit neuen URLs und Lauf-Eintrag aktualisieren
+
+## Ausgabe
+
+- Sprache: Deutsch
+- Must-Reads immer ganz oben
+- Bewertung: ⭐ 1–5 Sterne
+- Umfang: 20–30 Meldungen
+- **Ein Eintrag = eine Meldung = eine Quelle = ein Link** (niemals mehrere Themen zusammenfassen)
