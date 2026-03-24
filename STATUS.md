@@ -10,6 +10,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
 | 2026-03-24 | 27 | 2 | – | – |
+| 2026-03-24 | 20 | 3 | – | – |
 
 ---
 
@@ -56,14 +57,34 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-03-24 | https://arxiv.org/abs/2603.08561v1
 2026-03-24 | https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026
 2026-03-24 | https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tooling-updates/
+2026-03-24 | https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/
+2026-03-24 | https://siliconangle.com/2026/03/24/oracle-fusion-agentic-applications-signal-shift-toward-autonomous-enterprise-software/
+2026-03-24 | https://www.prnewswire.com/news-releases/palo-alto-networks-secures-agentic-ai-with-prisma-airs-3-0--302722579.html
+2026-03-24 | https://www.prnewswire.com/news-releases/black-duck-signal-sets-a-new-standard-for-securing-ai-generated-code-302719094.html
+2026-03-24 | https://siliconangle.com/2026/03/23/cisco-debuts-new-ai-agent-security-features-open-source-defenseclaw-tool/
+2026-03-24 | https://siliconangle.com/2026/03/23/navi-ai-debuts-flight-training-ai-platform-6-7m-funding/
+2026-03-24 | https://siliconangle.com/2026/03/23/crowdstrike-targets-ai-security-gap-falcon-platform-expansion-rsac-conference/
+2026-03-24 | https://siliconangle.com/2026/03/23/dataminr-launches-dataminr-cyber-defense-agentic-ai-threatconnect-integration/
+2026-03-24 | https://siliconangle.com/2026/03/23/flashpoint-unveils-new-threat-intelligence-suite-link-cyber-risks-business-impact/
+2026-03-24 | https://siliconangle.com/2026/03/23/securityscorecard-debuts-titan-ai-reduce-supply-chain-breaches-streamline-vendor-risk-workflows/
+2026-03-24 | https://siliconangle.com/2026/03/23/google-cloud-unveils-agentic-ai-security-strategy-wiz-integration-threat-intelligence-upgrades/
+2026-03-24 | https://siliconangle.com/2026/03/22/microsoft-outlines-agentic-ai-security-strategy-new-defender-entra-purview-capabilities/
+2026-03-24 | https://siliconangle.com/2026/03/23/meta-acqui-hires-co-founders-agentic-ai-startup-dreamer/
+2026-03-24 | https://www.globenewswire.com/news-release/2026/03/23/3260478/0/en/Arctic-Wolf-Unveils-the-Aurora-Superintelligence-Platform-to-Redefine-Security-for-the-Age-of-AI.html
+2026-03-24 | https://www.globenewswire.com/news-release/2026/03/23/3260475/0/en/Arctic-Wolf-Launches-the-World-s-Largest-Commercial-Agentic-SOC-to-Usher-in-a-New-Era-of-Agent-Led-Security-Operations.html
+2026-03-24 | https://siliconangle.com/2026/03/23/dash0-raises-110m-1b-valuation-change-cloud-observability-ai-agents/
+2026-03-24 | https://siliconangle.com/2026/03/23/multi-chip-inference-cloud-startup-gimlet-labs-receives-80m-solve-one-ais-biggest-bottlenecks/
+2026-03-24 | https://www.reuters.com/business/openai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-anthropic-2026-03-23/
+2026-03-24 | https://siliconangle.com/2026/03/23/chip-interconnect-startup-kandou-ai-raises-225m-funding/
+2026-03-24 | https://www.globenewswire.com/news-release/2026/03/23/3260438/0/en/Arctic-Wolf-and-Wiz-Join-Forces-to-Counter-Rising-Cloud-Threats-with-End-to-End-Cloud-Security-and-Response.html
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 1
-- **Gesamt erfasste Meldungen:** 27
+- **Gesamt Recherche-Läufe:** 2
+- **Gesamt erfasste Meldungen:** 47
 - **Erster Lauf:** 2026-03-24
 - **Letzter Lauf:** 2026-03-24
 
