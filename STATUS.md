@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-03-25 | 20 | 3 | – | – |
 | 2026-03-24 | 27 | 2 | – | – |
 | 2026-03-24 | 20 | 3 | – | – |
 
@@ -21,6 +22,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-03-25 | https://claude.com/blog/dispatch-and-computer-use
+2026-03-25 | https://claude.com/blog/auto-mode
+2026-03-25 | https://openai.com/index/teen-safety-policies-gpt-oss-safeguard/
+2026-03-25 | https://blog.google/products-and-platforms/platforms/google-tv/new-gemini-features-march-2026/
+2026-03-25 | https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features
+2026-03-25 | https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/
+2026-03-25 | https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/
+2026-03-25 | https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/
+2026-03-25 | https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app
+2026-03-25 | https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/
+2026-03-25 | https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/
+2026-03-25 | https://today.reuters.com/business/openai-non-profit-names-leaders-plans-spend-1-billion-this-year-bloomberg-news-2026-03-24/
+2026-03-25 | https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/
+2026-03-25 | https://www.cnbc.com/2026/03/24/openai-secures-an-extra-10-billion-in-record-funding-round-cfo-friar-says.html
+2026-03-25 | https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/
+2026-03-25 | https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/
+2026-03-25 | https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/
+2026-03-25 | https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/
+2026-03-25 | https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/
+2026-03-25 | https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/
 2026-03-24 | https://siliconangle.com/2026/03/23/anthropics-claude-gets-computer-use-capabilities-preview/
 2026-03-24 | https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/
 2026-03-24 | https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/
@@ -83,10 +104,10 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 2
-- **Gesamt erfasste Meldungen:** 47
+- **Gesamt Recherche-Läufe:** 3
+- **Gesamt erfasste Meldungen:** 67
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-03-24
+- **Letzter Lauf:** 2026-03-25
 
 ---
 
