@@ -18,6 +18,11 @@ Vollständige Vorgaben für den täglichen Recherche-Agenten.
 - KI-Regulierung & Politik (nur wenn sehr bedeutend)
 - KI-Ethik & Sicherheit (nur wenn sehr bedeutend)
 
+**Ausgeschlossen – diese Meldungen nie aufnehmen:**
+- Finanzierungsrunden, Kapitalerhöhungen, Investitionen (z.B. "Firma X sammelt Y Millionen Dollar ein")
+- IPOs und Börsengänge von KI-Unternehmen
+- Bewertungen und Firmenwert-Meldungen
+
 ---
 
 ## Quellenauswahl
