@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-03-26 | 20 | 4 | – | – |
 | 2026-03-25 | 20 | 3 | – | – |
 | 2026-03-24 | 27 | 2 | – | – |
 | 2026-03-24 | 20 | 3 | – | – |
@@ -22,6 +23,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-03-26 | https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+2026-03-26 | https://blog.google/innovation-and-ai/products/gemini-app/android-multi-step-tasks/
+2026-03-26 | https://openai.com/index/safety-bug-bounty/
+2026-03-26 | https://www.anthropic.com/research/economic-index-march-2026-report
+2026-03-26 | https://openai.com/index/powering-product-discovery-in-chatgpt/
+2026-03-26 | https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/
+2026-03-26 | https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/
+2026-03-26 | https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/
+2026-03-26 | https://github.blog/changelog/2026-03-25-github-copilot-for-jira-public-preview-enhancements
+2026-03-26 | https://github.blog/changelog/2026-03-25-copilot-usage-metrics-now-identify-active-copilot-coding-agent-users
+2026-03-26 | https://github.blog/changelog/2026-03-24-ask-copilot-to-make-changes-to-any-pull-request
+2026-03-26 | https://www.reuters.com/sustainability/boards-policy-regulation/google-label-verified-investment-apps-india-amid-scam-crackdown-2026-03-25/
+2026-03-26 | https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode
+2026-03-26 | https://openai.com/index/our-approach-to-the-model-spec/
+2026-03-26 | https://www.theverge.com/ai-artificial-intelligence/901014/apples-deal-with-google-lets-it-use-gemini-to-train-smaller-ai-models
+2026-03-26 | https://openai.com/index/update-on-the-openai-foundation/
+2026-03-26 | https://www.reuters.com/business/arm-jumps-new-ai-chip-drive-billions-annual-revenue-2026-03-25/
+2026-03-26 | https://www.reuters.com/business/autos-transportation/ai-boom-accelerates-chinas-chip-industry-growth-demand-strains-supply-chain-2026-03-25/
+2026-03-26 | https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/
+2026-03-26 | https://venturebeat.com/orchestration/how-xmemory-cuts-token-costs-and-context-bloat-in-ai-agents/
 2026-03-25 | https://claude.com/blog/dispatch-and-computer-use
 2026-03-25 | https://claude.com/blog/auto-mode
 2026-03-25 | https://openai.com/index/teen-safety-policies-gpt-oss-safeguard/
@@ -104,10 +125,10 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 3
-- **Gesamt erfasste Meldungen:** 67
+- **Gesamt Recherche-Läufe:** 4
+- **Gesamt erfasste Meldungen:** 87
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-03-25
+- **Letzter Lauf:** 2026-03-26
 
 ---
 
