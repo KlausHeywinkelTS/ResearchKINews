@@ -29,6 +29,8 @@ Ausschließlich Quellen der letzten 48 Stunden berücksichtigen. Bereits bekannt
 
 **Jede Meldung = ein eigener Eintrag.** Niemals zwei Themen oder Ankündigungen in einem Eintrag zusammenfassen, auch wenn sie vom selben Unternehmen stammen oder am selben Tag erschienen sind. Jeder Eintrag braucht genau eine Quelle und genau einen Link.
 
+**Meldungstitel (fett, erste Zeile je Eintrag):** Immer **auf Deutsch** formulieren – kurz und klar wie eine Nachrichtenüberschrift. Den Originaltitel der Quelle nicht unübersetzt übernehmen, wenn er auf Englisch ist; Inhalt sinngemäß übersetzen. **Eigennamen und Produktnamen** (z. B. OpenAI, Gemini, Claude) unverändert lassen.
+
 Falsch:
 > **Cursor Composer 2 & Automations** – [ein Link für zwei Themen]
 
@@ -49,7 +51,7 @@ Jede Meldung bewerten:
 
 Datei speichern unter: `reports/YYYY/MM/YYYY-MM-DD.md`
 
-Vorlage:
+Vorlage (Meldungstitel fett: **deutsch**, siehe Schritt 3):
 
 ```markdown
 # KI-News – [Wochentag], [DD. Monat YYYY]
@@ -57,7 +59,7 @@ Vorlage:
 ## 🚨 Must-Reads
 [Nur ⭐⭐⭐⭐⭐ Meldungen – oben, hervorgehoben]
 
-**[TITEL]** ⭐⭐⭐⭐⭐ 🚨
+**[Deutscher Meldungstitel]** ⭐⭐⭐⭐⭐ 🚨
 *Quelle: [Name] | [Datum]*
 [2–3 Sätze Zusammenfassung auf Deutsch]
 🔗 [URL]
@@ -76,7 +78,7 @@ Vorlage:
 
 ### 🛠️ KI-Tools & Produkte
 
-**[TITEL]** ⭐⭐⭐⭐
+**[Deutscher Meldungstitel]** ⭐⭐⭐⭐
 *Quelle: [Name] | [Datum]*
 [Zusammenfassung]
 🔗 [URL]

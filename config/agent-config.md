@@ -69,8 +69,8 @@ Jede Meldung erhält:
 
 ## Ausgabeformat
 
-**Sprache:** Deutsch (Titel, Zusammenfassungen, Kommentare)  
-**Originaltitel:** können auf Englisch bleiben  
+**Sprache:** Deutsch (Zusammenfassungen, Kommentare, Abschnittsüberschriften)  
+**Meldungstitel** (fett, erste Zeile je Eintrag): **auf Deutsch** – prägnante Überschrift, nicht den englischen Originaltitel 1:1 übernehmen; Eigennamen und Produktnamen unverändert.  
 **Quellen:** alle Sprachen, bevorzugt Deutsch & Englisch
 
 ### Berichtsstruktur
@@ -101,7 +101,7 @@ Jede Meldung erhält:
 ### Eintragsformat pro Meldung
 
 ```markdown
-**[TITEL]** ⭐⭐⭐⭐  
+**[Deutscher Meldungstitel]** ⭐⭐⭐⭐  
 *Quelle: [Name] | [Datum]*  
 [2–3 Sätze Zusammenfassung auf Deutsch]  
 🔗 [URL]
