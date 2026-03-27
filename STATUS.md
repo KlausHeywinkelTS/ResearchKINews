@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-03-27 | 15 | 4 | – | – |
 | 2026-03-26 | 20 | 4 | – | – |
 | 2026-03-25 | 20 | 3 | – | – |
 | 2026-03-24 | 27 | 2 | – | – |
@@ -23,6 +24,21 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-03-27 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/
+2026-03-27 | https://blog.google/products-and-platforms/products/search/search-live-global-expansion/
+2026-03-27 | https://blog.google/innovation-and-ai/products/gemini-app/switch-to-gemini-app/
+2026-03-27 | https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/
+2026-03-27 | https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/
+2026-03-27 | https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/
+2026-03-27 | https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/
+2026-03-27 | https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/
+2026-03-27 | https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/
+2026-03-27 | https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/
+2026-03-27 | https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/
+2026-03-27 | https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6
+2026-03-27 | https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/
+2026-03-27 | https://www.reuters.com/commentary/breakingviews/how-big-techs-630-bln-ai-splurge-will-fall-short-2026-03-26/
+2026-03-27 | https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art
 2026-03-26 | https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
 2026-03-26 | https://blog.google/innovation-and-ai/products/gemini-app/android-multi-step-tasks/
 2026-03-26 | https://openai.com/index/safety-bug-bounty/
@@ -125,10 +141,10 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 4
-- **Gesamt erfasste Meldungen:** 87
+- **Gesamt Recherche-Läufe:** 5
+- **Gesamt erfasste Meldungen:** 102
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-03-26
+- **Letzter Lauf:** 2026-03-27
 
 ---
 
