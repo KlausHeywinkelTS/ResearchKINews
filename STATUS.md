@@ -17,10 +17,11 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ---
 
-## Bekannte URLs (letzte 7 Tage)
+## Bekannte URLs (letzte 7 Tage, max. 140 Eintraege)
 
 > Der Agent prüft diese Liste vor jeder Recherche und schließt bereits erfasste URLs aus.
 > Einträge älter als 7 Tage werden automatisch entfernt.
+> Zusätzlich werden maximal 140 Einträge behalten (nur die neuesten URLs bleiben in der Liste).
 
 ```
 # Format: DATUM | URL

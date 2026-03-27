@@ -9,6 +9,7 @@ description: Führt die tägliche KI-News-Recherche durch. Sucht im Web nach akt
 
 ### Schritt 1: Vorbereitung
 - `STATUS.md` lesen → bekannte URLs der letzten 7 Tage extrahieren
+- URL-Limit laden: maximal `140` bekannte URLs (nur neueste Eintraege behalten)
 - `config/agent-config.md` lesen → Themen und Vorgaben laden
 - Aktuelles Datum und Kalenderwoche notieren
 
@@ -106,7 +107,8 @@ Nach Abschluss `STATUS.md` aktualisieren:
 1. Neuen Eintrag in "Letzte Recherche-Läufe" Tabelle hinzufügen
 2. Alle neuen URLs unter "Bekannte URLs" eintragen (Format: `DATUM | URL`)
 3. Einträge älter als 7 Tage entfernen
-4. Statistiken aktualisieren
+4. Zusätzliche Groessenbremse: nur die neuesten `140` URL-Einträge behalten (am Ende aeltere Zeilen abschneiden)
+5. Statistiken aktualisieren
 
 ## Wochenbericht (`woche zusammenfassen`)
 

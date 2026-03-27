@@ -46,6 +46,7 @@ Der Agent wählt Quellen **selbst nach Relevanz und Qualität**. Orientierung:
 - Alle URLs aus dem Abschnitt "Bekannte URLs (letzte 7 Tage)" prüfen
 - Bereits erfasste Artikel **nicht erneut aufnehmen**
 - Nach der Recherche `STATUS.md` mit neuen URLs aktualisieren
+- URL-Liste klein halten: maximal **140** bekannte URL-Eintraege speichern (nur neueste behalten)
 
 ---
 

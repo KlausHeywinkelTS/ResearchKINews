@@ -23,6 +23,7 @@ Wenn der Nutzer einen dieser Befehle eingibt, den entsprechenden Skill ausführe
 3. Web-Recherche: nur Artikel der letzten 48 Stunden
 4. Bericht als `reports/YYYY/MM/YYYY-MM-DD.md` speichern
 5. `STATUS.md` mit neuen URLs und Lauf-Eintrag aktualisieren
+6. URL-Liste in `STATUS.md` begrenzen: max. 140 Eintraege, nur neueste behalten
 
 ## Ausgabe
 
