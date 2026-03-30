@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-03-30 | 11 | 2 | – | – |
 | 2026-03-27 | 15 | 4 | – | – |
 | 2026-03-26 | 20 | 4 | – | – |
 | 2026-03-25 | 20 | 3 | – | – |
@@ -25,6 +26,17 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-03-30 | https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition
+2026-03-30 | https://t3n.de/news/computer-use-kommt-auf-den-mac-1735447/
+2026-03-30 | https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/
+2026-03-30 | https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model
+2026-03-30 | https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/
+2026-03-30 | https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure
+2026-03-30 | https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/
+2026-03-30 | https://www.engadget.com/social-media/meta-is-bringing-more-international-news-to-its-ai-213323713.html
+2026-03-30 | https://openai.com/index/helping-disaster-response-teams-asia/
+2026-03-30 | https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/
+2026-03-30 | https://t3n.de/news/sicherheitsexperten-warnen-ki-modelle-zeigen-zunehmend-betruegerisches-verhalten-1736263/
 2026-03-27 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/
 2026-03-27 | https://blog.google/products-and-platforms/products/search/search-live-global-expansion/
 2026-03-27 | https://blog.google/innovation-and-ai/products/gemini-app/switch-to-gemini-app/
@@ -142,10 +154,10 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 5
-- **Gesamt erfasste Meldungen:** 102
+- **Gesamt Recherche-Läufe:** 6
+- **Gesamt erfasste Meldungen:** 113
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-03-27
+- **Letzter Lauf:** 2026-03-30
 
 ---
 
