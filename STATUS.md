@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-03-29 | 10 | 4 | – | – |
 | 2026-03-28 | 20 | 4 | – | – |
 | 2026-03-27 | 15 | 4 | – | – |
 | 2026-03-26 | 20 | 4 | – | – |
@@ -26,6 +27,17 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+
+2026-03-29 | https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition
+2026-03-29 | https://siliconangle.com/2026/03/27/openai-introduces-plugins-codex-programming-assistant/
+2026-03-29 | https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction
+2026-03-29 | https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/
+2026-03-29 | https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/
+2026-03-29 | https://about.fb.com/news/2026/03/bringing-more-international-news-and-content-to-meta-ai/
+2026-03-29 | https://www.theverge.com/ai-artificial-intelligence/902272/anthropics-apparent-security-lapse-yielded-details-of-its-next-model-release
+2026-03-29 | https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure
+2026-03-29 | https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/
+2026-03-29 | https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/
 2026-03-28 | https://www.theverge.com/ai-artificial-intelligence/902272/anthropics-apparent-security-lapse-yielded-details-of-its-next-model-release
 2026-03-28 | https://www.cnbc.com/2026/03/26/openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.html
 2026-03-28 | https://github.blog/changelog/2026-03-26-ask-copilot-to-resolve-merge-conflicts-on-pull-requests/
@@ -164,6 +176,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 6
+
 - **Gesamt erfasste Meldungen:** 122
 - **Erster Lauf:** 2026-03-24
 - **Letzter Lauf:** 2026-03-28
