@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-01 | 21 | 4 | – | – |
 | 2026-03-31 | 10 | 2 | – | – |
 | 2026-03-30 | 11 | 2 | – | – |
 | 2026-03-29 | 10 | 4 | – | – |
@@ -16,7 +17,6 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 | 2026-03-27 | 15 | 4 | – | – |
 | 2026-03-26 | 20 | 4 | – | – |
 | 2026-03-25 | 20 | 3 | – | – |
-| 2026-03-24 | 27 | 2 | – | – |
 | 2026-03-24 | 20 | 3 | – | – |
 
 ---
@@ -29,6 +29,27 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-01 | https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/
+2026-04-01 | https://github.blog/changelog/2026-03-30-create-issues-from-slack-with-copilot/
+2026-04-01 | https://github.blog/changelog/2026-03-31-upcoming-deprecation-of-claude-sonnet-4-in-github-copilot/
+2026-04-01 | https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/
+2026-04-01 | https://apnews.com/article/google-maps-ai-gemini-update-1933c40eaecfdbb9aa54d8ae3efcec2e
+2026-04-01 | https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt
+2026-04-01 | https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats
+2026-04-01 | https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop
+2026-04-01 | https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak
+2026-04-01 | https://www.engadget.com/ai/wikipedia-has-banned-ai-generated-articles-173641377.html
+2026-04-01 | https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs
+2026-04-01 | https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/
+2026-04-01 | https://www.reuters.com/business/energy/microsoft-chevron-engine-no-1-sign-exclusive-deal-power-supply-2026-03-31/
+2026-04-01 | https://www.reuters.com/technology/nebius-furthers-european-expansion-with-10-billion-ai-data-centre-finland-2026-03-31/
+2026-04-01 | https://www.reuters.com/business/world-at-work/oracle-begins-cutting-thousands-jobs-cnbc-reports-2026-03-31/
+2026-04-01 | https://www.reuters.com/world/china/big-techs-635-billion-ai-spending-faces-energy-shock-test-sp-global-says-2026-03-31/
+2026-04-01 | https://venturebeat.com/technology/softr-launches-ai-native-platform-to-help-nontechnical-teams-build-business
+2026-04-01 | https://venturebeat.com/data/imagine-if-your-teams-or-slack-messages-automatically-turned-into-secure
+2026-04-01 | https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
+2026-04-01 | https://huggingface.co/blog/ibm-granite/granite-4-vision
+2026-04-01 | https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/
 2026-03-31 | https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/
 2026-03-31 | https://www.reuters.com/sustainability/society-equity/california-ai-order-requires-firms-seeking-state-contracts-have-safeguards-2026-03-31/
 2026-03-31 | https://apnews.com/article/trump-anthropic-ai-microsoft-pentagon-c4210e7eddd9ad90161e7fa2da9736e2
@@ -135,10 +156,10 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 7
-- **Gesamt erfasste Meldungen:** 123
+- **Gesamt Recherche-Läufe:** 9
+- **Gesamt erfasste Meldungen:** 147
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-03-31
+- **Letzter Lauf:** 2026-04-01
 
 ---
 
