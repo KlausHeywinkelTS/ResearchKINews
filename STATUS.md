@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-03 | 20 | 5 | – | – |
 | 2026-04-02 | 20 | 4 | – | – |
 | 2026-04-01 | 21 | 4 | – | – |
 | 2026-03-31 | 10 | 2 | – | – |
@@ -30,6 +31,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-03 | https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/
+2026-04-03 | https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/
+2026-04-03 | https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/
+2026-04-03 | https://openai.com/index/codex-flexible-pricing-for-teams/
+2026-04-03 | https://github.blog/changelog/2026-04-01-research-plan-and-code-with-copilot-cloud-agent
+2026-04-03 | https://github.blog/changelog/2026-04-02-copilot-sdk-in-public-preview
+2026-04-03 | https://github.blog/changelog/2026-04-02-copilot-organization-custom-instructions-are-generally-available
+2026-04-03 | https://github.blog/changelog/2026-04-02-github-copilot-in-visual-studio-march-update
+2026-04-03 | https://github.blog/changelog/2026-04-01-github-mobile-stay-in-flow-with-a-refreshed-copilot-tab-and-native-session-logs
+2026-04-03 | https://github.blog/changelog/2026-04-01-github-mobile-faster-more-flexible-agent-assignment-from-issues
+2026-04-03 | https://github.blog/changelog/2026-04-01-gpt-5-4-mini-is-now-available-in-copilot-student-auto-model-selection
+2026-04-03 | https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-mai-transcribe-1-mai-voice-1-and-mai-image-2-in-microsoft-foundry/4507787
+2026-04-03 | https://cloud.google.com/blog/products/ai-machine-learning/gemma-4-available-on-google-cloud
+2026-04-03 | https://www.microsoft.com/en-us/security/blog/2026/04/02/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/
+2026-04-03 | https://apnews.com/article/ai-pentagon-anthropic-claude-hegseth-trump-b24b0197f87658d0e8a60790a4c969a2
+2026-04-03 | https://openai.com/index/openai-acquires-tbpn/
+2026-04-03 | https://github.blog/changelog/2026-04-02-copilot-usage-metrics-now-includes-per-user-github-copilot-cli-activity-in-organization-reports
+2026-04-03 | https://www.reuters.com/technology/does-ai-business-model-have-fatal-flaw-2026-04-01/
+2026-04-03 | https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/
+2026-04-03 | https://www.anthropic.com/research/emotion-concepts-function
 2026-04-02 | https://github.blog/changelog/2026-04-01-research-plan-and-code-with-copilot-cloud-agent
 2026-04-02 | https://github.blog/changelog/2026-04-01-github-mobile-stay-in-flow-with-a-refreshed-copilot-tab-and-native-session-logs
 2026-04-02 | https://github.blog/changelog/2026-04-01-github-mobile-faster-more-flexible-agent-assignment-from-issues
@@ -160,7 +181,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 - **Gesamt Recherche-Läufe:** 10
 - **Gesamt erfasste Meldungen:** 167
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-02
+- **Letzter Lauf:** 2026-04-03
 
 ---
 
