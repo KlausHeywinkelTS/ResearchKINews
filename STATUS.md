@@ -10,6 +10,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
 | 2026-04-05 | 20 | 4 | – | – |
+| 2026-04-04 | 20 | 4 | – | – |
+| 2026-04-03 | 20 | 5 | – | – |
+| 2026-04-02 | 20 | 4 | – | – |
 | 2026-04-01 | 21 | 4 | – | – |
 | 2026-03-31 | 10 | 2 | – | – |
 | 2026-03-30 | 11 | 2 | – | – |
@@ -50,6 +53,66 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-05 | https://apnews.com/article/georgia-data-centers-ai-electricity-rates-elections-5fb0134850e2222a7089444e203e2bc0
 2026-04-05 | https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made
 2026-04-05 | https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/
+2026-04-04 | https://openai.com/index/codex-flexible-pricing-for-teams/
+2026-04-04 | https://blog.google/products-and-platforms/products/workspace/google-vids-updates-march-2026
+2026-04-04 | https://github.blog/changelog/2026-04-02-copilot-sdk-in-public-preview
+2026-04-04 | https://github.blog/changelog/2026-04-02-github-copilot-in-visual-studio-march-update/
+2026-04-04 | https://github.blog/changelog/2026-04-02-copilot-organization-custom-instructions-are-generally-available
+2026-04-04 | https://github.blog/changelog/2026-04-02-copilot-usage-metrics-now-includes-per-user-github-copilot-cli-activity-in-organization-reports/
+2026-04-04 | https://github.blog/changelog/2026-04-03-copilot-cloud-agent-signs-its-commits/
+2026-04-04 | https://github.blog/changelog/2026-04-03-organization-runner-controls-for-copilot-cloud-agent
+2026-04-04 | https://github.blog/changelog/2026-04-03-organization-firewall-settings-for-copilot-cloud-agent
+2026-04-04 | https://github.blog/changelog/2026-04-03-gpt-5-1-codex-gpt-5-1-codex-max-and-gpt-5-1-codex-mini-deprecated
+2026-04-04 | https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/
+2026-04-04 | https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/
+2026-04-04 | https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/
+2026-04-04 | https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/
+2026-04-04 | https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made
+2026-04-04 | https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban
+2026-04-04 | https://openai.com/index/openai-acquires-tbpn/
+2026-04-04 | https://huggingface.co/blog/davidberenstein1957/announcing-giskard-open-source-v3
+2026-04-04 | https://huggingface.co/blog/collinear-ai/yc-bench
+2026-04-04 | https://arxiv.org/abs/2604.01527
+2026-04-03 | https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/
+2026-04-03 | https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/
+2026-04-03 | https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/
+2026-04-03 | https://openai.com/index/codex-flexible-pricing-for-teams/
+2026-04-03 | https://github.blog/changelog/2026-04-01-research-plan-and-code-with-copilot-cloud-agent
+2026-04-03 | https://github.blog/changelog/2026-04-02-copilot-sdk-in-public-preview
+2026-04-03 | https://github.blog/changelog/2026-04-02-copilot-organization-custom-instructions-are-generally-available
+2026-04-03 | https://github.blog/changelog/2026-04-02-github-copilot-in-visual-studio-march-update
+2026-04-03 | https://github.blog/changelog/2026-04-01-github-mobile-stay-in-flow-with-a-refreshed-copilot-tab-and-native-session-logs
+2026-04-03 | https://github.blog/changelog/2026-04-01-github-mobile-faster-more-flexible-agent-assignment-from-issues
+2026-04-03 | https://github.blog/changelog/2026-04-01-gpt-5-4-mini-is-now-available-in-copilot-student-auto-model-selection
+2026-04-03 | https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-mai-transcribe-1-mai-voice-1-and-mai-image-2-in-microsoft-foundry/4507787
+2026-04-03 | https://cloud.google.com/blog/products/ai-machine-learning/gemma-4-available-on-google-cloud
+2026-04-03 | https://www.microsoft.com/en-us/security/blog/2026/04/02/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/
+2026-04-03 | https://apnews.com/article/ai-pentagon-anthropic-claude-hegseth-trump-b24b0197f87658d0e8a60790a4c969a2
+2026-04-03 | https://openai.com/index/openai-acquires-tbpn/
+2026-04-03 | https://github.blog/changelog/2026-04-02-copilot-usage-metrics-now-includes-per-user-github-copilot-cli-activity-in-organization-reports
+2026-04-03 | https://www.reuters.com/technology/does-ai-business-model-have-fatal-flaw-2026-04-01/
+2026-04-03 | https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/
+2026-04-03 | https://www.anthropic.com/research/emotion-concepts-function
+2026-04-02 | https://github.blog/changelog/2026-04-01-research-plan-and-code-with-copilot-cloud-agent
+2026-04-02 | https://github.blog/changelog/2026-04-01-github-mobile-stay-in-flow-with-a-refreshed-copilot-tab-and-native-session-logs
+2026-04-02 | https://github.blog/changelog/2026-04-01-github-mobile-faster-more-flexible-agent-assignment-from-issues
+2026-04-02 | https://github.blog/changelog/2026-04-01-gpt-5-4-mini-is-now-available-in-copilot-student-auto-model-selection
+2026-04-02 | https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update
+2026-04-02 | https://www.theverge.com/tech/904976/googles-ai-inbox-expands-to-ultra-subscribers
+2026-04-02 | https://www.engadget.com/ai/google-gemini-now-lets-you-import-your-chats-and-data-from-other-ai-apps-225711015.html
+2026-04-02 | https://www.engadget.com/ai/ai-mode-in-google-search-can-now-pull-context-from-your-other-apps-160000103.html
+2026-04-02 | https://www.engadget.com/ai/gemini-3-is-now-googles-default-model-for-ai-overviews-170000302.html
+2026-04-02 | https://www.engadget.com/ai/google-is-testing-search-live-in-more-markets-150000316.html
+2026-04-02 | https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china
+2026-04-02 | https://www.engadget.com/ai/a-meta-agentic-ai-sparked-a-security-incident-by-acting-without-permission-224013384.html
+2026-04-02 | https://www.reuters.com/practical-law-the-journal/transactional/agentic-ai-greater-capabilities-enhanced-risks-2026-04-01/
+2026-04-02 | https://about.fb.com/news/2026/03/meta-launches-new-anti-scam-tools-deploys-ai-technology-to-fight-scammers-and-protect-people/
+2026-04-02 | https://developers.googleblog.com/developers-guide-to-building-adk-agents-with-skills/
+2026-04-02 | https://developers.googleblog.com/adk-go-10-arrives/
+2026-04-02 | https://developers.googleblog.com/boost-training-goodput-how-continuous-checkpointing-optimizes-reliability-in-orbax-and-maxtext/
+2026-04-02 | https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/
+2026-04-02 | https://blog.google/products-and-platforms/products/search/gemini-3-ai-mode-more-countries/
+2026-04-02 | https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/
 2026-04-01 | https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/
 2026-04-01 | https://github.blog/changelog/2026-03-30-create-issues-from-slack-with-copilot/
 2026-04-01 | https://github.blog/changelog/2026-03-31-upcoming-deprecation-of-claude-sonnet-4-in-github-copilot/
@@ -97,6 +160,60 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-03-29 | https://about.fb.com/news/2026/03/bringing-more-international-news-and-content-to-meta-ai/
 2026-03-29 | https://www.theverge.com/ai-artificial-intelligence/902272/anthropics-apparent-security-lapse-yielded-details-of-its-next-model-release
 2026-03-29 | https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/
+2026-03-28 | https://www.cnbc.com/2026/03/26/openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.html
+2026-03-28 | https://github.blog/changelog/2026-03-26-ask-copilot-to-resolve-merge-conflicts-on-pull-requests/
+2026-03-28 | https://developers.openai.com/codex/changelog
+2026-03-28 | https://blog.whatsapp.com/new-feature-roundup-free-up-space-multiple-accounts-cross-platform-transfer-and-more
+2026-03-28 | https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27
+2026-03-28 | https://github.blog/changelog/2026-03-26-gemini-3-pro-deprecated/
+2026-03-28 | https://docs.mistral.ai/models/mistral-moderation-26-03
+2026-03-28 | https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history
+2026-03-28 | https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses
+2026-03-28 | https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion
+2026-03-28 | https://techcrunch.com/2026/03/26/google-translates-real-time-headphone-translations-feature-expands-to-ios-and-more-countries/
+2026-03-28 | https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html
+2026-03-28 | https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html
+2026-03-28 | https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy
+2026-03-28 | https://www.cnbc.com/2026/03/26/google-ai-turboquant-memory-chip-stocks-samsung-micron.html
+2026-03-28 | https://www.reuters.com/business/energy/ceraweek-constellation-exec-says-grid-operator-told-company-three-mile-island-2026-03-26/
+2026-03-28 | https://arxiv.org/abs/2603.25500
+2026-03-28 | https://arxiv.org/abs/2603.25537
+2026-03-28 | https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human-judgment/
+2026-03-27 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/
+2026-03-27 | https://blog.google/products-and-platforms/products/search/search-live-global-expansion/
+2026-03-27 | https://blog.google/innovation-and-ai/products/gemini-app/switch-to-gemini-app/
+2026-03-27 | https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/
+2026-03-27 | https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/
+2026-03-27 | https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/
+2026-03-27 | https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/
+2026-03-27 | https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/
+2026-03-27 | https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/
+2026-03-27 | https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/
+2026-03-27 | https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/
+2026-03-27 | https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6
+2026-03-27 | https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/
+2026-03-27 | https://www.reuters.com/commentary/breakingviews/how-big-techs-630-bln-ai-splurge-will-fall-short-2026-03-26/
+2026-03-27 | https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art
+2026-03-26 | https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+2026-03-26 | https://blog.google/innovation-and-ai/products/gemini-app/android-multi-step-tasks/
+2026-03-26 | https://openai.com/index/safety-bug-bounty/
+2026-03-26 | https://www.anthropic.com/research/economic-index-march-2026-report
+2026-03-26 | https://openai.com/index/powering-product-discovery-in-chatgpt/
+2026-03-26 | https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/
+2026-03-26 | https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/
+2026-03-26 | https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/
+2026-03-26 | https://github.blog/changelog/2026-03-25-github-copilot-for-jira-public-preview-enhancements
+2026-03-26 | https://github.blog/changelog/2026-03-25-copilot-usage-metrics-now-identify-active-copilot-coding-agent-users
+2026-03-26 | https://github.blog/changelog/2026-03-24-ask-copilot-to-make-changes-to-any-pull-request
+2026-03-26 | https://www.reuters.com/sustainability/boards-policy-regulation/google-label-verified-investment-apps-india-amid-scam-crackdown-2026-03-25/
+2026-03-26 | https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode
+2026-03-26 | https://openai.com/index/our-approach-to-the-model-spec/
+2026-03-26 | https://www.theverge.com/ai-artificial-intelligence/901014/apples-deal-with-google-lets-it-use-gemini-to-train-smaller-ai-models
+2026-03-26 | https://openai.com/index/update-on-the-openai-foundation/
+2026-03-26 | https://www.reuters.com/business/arm-jumps-new-ai-chip-drive-billions-annual-revenue-2026-03-25/
+2026-03-26 | https://www.reuters.com/business/autos-transportation/ai-boom-accelerates-chinas-chip-industry-growth-demand-strains-supply-chain-2026-03-25/
+2026-03-26 | https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/
+2026-03-26 | https://venturebeat.com/orchestration/how-xmemory-cuts-token-costs-and-context-bloat-in-ai-agents/
 ```
 
 ---
