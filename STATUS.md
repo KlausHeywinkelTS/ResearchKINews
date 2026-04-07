@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-06 | 10 | 3 | – | – |
 | 2026-04-05 | 20 | 4 | – | – |
 | 2026-04-04 | 20 | 4 | – | – |
 | 2026-04-03 | 20 | 5 | – | – |
@@ -33,6 +34,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-06 | https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/
+2026-04-06 | https://developers.cloudflare.com/changelog/post/2026-04-04-gemma-4-26b-a4b-workers-ai/
+2026-04-06 | https://www.theverge.com/tech/907015/gemini-google-maps-hands-on
+2026-04-06 | https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers
+2026-04-06 | https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga
+2026-04-06 | https://on.theverge.com/tech/906453/human-made-ai-free-logo-creative-content
+2026-04-06 | https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html
+2026-04-06 | https://www.theverge.com/ai-artificial-intelligence/907083/a-company-that-makes-ai-training-data-has-been-hit-by-a-security-breach
+2026-04-06 | https://www.theverge.com/entertainment/907137/the-writers-guild-reached-a-four-year-deal-with-the-studios-with-increased-ai-protections
+2026-04-06 | https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright
 2026-04-05 | https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban
 2026-04-05 | https://workspace.google.com/blog/product-announcements/workspace-drops-create-and-share-videos-with-ai-in-google-vids
 2026-04-05 | https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/
@@ -221,9 +232,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 10
-- **Gesamt erfasste Meldungen:** 167
+- **Gesamt erfasste Meldungen:** 157
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-05
+- **Letzter Lauf:** 2026-04-06
 
 ---
 
