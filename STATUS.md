@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-02 | 20 | 4 | – | – |
 | 2026-04-01 | 21 | 4 | – | – |
 | 2026-03-31 | 10 | 2 | – | – |
 | 2026-03-30 | 11 | 2 | – | – |
@@ -29,6 +30,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-02 | https://github.blog/changelog/2026-04-01-research-plan-and-code-with-copilot-cloud-agent
+2026-04-02 | https://github.blog/changelog/2026-04-01-github-mobile-stay-in-flow-with-a-refreshed-copilot-tab-and-native-session-logs
+2026-04-02 | https://github.blog/changelog/2026-04-01-github-mobile-faster-more-flexible-agent-assignment-from-issues
+2026-04-02 | https://github.blog/changelog/2026-04-01-gpt-5-4-mini-is-now-available-in-copilot-student-auto-model-selection
+2026-04-02 | https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update
+2026-04-02 | https://www.theverge.com/tech/904976/googles-ai-inbox-expands-to-ultra-subscribers
+2026-04-02 | https://www.engadget.com/ai/google-gemini-now-lets-you-import-your-chats-and-data-from-other-ai-apps-225711015.html
+2026-04-02 | https://www.engadget.com/ai/ai-mode-in-google-search-can-now-pull-context-from-your-other-apps-160000103.html
+2026-04-02 | https://www.engadget.com/ai/gemini-3-is-now-googles-default-model-for-ai-overviews-170000302.html
+2026-04-02 | https://www.engadget.com/ai/google-is-testing-search-live-in-more-markets-150000316.html
+2026-04-02 | https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china
+2026-04-02 | https://www.engadget.com/ai/a-meta-agentic-ai-sparked-a-security-incident-by-acting-without-permission-224013384.html
+2026-04-02 | https://www.reuters.com/practical-law-the-journal/transactional/agentic-ai-greater-capabilities-enhanced-risks-2026-04-01/
+2026-04-02 | https://about.fb.com/news/2026/03/meta-launches-new-anti-scam-tools-deploys-ai-technology-to-fight-scammers-and-protect-people/
+2026-04-02 | https://developers.googleblog.com/developers-guide-to-building-adk-agents-with-skills/
+2026-04-02 | https://developers.googleblog.com/adk-go-10-arrives/
+2026-04-02 | https://developers.googleblog.com/boost-training-goodput-how-continuous-checkpointing-optimizes-reliability-in-orbax-and-maxtext/
+2026-04-02 | https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/
+2026-04-02 | https://blog.google/products-and-platforms/products/search/gemini-3-ai-mode-more-countries/
+2026-04-02 | https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/
 2026-04-01 | https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/
 2026-04-01 | https://github.blog/changelog/2026-03-30-create-issues-from-slack-with-copilot/
 2026-04-01 | https://github.blog/changelog/2026-03-31-upcoming-deprecation-of-claude-sonnet-4-in-github-copilot/
@@ -130,36 +151,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-03-26 | https://www.reuters.com/business/autos-transportation/ai-boom-accelerates-chinas-chip-industry-growth-demand-strains-supply-chain-2026-03-25/
 2026-03-26 | https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/
 2026-03-26 | https://venturebeat.com/orchestration/how-xmemory-cuts-token-costs-and-context-bloat-in-ai-agents/
-2026-03-25 | https://claude.com/blog/dispatch-and-computer-use
-2026-03-25 | https://claude.com/blog/auto-mode
-2026-03-25 | https://openai.com/index/teen-safety-policies-gpt-oss-safeguard/
-2026-03-25 | https://blog.google/products-and-platforms/platforms/google-tv/new-gemini-features-march-2026/
-2026-03-25 | https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features
-2026-03-25 | https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/
-2026-03-25 | https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/
-2026-03-25 | https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/
-2026-03-25 | https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app
-2026-03-25 | https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/
-2026-03-25 | https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/
-2026-03-25 | https://today.reuters.com/business/openai-non-profit-names-leaders-plans-spend-1-billion-this-year-bloomberg-news-2026-03-24/
-2026-03-25 | https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/
-2026-03-25 | https://www.cnbc.com/2026/03/24/openai-secures-an-extra-10-billion-in-record-funding-round-cfo-friar-says.html
-2026-03-25 | https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/
-2026-03-25 | https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/
-2026-03-25 | https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/
-2026-03-25 | https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/
-2026-03-25 | https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/
-2026-03-25 | https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 9
-- **Gesamt erfasste Meldungen:** 147
+- **Gesamt Recherche-Läufe:** 10
+- **Gesamt erfasste Meldungen:** 167
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-01
+- **Letzter Lauf:** 2026-04-02
 
 ---
 
