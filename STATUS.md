@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-07 | 21 | 5 | – | – |
 | 2026-04-06 | 10 | 3 | – | – |
 | 2026-04-05 | 20 | 4 | – | – |
 | 2026-04-04 | 20 | 4 | – | – |
@@ -34,6 +35,27 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-07 | https://www.anthropic.com/news/google-broadcom-partnership-compute
+2026-04-07 | https://www.reuters.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-2026-04-06/
+2026-04-07 | https://www.theverge.com/ai-artificial-intelligence/907778/google-ai-edge-eloquent-launch
+2026-04-07 | https://www.axios.com/2026/04/06/meta-open-source-ai-models
+2026-04-07 | https://www.reuters.com/technology/nvidia-acquisition-schedmd-sparks-worry-among-ai-specialists-about-software-2026-04-06/
+2026-04-07 | https://www.theverge.com/tech/907015/gemini-google-maps-hands-on
+2026-04-07 | https://venturebeat.com/security/ai-agents-that-automatically-prevent-detect-and-fix-software-issues-are-here
+2026-04-07 | https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/
+2026-04-07 | https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/
+2026-04-07 | https://openai.com/index/industrial-policy-for-the-intelligence-age/
+2026-04-07 | https://www.reuters.com/legal/litigation/openai-urges-california-delaware-investigate-musks-anti-competitive-behavior-2026-04-06/
+2026-04-07 | https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat
+2026-04-07 | https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers
+2026-04-07 | https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga
+2026-04-07 | https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content
+2026-04-07 | https://www.theverge.com/entertainment/907137/the-writers-guild-reached-a-four-year-deal-with-the-studios-with-increased-ai-protections
+2026-04-07 | https://venturebeat.com/orchestration/how-massmutual-and-mass-general-brigham-turned-ai-pilot-sprawl-into
+2026-04-07 | https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/
+2026-04-07 | https://www.reuters.com/world/china/china-targets-taiwans-chip-prowess-evade-global-containment-taipei-government-2026-04-07/
+2026-04-07 | https://venturebeat.com/business/coyotiv-and-openserv-are-working-to-cut-ai-reasoning-costs
+2026-04-07 | https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/
 2026-04-06 | https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/
 2026-04-06 | https://developers.cloudflare.com/changelog/post/2026-04-04-gemma-4-26b-a4b-workers-ai/
 2026-04-06 | https://www.theverge.com/tech/907015/gemini-google-maps-hands-on
@@ -232,9 +254,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 10
-- **Gesamt erfasste Meldungen:** 157
+- **Gesamt erfasste Meldungen:** 168
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-06
+- **Letzter Lauf:** 2026-04-07
 
 ---
 
