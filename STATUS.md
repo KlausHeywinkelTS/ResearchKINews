@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-05 | 20 | 4 | – | – |
 | 2026-04-04 | 20 | 4 | – | – |
 | 2026-04-03 | 20 | 5 | – | – |
 | 2026-04-02 | 20 | 4 | – | – |
@@ -32,6 +33,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-05 | https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban
+2026-04-05 | https://workspace.google.com/blog/product-announcements/workspace-drops-create-and-share-videos-with-ai-in-google-vids
+2026-04-05 | https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/
+2026-04-05 | https://www.theverge.com/ai-artificial-intelligence/907083/a-company-that-makes-ai-training-data-has-been-hit-by-a-security-breach
+2026-04-05 | https://cloud.google.com/blog/products/ai-machine-learning/veo-3-1-lite-and-a-new-veo-upscaling-capability-on-vertex-ai
+2026-04-05 | https://cloud.google.com/blog/products/ai-machine-learning/gemma-4-available-on-google-cloud
+2026-04-05 | https://github.blog/changelog/2026-04-03-copilot-cloud-agent-signs-its-commits/
+2026-04-05 | https://github.blog/changelog/2026-04-03-organization-runner-controls-for-copilot-cloud-agent
+2026-04-05 | https://github.blog/changelog/2026-04-03-organization-firewall-settings-for-copilot-cloud-agent
+2026-04-05 | https://github.blog/changelog/2026-04-03-gpt-5-1-codex-gpt-5-1-codex-max-and-gpt-5-1-codex-mini-deprecated/
+2026-04-05 | https://cloud.google.com/blog/products/networking/the-case-for-envoy-networking-in-the-agentic-ai-era
+2026-04-05 | https://www.theverge.com/ai-artificial-intelligence/906726/lawsuit-accuses-perplexity-of-sharing-conversations-with-meta-and-google
+2026-04-05 | https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs
+2026-04-05 | https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content
+2026-04-05 | https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright
+2026-04-05 | https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/
+2026-04-05 | https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/
+2026-04-05 | https://apnews.com/article/georgia-data-centers-ai-electricity-rates-elections-5fb0134850e2222a7089444e203e2bc0
+2026-04-05 | https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made
+2026-04-05 | https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/
 2026-04-04 | https://openai.com/index/codex-flexible-pricing-for-teams/
 2026-04-04 | https://blog.google/products-and-platforms/products/workspace/google-vids-updates-march-2026
 2026-04-04 | https://github.blog/changelog/2026-04-02-copilot-sdk-in-public-preview
@@ -202,7 +223,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 - **Gesamt Recherche-Läufe:** 10
 - **Gesamt erfasste Meldungen:** 167
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-04
+- **Letzter Lauf:** 2026-04-05
 
 ---
 
