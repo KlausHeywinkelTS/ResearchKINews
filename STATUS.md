@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-04 | 20 | 4 | – | – |
 | 2026-04-03 | 20 | 5 | – | – |
 | 2026-04-02 | 20 | 4 | – | – |
 | 2026-04-01 | 21 | 4 | – | – |
@@ -31,6 +32,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-04 | https://openai.com/index/codex-flexible-pricing-for-teams/
+2026-04-04 | https://blog.google/products-and-platforms/products/workspace/google-vids-updates-march-2026
+2026-04-04 | https://github.blog/changelog/2026-04-02-copilot-sdk-in-public-preview
+2026-04-04 | https://github.blog/changelog/2026-04-02-github-copilot-in-visual-studio-march-update/
+2026-04-04 | https://github.blog/changelog/2026-04-02-copilot-organization-custom-instructions-are-generally-available
+2026-04-04 | https://github.blog/changelog/2026-04-02-copilot-usage-metrics-now-includes-per-user-github-copilot-cli-activity-in-organization-reports/
+2026-04-04 | https://github.blog/changelog/2026-04-03-copilot-cloud-agent-signs-its-commits/
+2026-04-04 | https://github.blog/changelog/2026-04-03-organization-runner-controls-for-copilot-cloud-agent
+2026-04-04 | https://github.blog/changelog/2026-04-03-organization-firewall-settings-for-copilot-cloud-agent
+2026-04-04 | https://github.blog/changelog/2026-04-03-gpt-5-1-codex-gpt-5-1-codex-max-and-gpt-5-1-codex-mini-deprecated
+2026-04-04 | https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/
+2026-04-04 | https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/
+2026-04-04 | https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/
+2026-04-04 | https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/
+2026-04-04 | https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made
+2026-04-04 | https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban
+2026-04-04 | https://openai.com/index/openai-acquires-tbpn/
+2026-04-04 | https://huggingface.co/blog/davidberenstein1957/announcing-giskard-open-source-v3
+2026-04-04 | https://huggingface.co/blog/collinear-ai/yc-bench
+2026-04-04 | https://arxiv.org/abs/2604.01527
 2026-04-03 | https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/
 2026-04-03 | https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/
 2026-04-03 | https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/
@@ -181,7 +202,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 - **Gesamt Recherche-Läufe:** 10
 - **Gesamt erfasste Meldungen:** 167
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-03
+- **Letzter Lauf:** 2026-04-04
 
 ---
 
