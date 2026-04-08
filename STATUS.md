@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-08 | 20 | 4 | – | – |
 | 2026-04-07 | 22 | 5 | – | – |
 | 2026-04-06 | 10 | 3 | – | – |
 | 2026-04-05 | 20 | 4 | – | – |
@@ -35,6 +36,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-08 | https://www.anthropic.com/glasswing
+2026-04-08 | https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the
+2026-04-08 | https://github.blog/changelog/2026-04-07-dependabot-alerts-are-now-assignable-to-ai-agents-for-remediation
+2026-04-08 | https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest
+2026-04-08 | https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models
+2026-04-08 | https://cognition.ai/blog/swe-1-6
+2026-04-08 | https://blog.google/intl/en-in/products/explore-communicate/new-ways-google-is-using-ai-to-make-shopping-easier/
+2026-04-08 | https://www.zdnet.com/article/google-photos-ai-enhance-tool-cropping-lighting-fixes-limitations/
+2026-04-08 | https://www.businesswire.com/news/home/20260407067312/en/TestRail-Launches-AI-Test-Script-Generation-to-Eliminate-Boilerplate-Coding-for-Automation-Engineers
+2026-04-08 | https://www.globenewswire.com/news-release/2026/04/07/3269425/0/en/eGain-Announces-Enterprise-AI-Platform-Connectors-for-Copilot-Claude-Gemini-and-Cursor.html
+2026-04-08 | https://www.globenewswire.com/news-release/2026/04/07/3269062/0/en/Miovision-Introduces-Mateo-First-GenAI-Agent-for-Traffic-Engineering.html
+2026-04-08 | https://www.theverge.com/ai-artificial-intelligence/906940/godaddy-hosted-sites-can-now-manage-access-to-ai-crawlers
+2026-04-08 | https://blog.google/innovation-and-ai/technology/health/mental-health-updates/
+2026-04-08 | https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement
+2026-04-08 | https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing
+2026-04-08 | https://github.blog/changelog/2026-04-06-copilot-usage-metrics-now-identify-active-and-passive-copilot-code-review-users
+2026-04-08 | https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/
+2026-04-08 | https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla
+2026-04-08 | https://www.reuters.com/commentary/breakingviews/ai-dreams-crash-into-stark-7-trln-reality-2026-04-07/
+2026-04-08 | https://huggingface.co/blog/lujangusface/tw-eagle3-gemma4
 2026-04-07 | https://www.anthropic.com/news/google-broadcom-partnership-compute
 2026-04-07 | https://www.reuters.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-2026-04-06/
 2026-04-07 | https://www.theverge.com/ai-artificial-intelligence/907778/google-ai-edge-eloquent-launch
@@ -125,36 +146,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-02 | https://blog.google/products-and-platforms/products/search/gemini-3-ai-mode-more-countries/
 2026-04-02 | https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/
 2026-04-01 | https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/
-2026-04-01 | https://github.blog/changelog/2026-03-30-create-issues-from-slack-with-copilot/
-2026-04-01 | https://github.blog/changelog/2026-03-31-upcoming-deprecation-of-claude-sonnet-4-in-github-copilot/
-2026-04-01 | https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/
-2026-04-01 | https://apnews.com/article/google-maps-ai-gemini-update-1933c40eaecfdbb9aa54d8ae3efcec2e
-2026-04-01 | https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt
-2026-04-01 | https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats
-2026-04-01 | https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop
-2026-04-01 | https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak
-2026-04-01 | https://www.engadget.com/ai/wikipedia-has-banned-ai-generated-articles-173641377.html
-2026-04-01 | https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs
-2026-04-01 | https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/
-2026-04-01 | https://www.reuters.com/business/energy/microsoft-chevron-engine-no-1-sign-exclusive-deal-power-supply-2026-03-31/
-2026-04-01 | https://www.reuters.com/technology/nebius-furthers-european-expansion-with-10-billion-ai-data-centre-finland-2026-03-31/
-2026-04-01 | https://www.reuters.com/business/world-at-work/oracle-begins-cutting-thousands-jobs-cnbc-reports-2026-03-31/
-2026-04-01 | https://www.reuters.com/world/china/big-techs-635-billion-ai-spending-faces-energy-shock-test-sp-global-says-2026-03-31/
-2026-04-01 | https://venturebeat.com/technology/softr-launches-ai-native-platform-to-help-nontechnical-teams-build-business
-2026-04-01 | https://venturebeat.com/data/imagine-if-your-teams-or-slack-messages-automatically-turned-into-secure
-2026-04-01 | https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
-2026-04-01 | https://huggingface.co/blog/ibm-granite/granite-4-vision
-2026-04-01 | https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 15
-- **Gesamt erfasste Meldungen:** 259
+- **Gesamt Recherche-Läufe:** 16
+- **Gesamt erfasste Meldungen:** 279
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-07
+- **Letzter Lauf:** 2026-04-08
 
 ---
 
