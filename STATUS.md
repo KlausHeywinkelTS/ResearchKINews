@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-09 | 14 | 4 | – | – |
 | 2026-04-08 | 20 | 4 | – | – |
 | 2026-04-07 | 22 | 5 | – | – |
 | 2026-04-06 | 10 | 3 | – | – |
@@ -36,6 +37,20 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-09 | https://www.atlassian.com/blog/announcements/rovo-remix-3p-agents-confluence
+2026-04-09 | https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout
+2026-04-09 | https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/
+2026-04-09 | https://openai.com/index/next-phase-of-enterprise-ai/
+2026-04-09 | https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/
+2026-04-09 | https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/
+2026-04-09 | https://openai.com/index/introducing-child-safety-blueprint/
+2026-04-09 | https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/
+2026-04-09 | https://www.theverge.com/ai-artificial-intelligence/909037/anthropic-loses-an-appeal-attempting-to-pause-its-supply-chain-risk-designation
+2026-04-09 | https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them
+2026-04-09 | https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/
+2026-04-09 | https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/
+2026-04-09 | https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases
+2026-04-09 | https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the
 2026-04-08 | https://www.anthropic.com/glasswing
 2026-04-08 | https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the
 2026-04-08 | https://github.blog/changelog/2026-04-07-dependabot-alerts-are-now-assignable-to-ai-agents-for-remediation
@@ -145,17 +160,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-02 | https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/
 2026-04-02 | https://blog.google/products-and-platforms/products/search/gemini-3-ai-mode-more-countries/
 2026-04-02 | https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/
-2026-04-01 | https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 16
-- **Gesamt erfasste Meldungen:** 279
+- **Gesamt Recherche-Läufe:** 17
+- **Gesamt erfasste Meldungen:** 293
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-08
+- **Letzter Lauf:** 2026-04-09
 
 ---
 
