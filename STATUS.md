@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-10 | 12 | 4 | – | – |
 | 2026-04-09 | 14 | 4 | – | – |
 | 2026-04-08 | 20 | 4 | – | – |
 | 2026-04-07 | 22 | 5 | – | – |
@@ -37,6 +38,19 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-10 | https://docs.anthropic.com/en/release-notes/api
+2026-04-10 | https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations
+2026-04-10 | https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/
+2026-04-10 | https://github.blog/changelog/2026-04-08-github-copilot-in-visual-studio-code-march-releases
+2026-04-10 | https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar
+2026-04-10 | https://workspaceupdates.googleblog.com/2026/04/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-devices.html
+2026-04-10 | https://github.blog/changelog/2026-04-08-github-mobile-research-and-code-with-copilot-cloud-agent-anywhere
+2026-04-10 | https://appleinsider.com/articles/26/04/08/remote-desktop-for-mac-is-shifting-toward-ai-workloads-with-workbench
+2026-04-10 | https://github.blog/changelog/2026-04-08-copilot-reviewed-pull-request-merge-metrics-now-in-the-usage-metrics-api
+2026-04-10 | https://www.anthropic.com/research/trustworthy-agents?aff=BbMy6
+2026-04-10 | https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/
+2026-04-10 | https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/
+2026-04-10 | https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/
 2026-04-09 | https://www.atlassian.com/blog/announcements/rovo-remix-3p-agents-confluence
 2026-04-09 | https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout
 2026-04-09 | https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/
@@ -144,32 +158,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-03 | https://www.reuters.com/technology/does-ai-business-model-have-fatal-flaw-2026-04-01/
 2026-04-03 | https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/
 2026-04-03 | https://www.anthropic.com/research/emotion-concepts-function
-2026-04-02 | https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update
-2026-04-02 | https://www.theverge.com/tech/904976/googles-ai-inbox-expands-to-ultra-subscribers
-2026-04-02 | https://www.engadget.com/ai/google-gemini-now-lets-you-import-your-chats-and-data-from-other-ai-apps-225711015.html
-2026-04-02 | https://www.engadget.com/ai/ai-mode-in-google-search-can-now-pull-context-from-your-other-apps-160000103.html
-2026-04-02 | https://www.engadget.com/ai/gemini-3-is-now-googles-default-model-for-ai-overviews-170000302.html
-2026-04-02 | https://www.engadget.com/ai/google-is-testing-search-live-in-more-markets-150000316.html
-2026-04-02 | https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china
-2026-04-02 | https://www.engadget.com/ai/a-meta-agentic-ai-sparked-a-security-incident-by-acting-without-permission-224013384.html
-2026-04-02 | https://www.reuters.com/practical-law-the-journal/transactional/agentic-ai-greater-capabilities-enhanced-risks-2026-04-01/
-2026-04-02 | https://about.fb.com/news/2026/03/meta-launches-new-anti-scam-tools-deploys-ai-technology-to-fight-scammers-and-protect-people/
-2026-04-02 | https://developers.googleblog.com/developers-guide-to-building-adk-agents-with-skills/
-2026-04-02 | https://developers.googleblog.com/adk-go-10-arrives/
-2026-04-02 | https://developers.googleblog.com/boost-training-goodput-how-continuous-checkpointing-optimizes-reliability-in-orbax-and-maxtext/
-2026-04-02 | https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/
-2026-04-02 | https://blog.google/products-and-platforms/products/search/gemini-3-ai-mode-more-countries/
-2026-04-02 | https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 17
-- **Gesamt erfasste Meldungen:** 293
+- **Gesamt Recherche-Läufe:** 18
+- **Gesamt erfasste Meldungen:** 305
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-09
+- **Letzter Lauf:** 2026-04-10
 
 ---
 
