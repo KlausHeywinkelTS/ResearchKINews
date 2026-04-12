@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-12 | 11 | 4 | – | – |
 | 2026-04-10 | 12 | 4 | – | – |
 | 2026-04-09 | 14 | 4 | – | – |
 | 2026-04-08 | 20 | 4 | – | – |
@@ -38,6 +39,17 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-12 | https://www.reuters.com/business/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-2026-04-11/
+2026-04-12 | https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/
+2026-04-12 | https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/
+2026-04-12 | https://github.blog/changelog/2026-04-10-enforcing-new-limits-and-retiring-opus-4-6-fast-from-copilot-pro
+2026-04-12 | https://github.blog/changelog/2026-04-10-pausing-new-github-copilot-pro-trials
+2026-04-12 | https://github.blog/changelog/2026-04-10-copilot-cloud-agents-validation-tools-are-now-20-faster
+2026-04-12 | https://github.blog/changelog/2026-04-10-copilot-usage-metrics-now-aggregate-copilot-cloud-agent-active-user-counts
+2026-04-12 | https://github.blog/changelog/2026-04-10-copilot-cli-activity-now-included-in-usage-metrics-totals-and-feature-breakdowns
+2026-04-12 | https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/
+2026-04-12 | https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/
+2026-04-12 | https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw
 2026-04-10 | https://docs.anthropic.com/en/release-notes/api
 2026-04-10 | https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations
 2026-04-10 | https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/
@@ -130,44 +142,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-05 | https://apnews.com/article/georgia-data-centers-ai-electricity-rates-elections-5fb0134850e2222a7089444e203e2bc0
 2026-04-05 | https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made
 2026-04-05 | https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/
-2026-04-04 | https://openai.com/index/codex-flexible-pricing-for-teams/
-2026-04-04 | https://blog.google/products-and-platforms/products/workspace/google-vids-updates-march-2026
-2026-04-04 | https://github.blog/changelog/2026-04-02-copilot-sdk-in-public-preview
-2026-04-04 | https://github.blog/changelog/2026-04-02-github-copilot-in-visual-studio-march-update/
-2026-04-04 | https://github.blog/changelog/2026-04-02-copilot-organization-custom-instructions-are-generally-available
-2026-04-04 | https://github.blog/changelog/2026-04-02-copilot-usage-metrics-now-includes-per-user-github-copilot-cli-activity-in-organization-reports/
-2026-04-04 | https://github.blog/changelog/2026-04-03-gpt-5-1-codex-gpt-5-1-codex-max-and-gpt-5-1-codex-mini-deprecated
-2026-04-04 | https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/
-2026-04-04 | https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/
-2026-04-04 | https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/
-2026-04-04 | https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/
-2026-04-04 | https://openai.com/index/openai-acquires-tbpn/
-2026-04-04 | https://huggingface.co/blog/davidberenstein1957/announcing-giskard-open-source-v3
-2026-04-04 | https://huggingface.co/blog/collinear-ai/yc-bench
-2026-04-04 | https://arxiv.org/abs/2604.01527
-2026-04-03 | https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/
-2026-04-03 | https://github.blog/changelog/2026-04-01-research-plan-and-code-with-copilot-cloud-agent
-2026-04-03 | https://github.blog/changelog/2026-04-02-github-copilot-in-visual-studio-march-update
-2026-04-03 | https://github.blog/changelog/2026-04-01-github-mobile-stay-in-flow-with-a-refreshed-copilot-tab-and-native-session-logs
-2026-04-03 | https://github.blog/changelog/2026-04-01-github-mobile-faster-more-flexible-agent-assignment-from-issues
-2026-04-03 | https://github.blog/changelog/2026-04-01-gpt-5-4-mini-is-now-available-in-copilot-student-auto-model-selection
-2026-04-03 | https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-mai-transcribe-1-mai-voice-1-and-mai-image-2-in-microsoft-foundry/4507787
-2026-04-03 | https://www.microsoft.com/en-us/security/blog/2026/04/02/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/
-2026-04-03 | https://apnews.com/article/ai-pentagon-anthropic-claude-hegseth-trump-b24b0197f87658d0e8a60790a4c969a2
-2026-04-03 | https://github.blog/changelog/2026-04-02-copilot-usage-metrics-now-includes-per-user-github-copilot-cli-activity-in-organization-reports
-2026-04-03 | https://www.reuters.com/technology/does-ai-business-model-have-fatal-flaw-2026-04-01/
-2026-04-03 | https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/
-2026-04-03 | https://www.anthropic.com/research/emotion-concepts-function
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 18
-- **Gesamt erfasste Meldungen:** 305
+- **Gesamt Recherche-Läufe:** 19
+- **Gesamt erfasste Meldungen:** 316
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-10
+- **Letzter Lauf:** 2026-04-12
 
 ---
 
