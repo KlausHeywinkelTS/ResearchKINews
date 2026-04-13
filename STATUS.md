@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-12 | 11 | 4 | – | – |
 | 2026-04-11 | 11 | 4 | – | – |
 | 2026-04-10 | 12 | 4 | – | – |
 | 2026-04-09 | 14 | 4 | – | – |
@@ -39,6 +40,17 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-12 | https://www.reuters.com/business/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-2026-04-11/
+2026-04-12 | https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/
+2026-04-12 | https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/
+2026-04-12 | https://github.blog/changelog/2026-04-10-enforcing-new-limits-and-retiring-opus-4-6-fast-from-copilot-pro
+2026-04-12 | https://github.blog/changelog/2026-04-10-pausing-new-github-copilot-pro-trials
+2026-04-12 | https://github.blog/changelog/2026-04-10-copilot-cloud-agents-validation-tools-are-now-20-faster
+2026-04-12 | https://github.blog/changelog/2026-04-10-copilot-usage-metrics-now-aggregate-copilot-cloud-agent-active-user-counts
+2026-04-12 | https://github.blog/changelog/2026-04-10-copilot-cli-activity-now-included-in-usage-metrics-totals-and-feature-breakdowns
+2026-04-12 | https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/
+2026-04-12 | https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/
+2026-04-12 | https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw
 2026-04-11 | https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community
 2026-04-11 | https://www.reuters.com/business/anthropic-weighs-building-it-own-ai-chips-sources-say-2026-04-09/
 2026-04-11 | https://www.reuters.com/legal/litigation/big-tech-puts-financial-heft-behind-next-gen-nuclear-power-ai-demand-surges-2026-04-10/
@@ -166,7 +178,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 - **Gesamt Recherche-Läufe:** 19
 - **Gesamt erfasste Meldungen:** 316
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-11
+- **Letzter Lauf:** 2026-04-12
 
 ---
 
