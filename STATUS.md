@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-13 | 10 | 4 | – | – |
 | 2026-04-12 | 11 | 4 | – | – |
 | 2026-04-11 | 11 | 4 | – | – |
 | 2026-04-10 | 12 | 4 | – | – |
@@ -40,6 +41,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-13 | https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/
+2026-04-13 | https://d2171.cms.socastsrm.com/2026/04/12/uk-financial-regulators-rush-to-assess-risks-of-anthropics-latest-ai-model-ft-reports/
+2026-04-13 | https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic
+2026-04-13 | https://www.theverge.com/ai-artificial-intelligence/910707/openai-responds-to-axios-http-hack-by-updating-security-certificates
+2026-04-13 | https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/
+2026-04-13 | https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion
+2026-04-13 | https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/
+2026-04-13 | https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/
+2026-04-13 | https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop
+2026-04-13 | https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai
 2026-04-12 | https://www.reuters.com/business/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-2026-04-11/
 2026-04-12 | https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/
 2026-04-12 | https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/
@@ -176,9 +187,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 19
-- **Gesamt erfasste Meldungen:** 316
+- **Gesamt erfasste Meldungen:** 315
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-12
+- **Letzter Lauf:** 2026-04-13
 
 ---
 
