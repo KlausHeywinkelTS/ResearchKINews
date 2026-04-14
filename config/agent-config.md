@@ -100,6 +100,47 @@ Jede Meldung erhält:
 [Vollständige URL-Liste aller Quellen]
 ```
 
+### Wochenrückschau-Format
+
+```markdown
+# KI-Wochenrückschau — [TT. Monat] bis [TT. Monat YYYY] (KW ##)
+
+> Zusammenfassung der täglichen KI-News-Berichte vom [TT.MM.] bis [TT.MM.YYYY].
+
+---
+
+## Das prägende Bild der Woche
+[2–3 Sätze: Übergreifendes Thema oder Stimmungsbild]
+
+---
+
+## Highlights nach Thema
+
+### [Thema 1, z.B. Agenten / Modelle / Infrastruktur / Sicherheit / Gesellschaft]
+[Fließtext, 3–6 Sätze, wichtigste Meldungen gebündelt]
+
+### [Thema 2 ...]
+...
+
+---
+
+## Woche in einem Satz
+[Prägnantes Fazit]
+
+---
+
+## Tagesberichte dieser Woche
+
+| Tag | Datei | Meldungen |
+|-----|-------|-----------|
+| [Wochentag, TT.MM.] | [YYYY-MM-DD.md](YYYY-MM-DD.md) | [Anzahl] |
+...
+
+---
+
+*Wochenrückschau erstellt: YYYY-MM-DD | Tagesberichte gesamt: N | Meldungen gesamt: ~N*
+```
+
 ### Eintragsformat pro Meldung
 
 ```markdown
@@ -114,7 +155,9 @@ Jede Meldung erhält:
 ## Speicherung
 
 - **Tagesberichte:** `reports/YYYY/MM/YYYY-MM-DD.md`
-- **Wochenberichte:** `reports/YYYY/MM/week-KW##.md`
+- **Wochenberichte:** `reports/YYYY/MM/week-YYYY-MM-DD_YYYY-MM-DD.md` (erster und letzter Tag des Zeitraums)
+  - Beispiel: `reports/2026/04/week-2026-04-01_2026-04-05.md`
+  - Wochenberichte werden **immer automatisch als Datei gespeichert**, ohne dass der Nutzer explizit darum bitten muss.
 - **Monatsberichte:** `reports/YYYY/MM/monat-trend.md`
 
 ---
@@ -132,6 +175,6 @@ Jede Meldung erhält:
 | Befehl | Aktion |
 |--------|--------|
 | `recherche starten` | Tägliche Recherche durchführen |
-| `woche zusammenfassen` | Wöchentliches Highlight-Summary erstellen |
+| `woche zusammenfassen` / `wochenrückschau` | Wöchentliches Highlight-Summary als MD-Datei speichern (`week-YYYY-MM-DD_YYYY-MM-DD.md`) |
 | `monat zusammenfassen` | Monatlichen Trend-Bericht erstellen |
 | `status anzeigen` | Aktuellen Stand der STATUS.md anzeigen |

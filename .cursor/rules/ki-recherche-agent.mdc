@@ -12,7 +12,7 @@ Dieses Projekt ist ein täglicher KI-Nachrichtenrecherche-Agent. Alle Konfigurat
 Wenn der Nutzer einen dieser Befehle eingibt, den entsprechenden Skill ausführen:
 
 - `recherche starten` → Tägliche Recherche durchführen (Skill: ki-recherche)
-- `woche zusammenfassen` → Wöchentliches Highlight-Summary erstellen
+- `woche zusammenfassen` / `wochenrückschau` / Anfragen wie „fasse die Woche … bis … zusammen" → Wöchentliches Highlight-Summary erstellen und als MD-Datei speichern
 - `monat zusammenfassen` → Monatlichen Trend-Bericht erstellen
 - `status anzeigen` → `STATUS.md` lesen und Übersicht ausgeben
 
@@ -25,7 +25,17 @@ Wenn der Nutzer einen dieser Befehle eingibt, den entsprechenden Skill ausführe
 5. `STATUS.md` mit neuen URLs und Lauf-Eintrag aktualisieren
 6. URL-Liste in `STATUS.md` begrenzen: max. 140 Eintraege, nur neueste behalten
 
-## Ausgabe
+## Pflichtschritte bei jeder Wochenrückschau
+
+1. Alle relevanten Tagesberichte im angefragten Zeitraum lesen (`reports/YYYY/MM/YYYY-MM-DD.md`)
+2. Highlights nach Themen bündeln (Agenten, Modelle, Infrastruktur, Sicherheit, Gesellschaft etc.)
+3. Wochenrückschau als MD-Datei speichern — **Pflicht, immer automatisch, ohne Nachfrage**
+4. Dateiname: `reports/YYYY/MM/week-YYYY-MM-DD_YYYY-MM-DD.md` (erster und letzter Tag des Zeitraums)
+   - Beispiel für KW 14: `reports/2026/04/week-2026-04-01_2026-04-05.md`
+   - Beispiel für KW 15: `reports/2026/04/week-2026-04-06_2026-04-12.md`
+5. Struktur der Wochenrückschau (siehe `config/agent-config.md`)
+
+## Ausgabe (Tagesberichte)
 
 - Sprache: Deutsch
 - Must-Reads immer ganz oben
