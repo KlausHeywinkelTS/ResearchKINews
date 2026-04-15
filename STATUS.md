@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-15 | 10 | 4 | – | – |
 | 2026-04-14 | 11 | 3 | – | – |
 | 2026-04-13 | 10 | 4 | – | – |
 | 2026-04-12 | 11 | 4 | – | – |
@@ -42,6 +43,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-15 | https://www.reuters.com/technology/openai-unveils-gpt-54-cyber-week-after-rivals-announcement-ai-model-2026-04-14/
+2026-04-15 | https://openai.com/index/cloudflare-openai-agent-cloud
+2026-04-15 | https://venturebeat.com/data/databricks-research-shows-multi-step-agents-consistently-outperform-single
+2026-04-15 | https://www.reuters.com/world/uk/boes-bailey-sees-major-cybersecurity-risks-new-anthropic-model-2026-04-14/
+2026-04-15 | https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/
+2026-04-15 | https://venturebeat.com/technology/microsoft-launches-mai-image-2-efficient-a-cheaper-and-faster-ai-image-model
+2026-04-15 | https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered
+2026-04-15 | https://venturebeat.com/orchestration/google-leaders-including-demis-hassabis-push-back-on-claim-of-uneven-ai-adoption-internally
+2026-04-15 | https://www.reuters.com/legal/litigation/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-banks-2026-04-13/
+2026-04-15 | https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds
 2026-04-14 | https://github.blog/changelog/2026-04-13-copilot-data-residency-in-us-eu-and-fedramp-compliance-now-available
 2026-04-14 | https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses
 2026-04-14 | https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic
@@ -128,38 +139,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-08 | https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla
 2026-04-08 | https://www.reuters.com/commentary/breakingviews/ai-dreams-crash-into-stark-7-trln-reality-2026-04-07/
 2026-04-08 | https://huggingface.co/blog/lujangusface/tw-eagle3-gemma4
-2026-04-07 | https://www.anthropic.com/news/google-broadcom-partnership-compute
-2026-04-07 | https://www.reuters.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-2026-04-06/
-2026-04-07 | https://www.theverge.com/ai-artificial-intelligence/907778/google-ai-edge-eloquent-launch
-2026-04-07 | https://www.axios.com/2026/04/06/meta-open-source-ai-models
-2026-04-07 | https://www.reuters.com/technology/nvidia-acquisition-schedmd-sparks-worry-among-ai-specialists-about-software-2026-04-06/
-2026-04-07 | https://www.theverge.com/tech/907015/gemini-google-maps-hands-on
-2026-04-07 | https://venturebeat.com/security/ai-agents-that-automatically-prevent-detect-and-fix-software-issues-are-here
-2026-04-07 | https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/
-2026-04-07 | https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/
-2026-04-07 | https://openai.com/index/industrial-policy-for-the-intelligence-age/
-2026-04-07 | https://www.reuters.com/legal/litigation/openai-urges-california-delaware-investigate-musks-anti-competitive-behavior-2026-04-06/
-2026-04-07 | https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat
-2026-04-07 | https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers
-2026-04-07 | https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga
-2026-04-07 | https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content
-2026-04-07 | https://www.theverge.com/entertainment/907137/the-writers-guild-reached-a-four-year-deal-with-the-studios-with-increased-ai-protections
-2026-04-07 | https://venturebeat.com/orchestration/how-massmutual-and-mass-general-brigham-turned-ai-pilot-sprawl-into
-2026-04-07 | https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/
-2026-04-07 | https://www.reuters.com/world/china/china-targets-taiwans-chip-prowess-evade-global-containment-taipei-government-2026-04-07/
-2026-04-07 | https://venturebeat.com/business/coyotiv-and-openserv-are-working-to-cut-ai-reasoning-costs
-2026-04-07 | https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/
-2026-04-07 | https://openai.com/index/introducing-openai-safety-fellowship/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 20
-- **Gesamt erfasste Meldungen:** 326
+- **Gesamt Recherche-Läufe:** 21
+- **Gesamt erfasste Meldungen:** 336
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-14
+- **Letzter Lauf:** 2026-04-15
 
 ---
 
