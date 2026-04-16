@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-16 | 12 | 4 | – | – |
 | 2026-04-15 | 10 | 4 | – | – |
 | 2026-04-14 | 11 | 3 | – | – |
 | 2026-04-13 | 10 | 4 | – | – |
@@ -43,6 +44,18 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-16 | https://blog.cloudflare.com/project-think/
+2026-04-16 | https://blog.cloudflare.com/browser-run-for-ai-agents/
+2026-04-16 | https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook/
+2026-04-16 | https://blog.cloudflare.com/introducing-agent-lee/
+2026-04-16 | https://github.blog/changelog/2026-04-14-model-selection-for-claude-and-codex-agents-on-github-com
+2026-04-16 | https://github.blog/changelog/2026-04-15-enable-copilot-cloud-agent-via-custom-properties
+2026-04-16 | https://blog.google/intl/en-in/products/personal-intelligence-launches-in-the-gemini-app-in-india/
+2026-04-16 | https://blog.google/intl/en-africa/google-launches-personal-intelligence-in-the-gemini-app-in-south-africa/
+2026-04-16 | https://workspaceupdates.googleblog.com/2026/04/gemini-in-google-classroom-is-now-available-in-all-Classroom-supported-languages.html
+2026-04-16 | https://blog.cloudflare.com/voice-agents/
+2026-04-16 | https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/
+2026-04-16 | https://blog.cloudflare.com/mesh/
 2026-04-15 | https://www.reuters.com/technology/openai-unveils-gpt-54-cyber-week-after-rivals-announcement-ai-model-2026-04-14/
 2026-04-15 | https://openai.com/index/cloudflare-openai-agent-cloud
 2026-04-15 | https://venturebeat.com/data/databricks-research-shows-multi-step-agents-consistently-outperform-single
@@ -119,36 +132,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-09 | https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/
 2026-04-09 | https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases
 2026-04-09 | https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the
-2026-04-08 | https://www.anthropic.com/glasswing
-2026-04-08 | https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the
-2026-04-08 | https://github.blog/changelog/2026-04-07-dependabot-alerts-are-now-assignable-to-ai-agents-for-remediation
-2026-04-08 | https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest
-2026-04-08 | https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models
-2026-04-08 | https://cognition.ai/blog/swe-1-6
-2026-04-08 | https://blog.google/intl/en-in/products/explore-communicate/new-ways-google-is-using-ai-to-make-shopping-easier/
-2026-04-08 | https://www.zdnet.com/article/google-photos-ai-enhance-tool-cropping-lighting-fixes-limitations/
-2026-04-08 | https://www.businesswire.com/news/home/20260407067312/en/TestRail-Launches-AI-Test-Script-Generation-to-Eliminate-Boilerplate-Coding-for-Automation-Engineers
-2026-04-08 | https://www.globenewswire.com/news-release/2026/04/07/3269425/0/en/eGain-Announces-Enterprise-AI-Platform-Connectors-for-Copilot-Claude-Gemini-and-Cursor.html
-2026-04-08 | https://www.globenewswire.com/news-release/2026/04/07/3269062/0/en/Miovision-Introduces-Mateo-First-GenAI-Agent-for-Traffic-Engineering.html
-2026-04-08 | https://www.theverge.com/ai-artificial-intelligence/906940/godaddy-hosted-sites-can-now-manage-access-to-ai-crawlers
-2026-04-08 | https://blog.google/innovation-and-ai/technology/health/mental-health-updates/
-2026-04-08 | https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement
-2026-04-08 | https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing
-2026-04-08 | https://github.blog/changelog/2026-04-06-copilot-usage-metrics-now-identify-active-and-passive-copilot-code-review-users
-2026-04-08 | https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/
-2026-04-08 | https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla
-2026-04-08 | https://www.reuters.com/commentary/breakingviews/ai-dreams-crash-into-stark-7-trln-reality-2026-04-07/
-2026-04-08 | https://huggingface.co/blog/lujangusface/tw-eagle3-gemma4
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 21
-- **Gesamt erfasste Meldungen:** 336
+- **Gesamt Recherche-Läufe:** 22
+- **Gesamt erfasste Meldungen:** 348
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-15
+- **Letzter Lauf:** 2026-04-16
 
 ---
 
