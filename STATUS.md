@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-17 | 10 | 4 | – | – |
 | 2026-04-16 | 12 | 4 | – | – |
 | 2026-04-15 | 10 | 4 | – | – |
 | 2026-04-14 | 11 | 3 | – | – |
@@ -44,6 +45,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-17 | https://openai.com/index/codex-for-almost-everything/
+2026-04-17 | https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents
+2026-04-17 | https://www.anthropic.com/news/claude-opus-4-7
+2026-04-17 | https://openai.com/index/the-next-evolution-of-the-agents-sdk/
+2026-04-17 | https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli/
+2026-04-17 | https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/
+2026-04-17 | https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/
+2026-04-17 | https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/
+2026-04-17 | https://blog.adobe.com/en/publish/2026/04/15/introducing-firefly-ai-assistant-new-way-create-with-our-creative-agent
+2026-04-17 | https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes
 2026-04-16 | https://blog.cloudflare.com/project-think/
 2026-04-16 | https://blog.cloudflare.com/browser-run-for-ai-agents/
 2026-04-16 | https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook/
@@ -118,30 +129,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-10 | https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/
 2026-04-10 | https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/
 2026-04-10 | https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/
-2026-04-09 | https://www.atlassian.com/blog/announcements/rovo-remix-3p-agents-confluence
-2026-04-09 | https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout
-2026-04-09 | https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/
-2026-04-09 | https://openai.com/index/next-phase-of-enterprise-ai/
-2026-04-09 | https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/
-2026-04-09 | https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/
-2026-04-09 | https://openai.com/index/introducing-child-safety-blueprint/
-2026-04-09 | https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/
-2026-04-09 | https://www.theverge.com/ai-artificial-intelligence/909037/anthropic-loses-an-appeal-attempting-to-pause-its-supply-chain-risk-designation
-2026-04-09 | https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them
-2026-04-09 | https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/
-2026-04-09 | https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/
-2026-04-09 | https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases
-2026-04-09 | https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 22
-- **Gesamt erfasste Meldungen:** 348
+- **Gesamt Recherche-Läufe:** 23
+- **Gesamt erfasste Meldungen:** 358
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-16
+- **Letzter Lauf:** 2026-04-17
 
 ---
 
