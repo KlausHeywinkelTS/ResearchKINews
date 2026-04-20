@@ -10,6 +10,8 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
 | 2026-04-19 | 10 | 4 | – | – |
+| 2026-04-18 | 11 | 4 | – | – |
+| 2026-04-17 | 10 | 4 | – | – |
 | 2026-04-16 | 12 | 4 | – | – |
 | 2026-04-15 | 10 | 4 | – | – |
 | 2026-04-14 | 11 | 3 | – | – |
@@ -55,6 +57,27 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-19 | https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto
 2026-04-19 | https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing
 2026-04-19 | https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github
+2026-04-18 | https://openai.com/index/codex-for-almost-everything/
+2026-04-18 | https://www.anthropic.com/news/claude-opus-4-7
+2026-04-18 | https://www.anthropic.com/news/claude-design-anthropic-labs
+2026-04-18 | https://openai.com/index/introducing-gpt-rosalind/
+2026-04-18 | https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/
+2026-04-18 | https://blog.google/products-and-platforms/products/search/ai-mode-chrome/
+2026-04-18 | https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli/
+2026-04-18 | https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability
+2026-04-18 | https://github.blog/changelog/2026-04-17-github-copilot-cli-now-supports-copilot-auto-model-selection/
+2026-04-18 | https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/
+2026-04-18 | https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto
+2026-04-17 | https://openai.com/index/codex-for-almost-everything/
+2026-04-17 | https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents
+2026-04-17 | https://www.anthropic.com/news/claude-opus-4-7
+2026-04-17 | https://openai.com/index/the-next-evolution-of-the-agents-sdk/
+2026-04-17 | https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli/
+2026-04-17 | https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/
+2026-04-17 | https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/
+2026-04-17 | https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/
+2026-04-17 | https://blog.adobe.com/en/publish/2026/04/15/introducing-firefly-ai-assistant-new-way-create-with-our-creative-agent
+2026-04-17 | https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes
 2026-04-16 | https://blog.cloudflare.com/project-think/
 2026-04-16 | https://blog.cloudflare.com/browser-run-for-ai-agents/
 2026-04-16 | https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook/
@@ -109,6 +132,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-12 | https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/
 2026-04-12 | https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/
 2026-04-12 | https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw
+2026-04-11 | https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community
+2026-04-11 | https://www.reuters.com/business/anthropic-weighs-building-it-own-ai-chips-sources-say-2026-04-09/
+2026-04-11 | https://www.reuters.com/legal/litigation/big-tech-puts-financial-heft-behind-next-gen-nuclear-power-ai-demand-surges-2026-04-10/
+2026-04-11 | https://github.blog/changelog/2026-04-10-enforcing-new-limits-and-retiring-opus-4-6-fast-from-copilot-pro/
+2026-04-11 | https://workspaceupdates.googleblog.com/2026/04/edit-your-ai-generated-scripts-when-you-convert-slides-to-vids.html
+2026-04-11 | https://workspaceupdates.googleblog.com/2026/04/expanding-access-to-longer-musical-tracks-in-the-Gemini-app.html
+2026-04-11 | https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons
+2026-04-10 | https://docs.anthropic.com/en/release-notes/api
+2026-04-10 | https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations
+2026-04-10 | https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/
+2026-04-10 | https://github.blog/changelog/2026-04-08-github-copilot-in-visual-studio-code-march-releases
+2026-04-10 | https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar
+2026-04-10 | https://workspaceupdates.googleblog.com/2026/04/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-devices.html
+2026-04-10 | https://github.blog/changelog/2026-04-08-github-mobile-research-and-code-with-copilot-cloud-agent-anywhere
+2026-04-10 | https://appleinsider.com/articles/26/04/08/remote-desktop-for-mac-is-shifting-toward-ai-workloads-with-workbench
+2026-04-10 | https://github.blog/changelog/2026-04-08-copilot-reviewed-pull-request-merge-metrics-now-in-the-usage-metrics-api
+2026-04-10 | https://www.anthropic.com/research/trustworthy-agents?aff=BbMy6
+2026-04-10 | https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/
+2026-04-10 | https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/
+2026-04-10 | https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/
 ```
 
 ---
