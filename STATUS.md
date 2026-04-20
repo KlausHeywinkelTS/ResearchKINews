@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-20 | 11 | 4 | – | – |
 | 2026-04-16 | 12 | 4 | – | – |
 | 2026-04-15 | 10 | 4 | – | – |
 | 2026-04-14 | 11 | 3 | – | – |
@@ -44,6 +45,17 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-20 | https://www.anthropic.com/news/claude-design-anthropic-labs
+2026-04-20 | https://blog.cloudflare.com/introducing-agent-memory/
+2026-04-20 | https://blog.cloudflare.com/agent-readiness/
+2026-04-20 | https://github.blog/changelog/2026-04-17-github-copilot-cli-now-supports-copilot-auto-model-selection
+2026-04-20 | https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli
+2026-04-20 | https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available
+2026-04-20 | https://9to5google.com/2026/04/19/gemini-live-app-redesign/
+2026-04-20 | https://blog.cloudflare.com/ai-redirects/
+2026-04-20 | https://www.anthropic.com/news/claude-opus-4-7
+2026-04-20 | https://www.theregister.com/2026/04/19/ai_vendors_response_to_security/
+2026-04-20 | https://techcrunch.com/2026/04/19/openais-existential-questions/
 2026-04-16 | https://blog.cloudflare.com/project-think/
 2026-04-16 | https://blog.cloudflare.com/browser-run-for-ai-agents/
 2026-04-16 | https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook/
@@ -87,61 +99,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-13 | https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/
 2026-04-13 | https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop
 2026-04-13 | https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai
-2026-04-12 | https://www.reuters.com/business/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-2026-04-11/
-2026-04-12 | https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/
-2026-04-12 | https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/
-2026-04-12 | https://github.blog/changelog/2026-04-10-enforcing-new-limits-and-retiring-opus-4-6-fast-from-copilot-pro
-2026-04-12 | https://github.blog/changelog/2026-04-10-pausing-new-github-copilot-pro-trials
-2026-04-12 | https://github.blog/changelog/2026-04-10-copilot-cloud-agents-validation-tools-are-now-20-faster
-2026-04-12 | https://github.blog/changelog/2026-04-10-copilot-usage-metrics-now-aggregate-copilot-cloud-agent-active-user-counts
-2026-04-12 | https://github.blog/changelog/2026-04-10-copilot-cli-activity-now-included-in-usage-metrics-totals-and-feature-breakdowns
-2026-04-12 | https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/
-2026-04-12 | https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/
-2026-04-12 | https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw
-2026-04-11 | https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community
-2026-04-11 | https://www.reuters.com/business/anthropic-weighs-building-it-own-ai-chips-sources-say-2026-04-09/
-2026-04-11 | https://www.reuters.com/legal/litigation/big-tech-puts-financial-heft-behind-next-gen-nuclear-power-ai-demand-surges-2026-04-10/
-2026-04-11 | https://github.blog/changelog/2026-04-10-enforcing-new-limits-and-retiring-opus-4-6-fast-from-copilot-pro/
-2026-04-11 | https://workspaceupdates.googleblog.com/2026/04/edit-your-ai-generated-scripts-when-you-convert-slides-to-vids.html
-2026-04-11 | https://workspaceupdates.googleblog.com/2026/04/expanding-access-to-longer-musical-tracks-in-the-Gemini-app.html
-2026-04-11 | https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons
-2026-04-10 | https://docs.anthropic.com/en/release-notes/api
-2026-04-10 | https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations
-2026-04-10 | https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/
-2026-04-10 | https://github.blog/changelog/2026-04-08-github-copilot-in-visual-studio-code-march-releases
-2026-04-10 | https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar
-2026-04-10 | https://workspaceupdates.googleblog.com/2026/04/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-devices.html
-2026-04-10 | https://github.blog/changelog/2026-04-08-github-mobile-research-and-code-with-copilot-cloud-agent-anywhere
-2026-04-10 | https://appleinsider.com/articles/26/04/08/remote-desktop-for-mac-is-shifting-toward-ai-workloads-with-workbench
-2026-04-10 | https://github.blog/changelog/2026-04-08-copilot-reviewed-pull-request-merge-metrics-now-in-the-usage-metrics-api
-2026-04-10 | https://www.anthropic.com/research/trustworthy-agents?aff=BbMy6
-2026-04-10 | https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/
-2026-04-10 | https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/
-2026-04-10 | https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/
-2026-04-09 | https://www.atlassian.com/blog/announcements/rovo-remix-3p-agents-confluence
-2026-04-09 | https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout
-2026-04-09 | https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/
-2026-04-09 | https://openai.com/index/next-phase-of-enterprise-ai/
-2026-04-09 | https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/
-2026-04-09 | https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/
-2026-04-09 | https://openai.com/index/introducing-child-safety-blueprint/
-2026-04-09 | https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/
-2026-04-09 | https://www.theverge.com/ai-artificial-intelligence/909037/anthropic-loses-an-appeal-attempting-to-pause-its-supply-chain-risk-designation
-2026-04-09 | https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them
-2026-04-09 | https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/
-2026-04-09 | https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/
-2026-04-09 | https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases
-2026-04-09 | https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 22
-- **Gesamt erfasste Meldungen:** 348
+- **Gesamt Recherche-Läufe:** 23
+- **Gesamt erfasste Meldungen:** 359
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-16
+- **Letzter Lauf:** 2026-04-20
 
 ---
 
