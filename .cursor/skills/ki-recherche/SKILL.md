@@ -11,7 +11,10 @@ description: Führt die tägliche KI-News-Recherche durch. Sucht im Web nach akt
 - `STATUS.md` lesen → bekannte URLs der letzten 7 Tage extrahieren
 - URL-Limit laden: maximal `140` bekannte URLs (nur neueste Eintraege behalten)
 - `config/agent-config.md` lesen → Themen und Vorgaben laden
-- Aktuelles Datum und Kalenderwoche notieren
+- Aktuelles Datum und Uhrzeit (UTC) notieren
+- **48-Stunden-Cutoff berechnen:** `CUTOFF = aktuelles Datum/Uhrzeit − 48 Stunden`
+  - Beispiel: Recherche am 2026-04-20 um 06:00 UTC → Cutoff = 2026-04-18 06:00 UTC
+  - Diesen Cutoff-Zeitpunkt explizit festhalten und in Schritt 2 und 3 konsequent anwenden
 
 ### Schritt 2: Web-Recherche
 Suche nach KI-News der **letzten 48 Stunden**. Thematische Gewichtung:
@@ -24,7 +27,15 @@ Suche nach KI-News der **letzten 48 Stunden**. Thematische Gewichtung:
 | Mittel | KI-Forschung (Paper mit praktischer Relevanz) |
 | Mittel | Updates von: OpenAI, Google, Anthropic, Meta AI, Mistral, xAI |
 
-Ausschließlich Quellen der letzten 48 Stunden berücksichtigen. Bereits bekannte URLs aus `STATUS.md` überspringen.
+Ausschließlich Quellen berücksichtigen, deren Veröffentlichungsdatum **nach dem Cutoff** aus Schritt 1 liegt. Bereits bekannte URLs aus `STATUS.md` überspringen.
+
+### Schritt 2b: Datumsfilter (Pflicht vor Aufnahme in den Bericht)
+
+Jeden gefundenen Artikel prüfen:
+1. Veröffentlichungsdatum des Artikels ermitteln (aus Metadaten, Byline oder URL)
+2. Liegt das Datum **vor dem Cutoff** → Artikel verwerfen, nicht aufnehmen
+3. Ist das Veröffentlichungsdatum unklar oder nicht auffindbar → Artikel verwerfen
+4. Nur Artikel mit gesichertem Datum **nach dem Cutoff** dürfen in den Bericht
 
 ### Schritt 3: Deduplizierung & Trennung
 
@@ -98,7 +109,7 @@ Vorlage (Meldungstitel fett: **deutsch**, siehe Schritt 3):
 - ...
 
 ---
-*Recherche durchgeführt: [Datum + Uhrzeit] | Meldungen gesamt: [N]*
+*Recherche durchgeführt: [Datum + Uhrzeit UTC] | Cutoff: [Cutoff-Datum + Uhrzeit UTC] | Meldungen gesamt: [N]*
 ```
 
 ### Schritt 5: STATUS.md aktualisieren

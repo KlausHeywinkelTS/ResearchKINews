@@ -20,10 +20,16 @@ Wenn der Nutzer einen dieser Befehle eingibt, den entsprechenden Skill ausführe
 
 1. `STATUS.md` lesen (Deduplizierung)
 2. `config/agent-config.md` lesen (Vorgaben)
-3. Web-Recherche: nur Artikel der letzten 48 Stunden
-4. Bericht als `reports/YYYY/MM/YYYY-MM-DD.md` speichern
-5. `STATUS.md` mit neuen URLs und Lauf-Eintrag aktualisieren
-6. URL-Liste in `STATUS.md` begrenzen: max. 140 Eintraege, nur neueste behalten
+3. **48-Stunden-Cutoff berechnen:** `CUTOFF = aktuelles Datum/Uhrzeit (UTC) − 48 h`
+   - Beispiel: 2026-04-20 06:00 UTC → Cutoff = 2026-04-18 06:00 UTC
+   - Cutoff intern festhalten; alle nachfolgenden Schritte beziehen sich darauf
+4. Web-Recherche: nur Artikel, deren Veröffentlichungsdatum **nach dem Cutoff** liegt
+5. **Datumsfilter (Pflicht):** Vor Aufnahme jedes Artikels das Veröffentlichungsdatum prüfen
+   - Datum vor Cutoff oder unbekannt → Artikel verwerfen
+   - Nur Artikel mit gesichertem Datum nach dem Cutoff dürfen in den Bericht
+6. Bericht als `reports/YYYY/MM/YYYY-MM-DD.md` speichern
+7. `STATUS.md` mit neuen URLs und Lauf-Eintrag aktualisieren
+8. URL-Liste in `STATUS.md` begrenzen: max. 140 Eintraege, nur neueste behalten
 
 ## Pflichtschritte bei jeder Wochenrückschau
 
