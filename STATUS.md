@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-18 | 11 | 4 | – | – |
 | 2026-04-17 | 10 | 4 | – | – |
 | 2026-04-16 | 12 | 4 | – | – |
 | 2026-04-15 | 10 | 4 | – | – |
@@ -45,6 +46,17 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-18 | https://openai.com/index/codex-for-almost-everything/
+2026-04-18 | https://www.anthropic.com/news/claude-opus-4-7
+2026-04-18 | https://www.anthropic.com/news/claude-design-anthropic-labs
+2026-04-18 | https://openai.com/index/introducing-gpt-rosalind/
+2026-04-18 | https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/
+2026-04-18 | https://blog.google/products-and-platforms/products/search/ai-mode-chrome/
+2026-04-18 | https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli/
+2026-04-18 | https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability
+2026-04-18 | https://github.blog/changelog/2026-04-17-github-copilot-cli-now-supports-copilot-auto-model-selection/
+2026-04-18 | https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/
+2026-04-18 | https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto
 2026-04-17 | https://openai.com/index/codex-for-almost-everything/
 2026-04-17 | https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents
 2026-04-17 | https://www.anthropic.com/news/claude-opus-4-7
@@ -136,9 +148,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 23
-- **Gesamt erfasste Meldungen:** 358
+- **Gesamt erfasste Meldungen:** 359
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-17
+- **Letzter Lauf:** 2026-04-18
 
 ---
 
