@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-20 | 11 | 4 | – | – |
 | 2026-04-19 | 10 | 4 | – | – |
 | 2026-04-18 | 11 | 4 | – | – |
 | 2026-04-17 | 10 | 4 | – | – |
@@ -47,6 +48,17 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-20 | https://www.anthropic.com/news/claude-design-anthropic-labs
+2026-04-20 | https://blog.cloudflare.com/introducing-agent-memory/
+2026-04-20 | https://blog.cloudflare.com/agent-readiness/
+2026-04-20 | https://github.blog/changelog/2026-04-17-github-copilot-cli-now-supports-copilot-auto-model-selection
+2026-04-20 | https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli
+2026-04-20 | https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available
+2026-04-20 | https://9to5google.com/2026/04/19/gemini-live-app-redesign/
+2026-04-20 | https://blog.cloudflare.com/ai-redirects/
+2026-04-20 | https://www.anthropic.com/news/claude-opus-4-7
+2026-04-20 | https://www.theregister.com/2026/04/19/ai_vendors_response_to_security/
+2026-04-20 | https://techcrunch.com/2026/04/19/openais-existential-questions/
 2026-04-19 | https://openai.com/index/codex-for-almost-everything/
 2026-04-19 | https://www.anthropic.com/news/claude-opus-4-7
 2026-04-19 | https://github.blog/changelog/2026-04-17-github-copilot-cli-now-supports-copilot-auto-model-selection
@@ -159,9 +171,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 23
-- **Gesamt erfasste Meldungen:** 358
+- **Gesamt erfasste Meldungen:** 359
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-19
+- **Letzter Lauf:** 2026-04-20
 
 ---
 
