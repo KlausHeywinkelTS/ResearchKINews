@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-21 | 10 | 4 | – | – |
 | 2026-04-20 | 11 | 4 | – | – |
 | 2026-04-19 | 10 | 4 | – | – |
 | 2026-04-18 | 11 | 4 | – | – |
@@ -48,6 +49,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-21 | https://github.blog/changelog/2026-04-20-changes-to-github-copilot-plans-for-individuals/
+2026-04-21 | https://blog.cloudflare.com/ai-code-review/
+2026-04-21 | https://blog.cloudflare.com/internal-ai-engineering-stack/
+2026-04-21 | https://www.reuters.com/business/finance/banks-close-contact-with-european-regulator-anthropics-mythos-banker-says-2026-04-20/
+2026-04-21 | https://9to5google.com/2026/04/20/google-ai-studio-limits/
+2026-04-21 | https://9to5google.com/2026/04/20/gemini-chrome-more-countries/
+2026-04-21 | https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/
+2026-04-21 | https://docs.anthropic.com/en/release-notes/api
+2026-04-21 | https://blog.cloudflare.com/agents-week-in-review/
+2026-04-21 | https://www.theverge.com/tech/914996/sergey-brin-said-google-needs-to-catch-up-to-anthropic-on-ai-coding-agents
 2026-04-20 | https://www.anthropic.com/news/claude-design-anthropic-labs
 2026-04-20 | https://blog.cloudflare.com/introducing-agent-memory/
 2026-04-20 | https://blog.cloudflare.com/agent-readiness/
@@ -123,27 +134,6 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-14 | https://www.reuters.com/world/anthropic-talking-trump-administration-about-its-next-ai-model-co-founder-says-2026-04-13/
 2026-04-14 | https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/
 2026-04-14 | https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/
-2026-04-13 | https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/
-2026-04-13 | https://d2171.cms.socastsrm.com/2026/04/12/uk-financial-regulators-rush-to-assess-risks-of-anthropics-latest-ai-model-ft-reports/
-2026-04-13 | https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic
-2026-04-13 | https://www.theverge.com/ai-artificial-intelligence/910707/openai-responds-to-axios-http-hack-by-updating-security-certificates
-2026-04-13 | https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/
-2026-04-13 | https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion
-2026-04-13 | https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/
-2026-04-13 | https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/
-2026-04-13 | https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop
-2026-04-13 | https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai
-2026-04-12 | https://www.reuters.com/business/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-2026-04-11/
-2026-04-12 | https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/
-2026-04-12 | https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/
-2026-04-12 | https://github.blog/changelog/2026-04-10-enforcing-new-limits-and-retiring-opus-4-6-fast-from-copilot-pro
-2026-04-12 | https://github.blog/changelog/2026-04-10-pausing-new-github-copilot-pro-trials
-2026-04-12 | https://github.blog/changelog/2026-04-10-copilot-cloud-agents-validation-tools-are-now-20-faster
-2026-04-12 | https://github.blog/changelog/2026-04-10-copilot-usage-metrics-now-aggregate-copilot-cloud-agent-active-user-counts
-2026-04-12 | https://github.blog/changelog/2026-04-10-copilot-cli-activity-now-included-in-usage-metrics-totals-and-feature-breakdowns
-2026-04-12 | https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/
-2026-04-12 | https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/
-2026-04-12 | https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw
 2026-04-11 | https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community
 2026-04-11 | https://www.reuters.com/business/anthropic-weighs-building-it-own-ai-chips-sources-say-2026-04-09/
 2026-04-11 | https://www.reuters.com/legal/litigation/big-tech-puts-financial-heft-behind-next-gen-nuclear-power-ai-demand-surges-2026-04-10/
@@ -171,9 +161,10 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 23
-- **Gesamt erfasste Meldungen:** 359
+- **Gesamt Recherche-Läufe:** 24
+- **Gesamt erfasste Meldungen:** 369
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-20
+- **Letzter Lauf:** 2026-04-21
 
 ---
 
