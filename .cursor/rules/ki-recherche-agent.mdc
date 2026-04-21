@@ -7,45 +7,13 @@ alwaysApply: true
 
 Dieses Projekt ist ein täglicher KI-Nachrichtenrecherche-Agent. Alle Konfigurationsdetails stehen in `config/agent-config.md`.
 
+Alle inhaltlichen Vorgaben, Bewertungsschemas, Pflichtschritte und Formate sind vollständig im Skill `ki-recherche` definiert. Bei jedem Trigger den Skill lesen und dessen Anweisungen befolgen.
+
 ## Trigger-Befehle
 
-Wenn der Nutzer einen dieser Befehle eingibt, den entsprechenden Skill ausführen:
-
-- `recherche starten` → Tägliche Recherche durchführen (Skill: ki-recherche)
-- `woche zusammenfassen` / `wochenrückschau` / Anfragen wie „fasse die Woche … bis … zusammen" → Wöchentliches Highlight-Summary erstellen und als MD-Datei speichern
-- `monat zusammenfassen` → Monatlichen Trend-Bericht erstellen
-- `status anzeigen` → `STATUS.md` lesen und Übersicht ausgeben
-
-## Pflichtschritte bei jeder Recherche
-
-1. `STATUS.md` lesen (Deduplizierung)
-2. `config/agent-config.md` lesen (Vorgaben)
-3. **48-Stunden-Cutoff berechnen:** `CUTOFF = aktuelles Datum/Uhrzeit (UTC) − 48 h`
-   - Beispiel: 2026-04-20 06:00 UTC → Cutoff = 2026-04-18 06:00 UTC
-   - Cutoff intern festhalten; alle nachfolgenden Schritte beziehen sich darauf
-4. Web-Recherche: nur Artikel, deren Veröffentlichungsdatum **nach dem Cutoff** liegt
-5. **Datumsfilter (Pflicht):** Vor Aufnahme jedes Artikels das Veröffentlichungsdatum prüfen
-   - Datum vor Cutoff oder unbekannt → Artikel verwerfen
-   - Nur Artikel mit gesichertem Datum nach dem Cutoff dürfen in den Bericht
-6. Bericht als `reports/YYYY/MM/YYYY-MM-DD.md` speichern
-7. `STATUS.md` mit neuen URLs und Lauf-Eintrag aktualisieren
-8. URL-Liste in `STATUS.md` begrenzen: max. 140 Eintraege, nur neueste behalten
-
-## Pflichtschritte bei jeder Wochenrückschau
-
-1. Alle relevanten Tagesberichte im angefragten Zeitraum lesen (`reports/YYYY/MM/YYYY-MM-DD.md`)
-2. Highlights nach Themen bündeln (Agenten, Modelle, Infrastruktur, Sicherheit, Gesellschaft etc.)
-3. Wochenrückschau als MD-Datei speichern — **Pflicht, immer automatisch, ohne Nachfrage**
-4. Dateiname: `reports/YYYY/MM/week-YYYY-MM-DD_YYYY-MM-DD.md` (erster und letzter Tag des Zeitraums)
-   - Beispiel für KW 14: `reports/2026/04/week-2026-04-01_2026-04-05.md`
-   - Beispiel für KW 15: `reports/2026/04/week-2026-04-06_2026-04-12.md`
-5. Struktur der Wochenrückschau (siehe `config/agent-config.md`)
-
-## Ausgabe (Tagesberichte)
-
-- Sprache: Deutsch
-- Must-Reads immer ganz oben
-- Bewertung: ⭐ 1–5 Sterne
-- Umfang: 20–30 Meldungen
-- **Ein Eintrag = eine Meldung = eine Quelle = ein Link** (niemals mehrere Themen zusammenfassen)
-- **Finanzierungsrunden und Investitionsmeldungen grundsätzlich ausschließen** (kein "Firma X sammelt Y Mio. ein")
+| Befehl | Aktion |
+|---|---|
+| `recherche starten` | Skill `ki-recherche` lesen → Abschnitt „Tagesrecherche" ausführen |
+| `woche zusammenfassen` / `wochenrückschau` / „fasse die Woche … bis … zusammen" | Skill `ki-recherche` lesen → Abschnitt „Wochenbericht" ausführen |
+| `monat zusammenfassen` | Skill `ki-recherche` lesen → Abschnitt „Monatsbericht" ausführen |
+| `status anzeigen` | `STATUS.md` lesen und Übersicht ausgeben |

@@ -29,6 +29,8 @@ Suche nach KI-News der **letzten 48 Stunden**. Thematische Gewichtung:
 
 Ausschließlich Quellen berücksichtigen, deren Veröffentlichungsdatum **nach dem Cutoff** aus Schritt 1 liegt. Bereits bekannte URLs aus `STATUS.md` überspringen.
 
+**Grundsätzlich ausschließen:** Finanzierungsrunden und Investitionsmeldungen (z. B. „Firma X sammelt Y Mio. ein") – diese nicht aufnehmen, auch wenn sie KI-Bezug haben.
+
 ### Schritt 2b: Datumsfilter (Pflicht vor Aufnahme in den Bericht)
 
 Jeden gefundenen Artikel prüfen:
@@ -112,6 +114,12 @@ Vorlage (Meldungstitel fett: **deutsch**, siehe Schritt 3):
 *Recherche durchgeführt: [Datum + Uhrzeit UTC] | Cutoff: [Cutoff-Datum + Uhrzeit UTC] | Meldungen gesamt: [N]*
 ```
 
+**Pflichtangaben für Tagesberichte:**
+- Sprache: Deutsch
+- Umfang: **20–30 Meldungen** pro Bericht
+- Bewertung: ⭐ 1–5 Sterne (Must-Reads = ⭐⭐⭐⭐⭐, immer ganz oben)
+- **Ein Eintrag = eine Meldung = eine Quelle = ein Link** (niemals mehrere Themen zusammenfassen)
+
 ### Schritt 5: STATUS.md aktualisieren
 
 Nach Abschluss `STATUS.md` aktualisieren:
@@ -123,10 +131,16 @@ Nach Abschluss `STATUS.md` aktualisieren:
 
 ## Wochenbericht (`woche zusammenfassen`)
 
-Alle Tagesberichte der aktuellen/letzten Woche lesen, dann speichern unter `reports/YYYY/MM/week-KW##.md`:
+Alle relevanten Tagesberichte im angefragten Zeitraum lesen (`reports/YYYY/MM/YYYY-MM-DD.md`), Highlights nach Themen bündeln (Agenten, Modelle, Infrastruktur, Sicherheit, Gesellschaft etc.) und den Bericht **immer automatisch ohne Rückfrage** speichern.
+
+Dateiname: `reports/YYYY/MM/week-YYYY-MM-DD_YYYY-MM-DD.md` (erster und letzter Tag des Zeitraums)
+- Beispiel KW 14: `reports/2026/04/week-2026-04-01_2026-04-05.md`
+- Beispiel KW 15: `reports/2026/04/week-2026-04-06_2026-04-12.md`
+
+Vorlage:
 
 ```markdown
-# KI-Wochen-Highlight – KW## / YYYY
+# KI-Wochen-Highlight – [DD. Monat] bis [DD. Monat YYYY]
 
 ## Top-Themen der Woche
 [3–5 dominierende Themen mit Erklärung]
