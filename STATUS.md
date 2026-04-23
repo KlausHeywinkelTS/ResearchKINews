@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-23 | 13 | 5 | – | – |
 | 2026-04-22 | 11 | 4 | – | – |
 | 2026-04-21 | 10 | 4 | – | – |
 | 2026-04-20 | 11 | 4 | – | – |
@@ -50,6 +51,19 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-23 | https://openai.com/index/introducing-workspace-agents-in-chatgpt/
+2026-04-23 | https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform
+2026-04-23 | https://cloud.google.com/blog/products/compute/ai-infrastructure-at-next26
+2026-04-23 | https://workspace.google.com/blog/product-announcements/introducing-workspace-intelligence
+2026-04-23 | https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/
+2026-04-23 | https://openai.com/index/making-chatgpt-better-for-clinicians/
+2026-04-23 | https://workspaceupdates.googleblog.com/2026/04/ai-overviews-in-drive-now-generally-available.html
+2026-04-23 | https://mapsplatform.google.com/resources/blog/three-new-ways-to-build-with-real-world-imagery-and-ai/
+2026-04-23 | https://openai.com/index/introducing-openai-privacy-filter/
+2026-04-23 | https://cloud.google.com/blog/products/application-development/gemini-cloud-assist-at-next26
+2026-04-23 | https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise
+2026-04-23 | https://arxiv.org/abs/2604.19354
+2026-04-23 | https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/
 2026-04-22 | https://openai.com/index/scaling-codex-to-enterprises-worldwide/
 2026-04-22 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/
 2026-04-22 | https://openai.com/index/introducing-chatgpt-images-2-0/
@@ -110,26 +124,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-16 | https://blog.cloudflare.com/voice-agents/
 2026-04-16 | https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/
 2026-04-16 | https://blog.cloudflare.com/mesh/
-2026-04-15 | https://www.reuters.com/technology/openai-unveils-gpt-54-cyber-week-after-rivals-announcement-ai-model-2026-04-14/
-2026-04-15 | https://openai.com/index/cloudflare-openai-agent-cloud
-2026-04-15 | https://venturebeat.com/data/databricks-research-shows-multi-step-agents-consistently-outperform-single
-2026-04-15 | https://www.reuters.com/world/uk/boes-bailey-sees-major-cybersecurity-risks-new-anthropic-model-2026-04-14/
-2026-04-15 | https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/
-2026-04-15 | https://venturebeat.com/technology/microsoft-launches-mai-image-2-efficient-a-cheaper-and-faster-ai-image-model
-2026-04-15 | https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered
-2026-04-15 | https://venturebeat.com/orchestration/google-leaders-including-demis-hassabis-push-back-on-claim-of-uneven-ai-adoption-internally
-2026-04-15 | https://www.reuters.com/legal/litigation/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-banks-2026-04-13/
-2026-04-15 | https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 30
-- **Gesamt erfasste Meldungen:** 433
+- **Gesamt Recherche-Läufe:** 31
+- **Gesamt erfasste Meldungen:** 446
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-22
+- **Letzter Lauf:** 2026-04-23
 
 ---
 
