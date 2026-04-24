@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-24 | 11 | 2 | – | – |
 | 2026-04-23 | 13 | 5 | – | – |
 | 2026-04-22 | 11 | 4 | – | – |
 | 2026-04-21 | 10 | 4 | – | – |
@@ -51,6 +52,17 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-24 | https://openai.com/index/introducing-gpt-5-5/
+2026-04-24 | https://github.blog/changelog/2026-04-23-copilot-chat-improvements-for-pull-requests/
+2026-04-24 | https://github.blog/changelog/2026-04-23-better-debugging-with-github-copilot-on-the-web
+2026-04-24 | https://github.blog/changelog/2026-04-23-view-and-manage-agent-sessions-from-issues-and-projects/
+2026-04-24 | https://www.anthropic.com/engineering/april-23-postmortem
+2026-04-24 | https://github.blog/changelog/2026-04-23-copilot-cloud-agent-fields-added-to-usage-metrics
+2026-04-24 | https://newsroom.ibm.com/blog-ibm-working-together-with-google-cloud-to-accelerate-enterprise-ai-and-hybrid-cloud-modernization
+2026-04-24 | https://arxiv.org/abs/2604.21910
+2026-04-24 | https://arxiv.org/abs/2604.21480
+2026-04-24 | https://arxiv.org/abs/2604.21769
+2026-04-24 | https://arxiv.org/abs/2604.21854
 2026-04-23 | https://openai.com/index/introducing-workspace-agents-in-chatgpt/
 2026-04-23 | https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform
 2026-04-23 | https://cloud.google.com/blog/products/compute/ai-infrastructure-at-next26
@@ -112,28 +124,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-17 | https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/
 2026-04-17 | https://blog.adobe.com/en/publish/2026/04/15/introducing-firefly-ai-assistant-new-way-create-with-our-creative-agent
 2026-04-17 | https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes
-2026-04-16 | https://blog.cloudflare.com/project-think/
-2026-04-16 | https://blog.cloudflare.com/browser-run-for-ai-agents/
-2026-04-16 | https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook/
-2026-04-16 | https://blog.cloudflare.com/introducing-agent-lee/
-2026-04-16 | https://github.blog/changelog/2026-04-14-model-selection-for-claude-and-codex-agents-on-github-com
-2026-04-16 | https://github.blog/changelog/2026-04-15-enable-copilot-cloud-agent-via-custom-properties
-2026-04-16 | https://blog.google/intl/en-in/products/personal-intelligence-launches-in-the-gemini-app-in-india/
-2026-04-16 | https://blog.google/intl/en-africa/google-launches-personal-intelligence-in-the-gemini-app-in-south-africa/
-2026-04-16 | https://workspaceupdates.googleblog.com/2026/04/gemini-in-google-classroom-is-now-available-in-all-Classroom-supported-languages.html
-2026-04-16 | https://blog.cloudflare.com/voice-agents/
-2026-04-16 | https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/
-2026-04-16 | https://blog.cloudflare.com/mesh/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 31
-- **Gesamt erfasste Meldungen:** 446
+- **Gesamt Recherche-Läufe:** 32
+- **Gesamt erfasste Meldungen:** 457
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-23
+- **Letzter Lauf:** 2026-04-24
 
 ---
 
