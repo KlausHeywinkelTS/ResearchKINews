@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-25 | 10 | 2 | – | – |
 | 2026-04-24 | 11 | 2 | – | – |
 | 2026-04-23 | 13 | 5 | – | – |
 | 2026-04-22 | 11 | 4 | – | – |
@@ -52,6 +53,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-25 | https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/
+2026-04-25 | https://github.blog/changelog/2026-04-24-inline-agent-mode-in-preview-and-more-in-github-copilot-for-jetbrains-ides
+2026-04-25 | https://www.mediapost.com/publications/article/414547/meta-rolls-out-ai-business-assistant-to-all-advert.html
+2026-04-25 | https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/
+2026-04-25 | https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/
+2026-04-25 | https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/
+2026-04-25 | https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/
+2026-04-25 | https://arxiv.org/abs/2604.21345
+2026-04-25 | https://arxiv.org/abs/2604.21446
+2026-04-25 | https://arxiv.org/abs/2604.21794
 2026-04-24 | https://openai.com/index/introducing-gpt-5-5/
 2026-04-24 | https://github.blog/changelog/2026-04-23-copilot-chat-improvements-for-pull-requests/
 2026-04-24 | https://github.blog/changelog/2026-04-23-better-debugging-with-github-copilot-on-the-web
@@ -119,21 +130,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-18 | https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability
 2026-04-18 | https://github.blog/changelog/2026-04-17-github-copilot-cli-now-supports-copilot-auto-model-selection/
 2026-04-18 | https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/
-2026-04-17 | https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents
-2026-04-17 | https://openai.com/index/the-next-evolution-of-the-agents-sdk/
-2026-04-17 | https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/
-2026-04-17 | https://blog.adobe.com/en/publish/2026/04/15/introducing-firefly-ai-assistant-new-way-create-with-our-creative-agent
-2026-04-17 | https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 32
-- **Gesamt erfasste Meldungen:** 457
+- **Gesamt Recherche-Läufe:** 33
+- **Gesamt erfasste Meldungen:** 467
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-24
+- **Letzter Lauf:** 2026-04-25
 
 ---
 
