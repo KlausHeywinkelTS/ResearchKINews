@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-26 | 10 | 2 | – | – |
 | 2026-04-24 | 11 | 2 | – | – |
 | 2026-04-23 | 13 | 5 | – | – |
 | 2026-04-22 | 11 | 4 | – | – |
@@ -52,6 +53,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-26 | https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/
+2026-04-26 | https://github.blog/changelog/2026-04-24-inline-agent-mode-in-preview-and-more-in-github-copilot-for-jetbrains-ides/
+2026-04-26 | https://platform.claude.com/docs/en/release-notes/overview
+2026-04-26 | https://www.epsilla.com/blogs/2026-04-25-48-hours-after-openai-paywalled-chronicle-a-team-of-gen-z-de
+2026-04-26 | https://huggingface.co/blog/deepseekv4
+2026-04-26 | https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns
+2026-04-26 | https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html
+2026-04-26 | https://www.reuters.com/business/intel-set-record-high-ai-driven-cpu-demand-powers-upbeat-forecast-2026-04-24/
+2026-04-26 | https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/
+2026-04-26 | https://www.reuters.com/markets/commodities/chinas-deeprouteai-says-over-300000-vehicles-use-its-advanced-driving-system-2026-04-25/
 2026-04-24 | https://openai.com/index/introducing-gpt-5-5/
 2026-04-24 | https://github.blog/changelog/2026-04-23-copilot-chat-improvements-for-pull-requests/
 2026-04-24 | https://github.blog/changelog/2026-04-23-better-debugging-with-github-copilot-on-the-web
@@ -114,26 +125,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-19 | https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto
 2026-04-19 | https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing
 2026-04-19 | https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github
-2026-04-18 | https://openai.com/index/introducing-gpt-rosalind/
-2026-04-18 | https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli/
-2026-04-18 | https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability
-2026-04-18 | https://github.blog/changelog/2026-04-17-github-copilot-cli-now-supports-copilot-auto-model-selection/
-2026-04-18 | https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/
-2026-04-17 | https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents
-2026-04-17 | https://openai.com/index/the-next-evolution-of-the-agents-sdk/
-2026-04-17 | https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/
-2026-04-17 | https://blog.adobe.com/en/publish/2026/04/15/introducing-firefly-ai-assistant-new-way-create-with-our-creative-agent
-2026-04-17 | https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 32
-- **Gesamt erfasste Meldungen:** 457
+- **Gesamt Recherche-Läufe:** 33
+- **Gesamt erfasste Meldungen:** 467
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-24
+- **Letzter Lauf:** 2026-04-26
 
 ---
 
