@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-27 | 10 | 2 | – | – |
 | 2026-04-24 | 11 | 2 | – | – |
 | 2026-04-23 | 13 | 5 | – | – |
 | 2026-04-22 | 11 | 4 | – | – |
@@ -108,32 +109,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-20 | https://www.anthropic.com/news/claude-opus-4-7
 2026-04-20 | https://www.theregister.com/2026/04/19/ai_vendors_response_to_security/
 2026-04-20 | https://techcrunch.com/2026/04/19/openais-existential-questions/
-2026-04-19 | https://openai.com/index/codex-for-almost-everything/
-2026-04-19 | https://blog.google/products-and-platforms/products/search/ai-mode-chrome/
-2026-04-19 | https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/
-2026-04-19 | https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto
-2026-04-19 | https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing
-2026-04-19 | https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github
-2026-04-18 | https://openai.com/index/introducing-gpt-rosalind/
-2026-04-18 | https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli/
-2026-04-18 | https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability
-2026-04-18 | https://github.blog/changelog/2026-04-17-github-copilot-cli-now-supports-copilot-auto-model-selection/
-2026-04-18 | https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/
-2026-04-17 | https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents
-2026-04-17 | https://openai.com/index/the-next-evolution-of-the-agents-sdk/
-2026-04-17 | https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/
-2026-04-17 | https://blog.adobe.com/en/publish/2026/04/15/introducing-firefly-ai-assistant-new-way-create-with-our-creative-agent
-2026-04-17 | https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes
+2026-04-27 | https://openai.com/index/our-principles/
+2026-04-27 | https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation
+2026-04-27 | https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/
+2026-04-27 | https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/
+2026-04-27 | https://venturebeat.com/security/context-decay-orchestration-drift-and-the-rise-of-silent-failures-in-ai-systems
+2026-04-27 | https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns
+2026-04-27 | https://venturebeat.com/technology/ai-synthetic-audiences-are-already-here-and-poised-to-upend-the-consulting-industry
+2026-04-27 | https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/
+2026-04-27 | https://pytorch.org/blog/ibm-research-uses-vllm-at-the-heart-of-its-rits-platform/
+2026-04-27 | https://www.morningstar.com/news/pr-newswire/20260426sf43387/aptori-launches-autonomous-offensive-testing-to-eliminate-the-ai-driven-security-backlog
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 32
-- **Gesamt erfasste Meldungen:** 457
+- **Gesamt Recherche-Läufe:** 33
+- **Gesamt erfasste Meldungen:** 467
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-24
+- **Letzter Lauf:** 2026-04-27
 
 ---
 
