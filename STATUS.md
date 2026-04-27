@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-26 | 10 | 2 | – | – |
 | 2026-04-25 | 10 | 2 | – | – |
 | 2026-04-24 | 11 | 2 | – | – |
 | 2026-04-23 | 13 | 5 | – | – |
@@ -53,6 +54,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-26 | https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/
+2026-04-26 | https://github.blog/changelog/2026-04-24-inline-agent-mode-in-preview-and-more-in-github-copilot-for-jetbrains-ides/
+2026-04-26 | https://platform.claude.com/docs/en/release-notes/overview
+2026-04-26 | https://www.epsilla.com/blogs/2026-04-25-48-hours-after-openai-paywalled-chronicle-a-team-of-gen-z-de
+2026-04-26 | https://huggingface.co/blog/deepseekv4
+2026-04-26 | https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns
+2026-04-26 | https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html
+2026-04-26 | https://www.reuters.com/business/intel-set-record-high-ai-driven-cpu-demand-powers-upbeat-forecast-2026-04-24/
+2026-04-26 | https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/
+2026-04-26 | https://www.reuters.com/markets/commodities/chinas-deeprouteai-says-over-300000-vehicles-use-its-advanced-driving-system-2026-04-25/
 2026-04-25 | https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/
 2026-04-25 | https://github.blog/changelog/2026-04-24-inline-agent-mode-in-preview-and-more-in-github-copilot-for-jetbrains-ides
 2026-04-25 | https://www.mediapost.com/publications/article/414547/meta-rolls-out-ai-business-assistant-to-all-advert.html
@@ -139,7 +150,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 - **Gesamt Recherche-Läufe:** 33
 - **Gesamt erfasste Meldungen:** 467
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-25
+- **Letzter Lauf:** 2026-04-26
 
 ---
 
