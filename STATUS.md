@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-29 | 11 | 2 | – | – |
 | 2026-04-28 | 10 | 2 | – | – |
 | 2026-04-27 | 10 | 2 | – | – |
 | 2026-04-26 | 10 | 2 | – | – |
@@ -56,6 +57,17 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-29 | https://openai.com/index/openai-on-aws/
+2026-04-29 | https://www.aboutamazon.com/news/aws/amazon-connect-ai-business-set
+2026-04-29 | https://www.aboutamazon.com/news/retail/amazon-hear-the-highlights-join-the-chat
+2026-04-29 | https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/
+2026-04-29 | https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/
+2026-04-29 | https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/
+2026-04-29 | https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/
+2026-04-29 | https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/
+2026-04-29 | https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/
+2026-04-29 | https://www.reuters.com/business/finance/citigroup-lifts-ai-market-view-over-4-trillion-enterprise-adoption-2026-04-28/
+2026-04-29 | https://blogs.microsoft.com/blog/2026/04/28/unlocking-human-ambition-to-drive-business-growth-with-ai/
 2026-04-28 | https://openai.com/index/next-phase-of-microsoft-partnership/
 2026-04-28 | https://newsroom.ibm.com/2026-04-28-introducing-ibm-bob-ai-development-partner-that-takes-enterprises-from-ai-assisted-coding-to-production-ready-software
 2026-04-28 | https://github.blog/changelog/2026-04-27-copilot-cloud-agent-starts-20-faster-with-actions-custom-images/
@@ -66,6 +78,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-28 | https://www.reuters.com/business/elon-musks-trial-against-sam-altman-reveal-ongoing-power-struggle-openai-2026-04-27/
 2026-04-28 | https://www.reuters.com/world/asia-pacific/china-blocks-foreign-acquisition-ai-startup-manus-2026-04-27/
 2026-04-28 | https://about.fb.com/news/2026/04/powering-ai-strengthening-the-grid-space-solar-energy-and-long-duration-storage/
+2026-04-27 | https://openai.com/index/our-principles/
+2026-04-27 | https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation
+2026-04-27 | https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/
+2026-04-27 | https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/
+2026-04-27 | https://venturebeat.com/security/context-decay-orchestration-drift-and-the-rise-of-silent-failures-in-ai-systems
+2026-04-27 | https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns
+2026-04-27 | https://venturebeat.com/technology/ai-synthetic-audiences-are-already-here-and-poised-to-upend-the-consulting-industry
+2026-04-27 | https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/
+2026-04-27 | https://pytorch.org/blog/ibm-research-uses-vllm-at-the-heart-of-its-rits-platform/
+2026-04-27 | https://www.morningstar.com/news/pr-newswire/20260426sf43387/aptori-launches-autonomous-offensive-testing-to-eliminate-the-ai-driven-security-backlog
 2026-04-26 | https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/
 2026-04-26 | https://github.blog/changelog/2026-04-24-inline-agent-mode-in-preview-and-more-in-github-copilot-for-jetbrains-ides/
 2026-04-26 | https://platform.claude.com/docs/en/release-notes/overview
@@ -121,36 +143,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-22 | https://blogs.microsoft.com/blog/2026/04/21/accelerating-frontier-transformation-with-microsoft-partners/
 2026-04-22 | https://about.fb.com/news/2026/04/breaking-ground-new-ai-optimized-data-center-tulsa-oklahoma/
 2026-04-22 | https://venturebeat.com/security/ai-agent-runtime-security-system-card-audit-comment-and-control-2026
-2026-04-21 | https://github.blog/changelog/2026-04-20-changes-to-github-copilot-plans-for-individuals/
-2026-04-21 | https://blog.cloudflare.com/ai-code-review/
-2026-04-21 | https://blog.cloudflare.com/internal-ai-engineering-stack/
-2026-04-21 | https://www.reuters.com/business/finance/banks-close-contact-with-european-regulator-anthropics-mythos-banker-says-2026-04-20/
-2026-04-21 | https://9to5google.com/2026/04/20/google-ai-studio-limits/
-2026-04-21 | https://9to5google.com/2026/04/20/gemini-chrome-more-countries/
-2026-04-21 | https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/
-2026-04-21 | https://docs.anthropic.com/en/release-notes/api
-2026-04-21 | https://blog.cloudflare.com/agents-week-in-review/
-2026-04-21 | https://www.theverge.com/tech/914996/sergey-brin-said-google-needs-to-catch-up-to-anthropic-on-ai-coding-agents
-2026-04-27 | https://openai.com/index/our-principles/
-2026-04-27 | https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation
-2026-04-27 | https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/
-2026-04-27 | https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/
-2026-04-27 | https://venturebeat.com/security/context-decay-orchestration-drift-and-the-rise-of-silent-failures-in-ai-systems
-2026-04-27 | https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns
-2026-04-27 | https://venturebeat.com/technology/ai-synthetic-audiences-are-already-here-and-poised-to-upend-the-consulting-industry
-2026-04-27 | https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/
-2026-04-27 | https://pytorch.org/blog/ibm-research-uses-vllm-at-the-heart-of-its-rits-platform/
-2026-04-27 | https://www.morningstar.com/news/pr-newswire/20260426sf43387/aptori-launches-autonomous-offensive-testing-to-eliminate-the-ai-driven-security-backlog
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 34
-- **Gesamt erfasste Meldungen:** 477
+- **Gesamt Recherche-Läufe:** 35
+- **Gesamt erfasste Meldungen:** 488
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-28
+- **Letzter Lauf:** 2026-04-29
 
 ---
 
