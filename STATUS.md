@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-04-30 | 12 | 3 | – | – |
 | 2026-04-29 | 11 | 2 | – | – |
 | 2026-04-28 | 10 | 2 | – | – |
 | 2026-04-27 | 10 | 2 | – | – |
@@ -57,6 +58,18 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-04-30 | https://news.microsoft.com/source/2026/04/29/microsoft-cloud-and-ai-strength-fuels-third-quarter-results/
+2026-04-30 | https://www.aboutamazon.com/news/company-news/amazon-earnings-q1-2026-report
+2026-04-30 | https://www.reuters.com/business/alphabets-cloud-unit-beats-quarterly-revenue-estimates-strong-ai-demand-2026-04-29/
+2026-04-30 | https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/
+2026-04-30 | https://blog.google/products-and-platforms/products/photos/google-photos-wardrobe-feature/
+2026-04-30 | https://blog.google/products-and-platforms/platforms/google-tv/enjoy-new-ways-to-create-search-and-stream-on-google-tv/
+2026-04-30 | https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/
+2026-04-30 | https://techcrunch.com/2026/04/29/uber-is-in-the-hotel-business-now-thanks-in-part-to-ai/
+2026-04-30 | https://www.reuters.com/business/meta-lifts-capital-expenditure-forecast-doubling-down-ai-push-2026-04-29/
+2026-04-30 | https://www.reuters.com/sustainability/sustainable-finance-reporting/samsung-elec-q1-profit-surges-eightfold-record-2026-04-30/
+2026-04-30 | https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/
+2026-04-30 | https://newsroom.ibm.com/2026-04-29-the-mit-ibm-computing-research-lab-launches-to-shape-the-future-of-ai-and-quantum-computing
 2026-04-29 | https://openai.com/index/openai-on-aws/
 2026-04-29 | https://www.aboutamazon.com/news/aws/amazon-connect-ai-business-set
 2026-04-29 | https://www.aboutamazon.com/news/retail/amazon-hear-the-highlights-join-the-chat
@@ -132,27 +145,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-23 | https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise
 2026-04-23 | https://arxiv.org/abs/2604.19354
 2026-04-23 | https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/
-2026-04-22 | https://openai.com/index/scaling-codex-to-enterprises-worldwide/
-2026-04-22 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/
-2026-04-22 | https://openai.com/index/introducing-chatgpt-images-2-0/
-2026-04-22 | https://www.anthropic.com/news/anthropic-amazon-compute
-2026-04-22 | https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/
-2026-04-22 | https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade
-2026-04-22 | https://blog.cloudflare.com/past-bots-and-humans/
-2026-04-22 | https://venturebeat.com/orchestration/kimi-k2-6-runs-agents-for-days-and-exposes-the-limits-of-enterprise-orchestration
-2026-04-22 | https://blogs.microsoft.com/blog/2026/04/21/accelerating-frontier-transformation-with-microsoft-partners/
-2026-04-22 | https://about.fb.com/news/2026/04/breaking-ground-new-ai-optimized-data-center-tulsa-oklahoma/
-2026-04-22 | https://venturebeat.com/security/ai-agent-runtime-security-system-card-audit-comment-and-control-2026
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 35
-- **Gesamt erfasste Meldungen:** 488
+- **Gesamt Recherche-Läufe:** 36
+- **Gesamt erfasste Meldungen:** 500
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-29
+- **Letzter Lauf:** 2026-04-30
 
 ---
 
