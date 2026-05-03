@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-03 | 14 | 3 | – | – |
 | 2026-04-30 | 12 | 3 | – | – |
 | 2026-04-29 | 11 | 2 | – | – |
 | 2026-04-28 | 10 | 2 | – | – |
@@ -58,6 +59,20 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-03 | https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/
+2026-05-03 | https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/
+2026-05-03 | https://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html
+2026-05-03 | https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai
+2026-05-03 | https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/
+2026-05-03 | https://9to5google.com/2026/05/01/google-cosmo-assistant/
+2026-05-03 | https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/
+2026-05-03 | https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/
+2026-05-03 | https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/
+2026-05-03 | https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/
+2026-05-03 | https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/
+2026-05-03 | https://www.reuters.com/world/middle-east/us-navy-turns-ai-firm-domino-options-counter-iranian-mines-2026-05-01/
+2026-05-03 | https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/
+2026-05-03 | https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/
 2026-04-30 | https://news.microsoft.com/source/2026/04/29/microsoft-cloud-and-ai-strength-fuels-third-quarter-results/
 2026-04-30 | https://www.aboutamazon.com/news/company-news/amazon-earnings-q1-2026-report
 2026-04-30 | https://www.reuters.com/business/alphabets-cloud-unit-beats-quarterly-revenue-estimates-strong-ai-demand-2026-04-29/
@@ -111,50 +126,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-26 | https://www.reuters.com/business/intel-set-record-high-ai-driven-cpu-demand-powers-upbeat-forecast-2026-04-24/
 2026-04-26 | https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/
 2026-04-26 | https://www.reuters.com/markets/commodities/chinas-deeprouteai-says-over-300000-vehicles-use-its-advanced-driving-system-2026-04-25/
-2026-04-25 | https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/
-2026-04-25 | https://github.blog/changelog/2026-04-24-inline-agent-mode-in-preview-and-more-in-github-copilot-for-jetbrains-ides
-2026-04-25 | https://www.mediapost.com/publications/article/414547/meta-rolls-out-ai-business-assistant-to-all-advert.html
-2026-04-25 | https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/
-2026-04-25 | https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/
-2026-04-25 | https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/
-2026-04-25 | https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/
-2026-04-25 | https://arxiv.org/abs/2604.21345
-2026-04-25 | https://arxiv.org/abs/2604.21446
-2026-04-25 | https://arxiv.org/abs/2604.21794
-2026-04-24 | https://openai.com/index/introducing-gpt-5-5/
-2026-04-24 | https://github.blog/changelog/2026-04-23-copilot-chat-improvements-for-pull-requests/
-2026-04-24 | https://github.blog/changelog/2026-04-23-better-debugging-with-github-copilot-on-the-web
-2026-04-24 | https://github.blog/changelog/2026-04-23-view-and-manage-agent-sessions-from-issues-and-projects/
-2026-04-24 | https://www.anthropic.com/engineering/april-23-postmortem
-2026-04-24 | https://github.blog/changelog/2026-04-23-copilot-cloud-agent-fields-added-to-usage-metrics
-2026-04-24 | https://newsroom.ibm.com/blog-ibm-working-together-with-google-cloud-to-accelerate-enterprise-ai-and-hybrid-cloud-modernization
-2026-04-24 | https://arxiv.org/abs/2604.21910
-2026-04-24 | https://arxiv.org/abs/2604.21480
-2026-04-24 | https://arxiv.org/abs/2604.21769
-2026-04-24 | https://arxiv.org/abs/2604.21854
-2026-04-23 | https://openai.com/index/introducing-workspace-agents-in-chatgpt/
-2026-04-23 | https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform
-2026-04-23 | https://cloud.google.com/blog/products/compute/ai-infrastructure-at-next26
-2026-04-23 | https://workspace.google.com/blog/product-announcements/introducing-workspace-intelligence
-2026-04-23 | https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/
-2026-04-23 | https://openai.com/index/making-chatgpt-better-for-clinicians/
-2026-04-23 | https://workspaceupdates.googleblog.com/2026/04/ai-overviews-in-drive-now-generally-available.html
-2026-04-23 | https://mapsplatform.google.com/resources/blog/three-new-ways-to-build-with-real-world-imagery-and-ai/
-2026-04-23 | https://openai.com/index/introducing-openai-privacy-filter/
-2026-04-23 | https://cloud.google.com/blog/products/application-development/gemini-cloud-assist-at-next26
-2026-04-23 | https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise
-2026-04-23 | https://arxiv.org/abs/2604.19354
-2026-04-23 | https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 36
-- **Gesamt erfasste Meldungen:** 500
+- **Gesamt Recherche-Läufe:** 37
+- **Gesamt erfasste Meldungen:** 514
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-30
+- **Letzter Lauf:** 2026-05-03
 
 ---
 
