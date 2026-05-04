@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-01 | 12 | 3 | – | – |
 | 2026-04-30 | 12 | 3 | – | – |
 | 2026-04-29 | 11 | 2 | – | – |
 | 2026-04-28 | 10 | 2 | – | – |
@@ -58,6 +59,18 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-01 | https://www.aboutamazon.com/news/aws/amazon-quick-desktop-ai-assistant
+2026-05-01 | https://openai.com/index/advanced-account-security/
+2026-05-01 | https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update
+2026-05-01 | https://workspaceupdates.googleblog.com/2026/04/new-ways-to-customize-ai-generated-meeting-notes.html
+2026-05-01 | https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/
+2026-05-01 | https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/
+2026-05-01 | https://blog.google/products/ads-commerce/ai-max-for-shopping/
+2026-05-01 | https://blog.google/products/ads-commerce/ai-max-for-travel/
+2026-05-01 | https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/
+2026-05-01 | https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/
+2026-05-01 | https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/
+2026-05-01 | https://newsroom.ibm.com/2026-04-30-ibm-and-dallara-to-advance-ai-and-quantum-powered-design-for-high-performance-vehicles
 2026-04-30 | https://news.microsoft.com/source/2026/04/29/microsoft-cloud-and-ai-strength-fuels-third-quarter-results/
 2026-04-30 | https://www.aboutamazon.com/news/company-news/amazon-earnings-q1-2026-report
 2026-04-30 | https://www.reuters.com/business/alphabets-cloud-unit-beats-quarterly-revenue-estimates-strong-ai-demand-2026-04-29/
@@ -132,29 +145,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-24 | https://arxiv.org/abs/2604.21480
 2026-04-24 | https://arxiv.org/abs/2604.21769
 2026-04-24 | https://arxiv.org/abs/2604.21854
-2026-04-23 | https://openai.com/index/introducing-workspace-agents-in-chatgpt/
-2026-04-23 | https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform
-2026-04-23 | https://cloud.google.com/blog/products/compute/ai-infrastructure-at-next26
-2026-04-23 | https://workspace.google.com/blog/product-announcements/introducing-workspace-intelligence
-2026-04-23 | https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/
-2026-04-23 | https://openai.com/index/making-chatgpt-better-for-clinicians/
-2026-04-23 | https://workspaceupdates.googleblog.com/2026/04/ai-overviews-in-drive-now-generally-available.html
-2026-04-23 | https://mapsplatform.google.com/resources/blog/three-new-ways-to-build-with-real-world-imagery-and-ai/
-2026-04-23 | https://openai.com/index/introducing-openai-privacy-filter/
-2026-04-23 | https://cloud.google.com/blog/products/application-development/gemini-cloud-assist-at-next26
-2026-04-23 | https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise
-2026-04-23 | https://arxiv.org/abs/2604.19354
-2026-04-23 | https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 36
-- **Gesamt erfasste Meldungen:** 500
+- **Gesamt Recherche-Läufe:** 37
+- **Gesamt erfasste Meldungen:** 512
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-04-30
+- **Letzter Lauf:** 2026-05-01
 
 ---
 
