@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-02 | 20 | 5 | – | – |
 | 2026-05-01 | 12 | 3 | – | – |
 | 2026-04-30 | 12 | 3 | – | – |
 | 2026-04-29 | 11 | 2 | – | – |
@@ -59,6 +60,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-02 | https://openai.com/index/advanced-account-security/
+2026-05-02 | https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
+2026-05-02 | https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update/
+2026-05-02 | https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/
+2026-05-02 | https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/
+2026-05-02 | https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/
+2026-05-02 | https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-gemini-tips-2026/
+2026-05-02 | https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce/
+2026-05-02 | https://newsroom.ibm.com/2026-05-01-IBM-Debuts-New-AI-Powered-Features-for-the-Scuderia-Ferrari-App
+2026-05-02 | https://blog.google/products/ads-commerce/ai-max-new-features/
+2026-05-02 | https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/
+2026-05-02 | https://www.reuters.com/legal/litigation/banks-asia-brace-complex-cyber-threats-frontier-ai-2026-04-30/
+2026-05-02 | https://www.reuters.com/world/china/prices-nvidias-b300-server-1-million-china-us-curbs-sources-say-2026-04-30/
+2026-05-02 | https://www.reuters.com/business/retail-consumer/google-cloud-pulls-ahead-big-techs-ai-bet-swells-700-billion-2026-04-30/
+2026-05-02 | https://www.reuters.com/business/atlassian-beats-quarterly-revenue-estimates-strong-cloud-demand-shares-rise-2026-04-30/
+2026-05-02 | https://www.reuters.com/technology/iron-mountain-raises-annual-forecast-ai-fueled-data-center-boom-2026-04-30/
+2026-05-02 | https://www.reuters.com/business/schneider-electric-tops-revenue-forecast-it-rides-ai-data-centre-wave-2026-04-30/
+2026-05-02 | https://www.reuters.com/sustainability/sustainable-finance-reporting/us-growth-picks-up-first-quarter-2026-04-30/
+2026-05-02 | https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/
+2026-05-02 | https://newsroom.ibm.com/2026-04-30-ibm-and-dallara-to-advance-ai-and-quantum-powered-design-for-high-performance-vehicles
 2026-05-01 | https://www.aboutamazon.com/news/aws/amazon-quick-desktop-ai-assistant
 2026-05-01 | https://openai.com/index/advanced-account-security/
 2026-05-01 | https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update
@@ -119,12 +140,10 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-26 | https://platform.claude.com/docs/en/release-notes/overview
 2026-04-26 | https://www.epsilla.com/blogs/2026-04-25-48-hours-after-openai-paywalled-chronicle-a-team-of-gen-z-de
 2026-04-26 | https://huggingface.co/blog/deepseekv4
-2026-04-26 | https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns
 2026-04-26 | https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html
 2026-04-26 | https://www.reuters.com/business/intel-set-record-high-ai-driven-cpu-demand-powers-upbeat-forecast-2026-04-24/
 2026-04-26 | https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/
 2026-04-26 | https://www.reuters.com/markets/commodities/chinas-deeprouteai-says-over-300000-vehicles-use-its-advanced-driving-system-2026-04-25/
-2026-04-25 | https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/
 2026-04-25 | https://github.blog/changelog/2026-04-24-inline-agent-mode-in-preview-and-more-in-github-copilot-for-jetbrains-ides
 2026-04-25 | https://www.mediapost.com/publications/article/414547/meta-rolls-out-ai-business-assistant-to-all-advert.html
 2026-04-25 | https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/
@@ -152,9 +171,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 37
-- **Gesamt erfasste Meldungen:** 512
+- **Gesamt erfasste Meldungen:** 520
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-01
+- **Letzter Lauf:** 2026-05-02
 
 ---
 
