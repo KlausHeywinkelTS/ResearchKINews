@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-03 | 14 | 3 | – | – |
 | 2026-05-02 | 20 | 5 | – | – |
 | 2026-05-01 | 12 | 3 | – | – |
 | 2026-04-30 | 12 | 3 | – | – |
@@ -60,6 +61,20 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-03 | https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/
+2026-05-03 | https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/
+2026-05-03 | https://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html
+2026-05-03 | https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai
+2026-05-03 | https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/
+2026-05-03 | https://9to5google.com/2026/05/01/google-cosmo-assistant/
+2026-05-03 | https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/
+2026-05-03 | https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/
+2026-05-03 | https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/
+2026-05-03 | https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/
+2026-05-03 | https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/
+2026-05-03 | https://www.reuters.com/world/middle-east/us-navy-turns-ai-firm-domino-options-counter-iranian-mines-2026-05-01/
+2026-05-03 | https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/
+2026-05-03 | https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/
 2026-05-02 | https://openai.com/index/advanced-account-security/
 2026-05-02 | https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
 2026-05-02 | https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update/
@@ -171,9 +186,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 37
-- **Gesamt erfasste Meldungen:** 520
+- **Gesamt erfasste Meldungen:** 514
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-02
+- **Letzter Lauf:** 2026-05-03
 
 ---
 
