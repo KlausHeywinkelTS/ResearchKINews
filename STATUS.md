@@ -10,6 +10,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
 | 2026-05-02 | 20 | 5 | – | – |
+| 2026-05-01 | 12 | 3 | – | – |
 | 2026-04-30 | 12 | 3 | – | – |
 | 2026-04-29 | 11 | 2 | – | – |
 | 2026-04-28 | 10 | 2 | – | – |
@@ -79,6 +80,18 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-02 | https://www.reuters.com/sustainability/sustainable-finance-reporting/us-growth-picks-up-first-quarter-2026-04-30/
 2026-05-02 | https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/
 2026-05-02 | https://newsroom.ibm.com/2026-04-30-ibm-and-dallara-to-advance-ai-and-quantum-powered-design-for-high-performance-vehicles
+2026-05-01 | https://www.aboutamazon.com/news/aws/amazon-quick-desktop-ai-assistant
+2026-05-01 | https://openai.com/index/advanced-account-security/
+2026-05-01 | https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update
+2026-05-01 | https://workspaceupdates.googleblog.com/2026/04/new-ways-to-customize-ai-generated-meeting-notes.html
+2026-05-01 | https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/
+2026-05-01 | https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/
+2026-05-01 | https://blog.google/products/ads-commerce/ai-max-for-shopping/
+2026-05-01 | https://blog.google/products/ads-commerce/ai-max-for-travel/
+2026-05-01 | https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/
+2026-05-01 | https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/
+2026-05-01 | https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/
+2026-05-01 | https://newsroom.ibm.com/2026-04-30-ibm-and-dallara-to-advance-ai-and-quantum-powered-design-for-high-performance-vehicles
 2026-04-30 | https://news.microsoft.com/source/2026/04/29/microsoft-cloud-and-ai-strength-fuels-third-quarter-results/
 2026-04-30 | https://www.aboutamazon.com/news/company-news/amazon-earnings-q1-2026-report
 2026-04-30 | https://www.reuters.com/business/alphabets-cloud-unit-beats-quarterly-revenue-estimates-strong-ai-demand-2026-04-29/
@@ -140,6 +153,17 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-25 | https://arxiv.org/abs/2604.21345
 2026-04-25 | https://arxiv.org/abs/2604.21446
 2026-04-25 | https://arxiv.org/abs/2604.21794
+2026-04-24 | https://openai.com/index/introducing-gpt-5-5/
+2026-04-24 | https://github.blog/changelog/2026-04-23-copilot-chat-improvements-for-pull-requests/
+2026-04-24 | https://github.blog/changelog/2026-04-23-better-debugging-with-github-copilot-on-the-web
+2026-04-24 | https://github.blog/changelog/2026-04-23-view-and-manage-agent-sessions-from-issues-and-projects/
+2026-04-24 | https://www.anthropic.com/engineering/april-23-postmortem
+2026-04-24 | https://github.blog/changelog/2026-04-23-copilot-cloud-agent-fields-added-to-usage-metrics
+2026-04-24 | https://newsroom.ibm.com/blog-ibm-working-together-with-google-cloud-to-accelerate-enterprise-ai-and-hybrid-cloud-modernization
+2026-04-24 | https://arxiv.org/abs/2604.21910
+2026-04-24 | https://arxiv.org/abs/2604.21480
+2026-04-24 | https://arxiv.org/abs/2604.21769
+2026-04-24 | https://arxiv.org/abs/2604.21854
 ```
 
 ---
