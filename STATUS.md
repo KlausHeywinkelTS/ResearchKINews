@@ -9,11 +9,8 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
-<<<<<<< HEAD
 | 2026-05-05 | 22 | 5 | – | – |
-=======
-| 2026-05-06 | 13 | 3 | – | – |
->>>>>>> 98463df8473f01bab7ded26f00add3ac0853fe9b
+| 2026-05-04 | 22 | 5 | – | – |
 | 2026-05-03 | 14 | 3 | – | – |
 | 2026-05-02 | 20 | 5 | – | – |
 | 2026-05-01 | 12 | 3 | – | – |
@@ -66,7 +63,6 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
-<<<<<<< HEAD
 2026-05-05 | https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/
 2026-05-05 | https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-ai/
 2026-05-05 | https://openai.com/index/openai-pwc-finance-collaboration/
@@ -89,21 +85,6 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-05 | https://www.globenewswire.com/news-release/2026/05/04/3286769/0/en/Operant-AI-Launches-Endpoint-Protector-Securing-Shadow-AI-Coding-Agents-and-MCP-Across-the-Enterprise.html
 2026-05-05 | https://www.nature.com/articles/s41586-026-10303-2
 2026-05-05 | https://www.nature.com/articles/s41598-026-46517-7
-=======
-2026-05-06 | https://openai.com/index/gpt-5-5-instant/
-2026-05-06 | https://openai.com/index/new-ways-to-buy-chatgpt-ads/
-2026-05-06 | https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
-2026-05-06 | https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/
-2026-05-06 | https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/
-2026-05-06 | https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/
-2026-05-06 | https://www.ibm.com/new/announcements/manage-all-your-ai-agents-in-one-place-with-watsonx-orchestrate
-2026-05-06 | https://www.ibm.com/new/announcements/from-insight-to-action-closing-the-gap-in-modern-it-operations
-2026-05-06 | https://www.ibm.com/new/announcements/announcing-ibm-concert-secure-coder-bringing-security-to-the-moment-code-is-written
-2026-05-06 | https://www.ibm.com/new/announcements/real-time-context-for-ai-across-hybrid-environments
-2026-05-06 | https://www.ibm.com/new/announcements/ibm-sovereign-core-the-new-end-to-end-system-for-sovereign-ai
-2026-05-06 | https://www.reuters.com/business/meta-plans-advanced-agentic-ai-assistant-users-ft-reports-2026-05-05/
-2026-05-06 | https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/
->>>>>>> 98463df8473f01bab7ded26f00add3ac0853fe9b
 2026-05-03 | https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/
 2026-05-03 | https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/
 2026-05-03 | https://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html
@@ -173,7 +154,6 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-29 | https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/
 2026-04-29 | https://www.reuters.com/business/finance/citigroup-lifts-ai-market-view-over-4-trillion-enterprise-adoption-2026-04-28/
 2026-04-29 | https://blogs.microsoft.com/blog/2026/04/28/unlocking-human-ambition-to-drive-business-growth-with-ai/
-<<<<<<< HEAD
 2026-04-28 | https://openai.com/index/next-phase-of-microsoft-partnership/
 2026-04-28 | https://newsroom.ibm.com/2026-04-28-introducing-ibm-bob-ai-development-partner-that-takes-enterprises-from-ai-assisted-coding-to-production-ready-software
 2026-04-28 | https://github.blog/changelog/2026-04-27-copilot-cloud-agent-starts-20-faster-with-actions-custom-images/
@@ -184,8 +164,6 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-28 | https://www.reuters.com/business/elon-musks-trial-against-sam-altman-reveal-ongoing-power-struggle-openai-2026-04-27/
 2026-04-28 | https://www.reuters.com/world/asia-pacific/china-blocks-foreign-acquisition-ai-startup-manus-2026-04-27/
 2026-04-28 | https://about.fb.com/news/2026/04/powering-ai-strengthening-the-grid-space-solar-energy-and-long-duration-storage/
-=======
->>>>>>> 98463df8473f01bab7ded26f00add3ac0853fe9b
 ```
 
 ---
@@ -193,15 +171,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 38
-<<<<<<< HEAD
-- **Gesamt erfasste Meldungen:** 536
-- **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-05
-=======
 - **Gesamt erfasste Meldungen:** 527
 - **Erster Lauf:** 2026-03-24
 - **Letzter Lauf:** 2026-05-06
->>>>>>> 98463df8473f01bab7ded26f00add3ac0853fe9b
 
 ---
 
