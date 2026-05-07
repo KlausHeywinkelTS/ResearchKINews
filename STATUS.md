@@ -9,6 +9,8 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-07 | 16 | 5 | – | – |
+| 2026-05-06 | 13 | 3 | – | – |
 | 2026-05-05 | 22 | 5 | – | – |
 | 2026-05-04 | 22 | 5 | – | – |
 | 2026-05-03 | 14 | 3 | – | – |
@@ -63,6 +65,35 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-07 | https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/
+2026-05-07 | https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/
+2026-05-07 | https://www.anthropic.com/news/higher-limits-spacex
+2026-05-07 | https://openai.com/index/mrc-supercomputer-networking/
+2026-05-07 | https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-ai-agents/
+2026-05-07 | https://github.blog/changelog/2026-05-06-github-copilot-in-visual-studio-code-april-releases/
+2026-05-07 | https://github.blog/changelog/2026-05-05-secret-scanning-with-github-mcp-server-is-now-generally-available/
+2026-05-07 | https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search/
+2026-05-07 | https://www.theverge.com/tech/925559/google-project-mariner-shut-down
+2026-05-07 | https://openai.com/index/how-chatgpt-protects-privacy/
+2026-05-07 | https://about.fb.com/news/2026/05/ai-age-assurance-teens/
+2026-05-07 | https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/
+2026-05-07 | https://aws.amazon.com/about-aws/whats-new/2026/05/bedrock-agentcore-launch-aws-govcloud-us/
+2026-05-07 | https://www.ibm.com/new/announcements/ready-to-put-ai-to-work-so-are-our-agents
+2026-05-07 | https://www.ibm.com/new/announcements/advancing-ai-operations-with-ai-agent-and-llm-observability
+2026-05-07 | https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization
+2026-05-06 | https://openai.com/index/gpt-5-5-instant/
+2026-05-06 | https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/
+2026-05-06 | https://www.ibm.com/new/announcements/manage-all-your-ai-agents-in-one-place-with-watsonx-orchestrate
+2026-05-06 | https://openai.com/index/new-ways-to-buy-chatgpt-ads/
+2026-05-06 | https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/
+2026-05-06 | https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
+2026-05-06 | https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/
+2026-05-06 | https://www.ibm.com/new/announcements/from-insight-to-action-closing-the-gap-in-modern-it-operations
+2026-05-06 | https://www.ibm.com/new/announcements/announcing-ibm-concert-secure-coder-bringing-security-to-the-moment-code-is-written
+2026-05-06 | https://www.ibm.com/new/announcements/real-time-context-for-ai-across-hybrid-environments
+2026-05-06 | https://www.ibm.com/new/announcements/ibm-sovereign-core-the-new-end-to-end-system-for-sovereign-ai
+2026-05-06 | https://www.reuters.com/business/meta-plans-advanced-agentic-ai-assistant-users-ft-reports-2026-05-05/
+2026-05-06 | https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/
 2026-05-05 | https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/
 2026-05-05 | https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-ai/
 2026-05-05 | https://openai.com/index/openai-pwc-finance-collaboration/
@@ -143,37 +174,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-04-30 | https://www.reuters.com/sustainability/sustainable-finance-reporting/samsung-elec-q1-profit-surges-eightfold-record-2026-04-30/
 2026-04-30 | https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/
 2026-04-30 | https://newsroom.ibm.com/2026-04-29-the-mit-ibm-computing-research-lab-launches-to-shape-the-future-of-ai-and-quantum-computing
-2026-04-29 | https://openai.com/index/openai-on-aws/
-2026-04-29 | https://www.aboutamazon.com/news/aws/amazon-connect-ai-business-set
-2026-04-29 | https://www.aboutamazon.com/news/retail/amazon-hear-the-highlights-join-the-chat
-2026-04-29 | https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/
-2026-04-29 | https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/
-2026-04-29 | https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/
-2026-04-29 | https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/
-2026-04-29 | https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/
-2026-04-29 | https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/
-2026-04-29 | https://www.reuters.com/business/finance/citigroup-lifts-ai-market-view-over-4-trillion-enterprise-adoption-2026-04-28/
-2026-04-29 | https://blogs.microsoft.com/blog/2026/04/28/unlocking-human-ambition-to-drive-business-growth-with-ai/
-2026-04-28 | https://openai.com/index/next-phase-of-microsoft-partnership/
-2026-04-28 | https://newsroom.ibm.com/2026-04-28-introducing-ibm-bob-ai-development-partner-that-takes-enterprises-from-ai-assisted-coding-to-production-ready-software
-2026-04-28 | https://github.blog/changelog/2026-04-27-copilot-cloud-agent-starts-20-faster-with-actions-custom-images/
-2026-04-28 | https://github.blog/changelog/2026-04-27-copilot-student-gpt-5-3-codex-removal-from-model-picker/
-2026-04-28 | https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026
-2026-04-28 | https://www.reuters.com/world/china/chinas-deepseek-slashes-prices-new-ai-model-2026-04-27/
-2026-04-28 | https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/
-2026-04-28 | https://www.reuters.com/business/elon-musks-trial-against-sam-altman-reveal-ongoing-power-struggle-openai-2026-04-27/
-2026-04-28 | https://www.reuters.com/world/asia-pacific/china-blocks-foreign-acquisition-ai-startup-manus-2026-04-27/
-2026-04-28 | https://about.fb.com/news/2026/04/powering-ai-strengthening-the-grid-space-solar-energy-and-long-duration-storage/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 38
-- **Gesamt erfasste Meldungen:** 527
+- **Gesamt Recherche-Läufe:** 45
+- **Gesamt erfasste Meldungen:** 639
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-06
+- **Letzter Lauf:** 2026-05-07
 
 ---
 
