@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-08 | 22 | 5 | – | – |
 | 2026-05-07 | 16 | 5 | – | – |
 | 2026-05-06 | 13 | 3 | – | – |
 | 2026-05-05 | 22 | 5 | – | – |
@@ -65,6 +66,24 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-08 | https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/
+2026-05-08 | https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/
+2026-05-08 | https://openai.com/index/testing-ads-in-chatgpt/
+2026-05-08 | https://openai.com/index/introducing-b2b-signals/
+2026-05-08 | https://openai.com/index/introducing-chatgpt-futures-class-of-2026/
+2026-05-08 | https://www.theverge.com/ai-artificial-intelligence/926520/openai-launched-a-codex-extension-for-chrome
+2026-05-08 | https://claude.com/blog/new-in-claude-managed-agents
+2026-05-08 | https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook
+2026-05-08 | https://github.blog/changelog/2026-05-07-claude-sonnet-4-deprecated/
+2026-05-08 | https://github.blog/changelog/2026-05-07-upcoming-deprecation-of-gpt-4-1
+2026-05-08 | https://github.blog/changelog/2026-05-07-rubber-duck-in-github-copilot-cli-now-supports-more-models
+2026-05-08 | https://github.blog/changelog/2026-05-06-enterprise-managed-plugins-in-github-copilot-cli-are-now-in-public-preview
+2026-05-08 | https://ibm.com/new/announcements/productivity-revolution-with-ai-agents-that-work-across-stack
+2026-05-08 | https://www.ibm.com/new/announcements/introducing-new-ai-agents-in-ibm-watsonx-orchestrate-designed-to-deliver-enterprise-productivity-at-scale
+2026-05-08 | https://www.ibm.com/new/announcements/revolutionizing-ai-agent-management-with-ibm-watsonx-orchestrate-new-observability-and-governance-capabilities
+2026-05-08 | https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/
+2026-05-08 | https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/
+2026-05-08 | https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/
 2026-05-07 | https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/
 2026-05-07 | https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/
 2026-05-07 | https://www.anthropic.com/news/higher-limits-spacex
@@ -99,7 +118,6 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-05 | https://openai.com/index/openai-pwc-finance-collaboration/
 2026-05-05 | https://www.anthropic.com/news/enterprise-ai-services-company?vid=13
 2026-05-05 | https://www.prnewswire.com/news-releases/incredibuild-launches-islo-an-agent-sandbox-with-granular-security-and-robust-isolation-bringing-enterprise-controls-to-ai-driven-software-development-302761292.html
-2026-05-05 | https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
 2026-05-05 | https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-dataset-qa/
 2026-05-05 | https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/
 2026-05-05 | https://www.businesswire.com/news/home/20260504163346/en/Highspot-Unveils-GTM-Agent-to-Turn-Go-to-Market-Strategy-into-a-Winning-Revenue-Performance-System
@@ -109,7 +127,6 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-05 | https://www.businesswire.com/news/home/20260504771246/en/Loop-Launches-the-Logistics-Data-Platform-Powered-by-New-AI-Capabilities
 2026-05-05 | https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch
 2026-05-05 | https://www.theverge.com/tech/922886/instagram-is-getting-an-ai-creator-label
-2026-05-05 | https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/
 2026-05-05 | https://www.buildfastwithai.com/blogs/kimi-k2-6-review-benchmarks
 2026-05-05 | https://www.theverge.com/ai-artificial-intelligence/923776/the-white-house-reportedly-is-working-on-an-executive-order-about-ai-oversight-and-access
 2026-05-05 | https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/
@@ -133,14 +150,11 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-02 | https://openai.com/index/advanced-account-security/
 2026-05-02 | https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
 2026-05-02 | https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update/
-2026-05-02 | https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/
-2026-05-02 | https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/
 2026-05-02 | https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/
 2026-05-02 | https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-gemini-tips-2026/
 2026-05-02 | https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce/
 2026-05-02 | https://newsroom.ibm.com/2026-05-01-IBM-Debuts-New-AI-Powered-Features-for-the-Scuderia-Ferrari-App
 2026-05-02 | https://blog.google/products/ads-commerce/ai-max-new-features/
-2026-05-02 | https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/
 2026-05-02 | https://www.reuters.com/legal/litigation/banks-asia-brace-complex-cyber-threats-frontier-ai-2026-04-30/
 2026-05-02 | https://www.reuters.com/world/china/prices-nvidias-b300-server-1-million-china-us-curbs-sources-say-2026-04-30/
 2026-05-02 | https://www.reuters.com/business/retail-consumer/google-cloud-pulls-ahead-big-techs-ai-bet-swells-700-billion-2026-04-30/
@@ -151,39 +165,24 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-02 | https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/
 2026-05-02 | https://newsroom.ibm.com/2026-04-30-ibm-and-dallara-to-advance-ai-and-quantum-powered-design-for-high-performance-vehicles
 2026-05-01 | https://www.aboutamazon.com/news/aws/amazon-quick-desktop-ai-assistant
-2026-05-01 | https://openai.com/index/advanced-account-security/
 2026-05-01 | https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update
 2026-05-01 | https://workspaceupdates.googleblog.com/2026/04/new-ways-to-customize-ai-generated-meeting-notes.html
 2026-05-01 | https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/
 2026-05-01 | https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/
 2026-05-01 | https://blog.google/products/ads-commerce/ai-max-for-shopping/
 2026-05-01 | https://blog.google/products/ads-commerce/ai-max-for-travel/
-2026-05-01 | https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/
 2026-05-01 | https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/
 2026-05-01 | https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/
-2026-05-01 | https://newsroom.ibm.com/2026-04-30-ibm-and-dallara-to-advance-ai-and-quantum-powered-design-for-high-performance-vehicles
-2026-04-30 | https://news.microsoft.com/source/2026/04/29/microsoft-cloud-and-ai-strength-fuels-third-quarter-results/
-2026-04-30 | https://www.aboutamazon.com/news/company-news/amazon-earnings-q1-2026-report
-2026-04-30 | https://www.reuters.com/business/alphabets-cloud-unit-beats-quarterly-revenue-estimates-strong-ai-demand-2026-04-29/
-2026-04-30 | https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/
-2026-04-30 | https://blog.google/products-and-platforms/products/photos/google-photos-wardrobe-feature/
-2026-04-30 | https://blog.google/products-and-platforms/platforms/google-tv/enjoy-new-ways-to-create-search-and-stream-on-google-tv/
-2026-04-30 | https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/
-2026-04-30 | https://techcrunch.com/2026/04/29/uber-is-in-the-hotel-business-now-thanks-in-part-to-ai/
-2026-04-30 | https://www.reuters.com/business/meta-lifts-capital-expenditure-forecast-doubling-down-ai-push-2026-04-29/
-2026-04-30 | https://www.reuters.com/sustainability/sustainable-finance-reporting/samsung-elec-q1-profit-surges-eightfold-record-2026-04-30/
-2026-04-30 | https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/
-2026-04-30 | https://newsroom.ibm.com/2026-04-29-the-mit-ibm-computing-research-lab-launches-to-shape-the-future-of-ai-and-quantum-computing
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 45
-- **Gesamt erfasste Meldungen:** 639
+- **Gesamt Recherche-Läufe:** 46
+- **Gesamt erfasste Meldungen:** 661
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-07
+- **Letzter Lauf:** 2026-05-08
 
 ---
 
