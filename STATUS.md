@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-09 | 20 | 3 | – | – |
 | 2026-05-08 | 22 | 5 | – | – |
 | 2026-05-07 | 16 | 5 | – | – |
 | 2026-05-06 | 13 | 3 | – | – |
@@ -66,6 +67,18 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-09 | https://openai.com/index/running-codex-safely/
+2026-05-09 | https://openai.com/index/introducing-trusted-contact-in-chatgpt/
+2026-05-09 | https://workspaceupdates.googleblog.com/2026/05/improvements-to-help-me-write-in-gmail.html
+2026-05-09 | https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users
+2026-05-09 | https://github.blog/changelog/2026-05-08-more-flexible-secrets-and-variables-for-copilot-cloud-agent/
+2026-05-09 | https://github.blog/changelog/2026-05-08-copilot-code-review-comment-types-now-in-usage-metrics-api/
+2026-05-09 | https://github.blog/changelog/2026-05-08-upcoming-deprecation-of-grok-code-fast-1/
+2026-05-09 | https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games
+2026-05-09 | https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers
+2026-05-09 | https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/
+2026-05-09 | https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/
+2026-05-09 | https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/
 2026-05-08 | https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/
 2026-05-08 | https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/
 2026-05-08 | https://openai.com/index/testing-ads-in-chatgpt/
@@ -164,25 +177,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-02 | https://www.reuters.com/sustainability/sustainable-finance-reporting/us-growth-picks-up-first-quarter-2026-04-30/
 2026-05-02 | https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/
 2026-05-02 | https://newsroom.ibm.com/2026-04-30-ibm-and-dallara-to-advance-ai-and-quantum-powered-design-for-high-performance-vehicles
-2026-05-01 | https://www.aboutamazon.com/news/aws/amazon-quick-desktop-ai-assistant
-2026-05-01 | https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update
-2026-05-01 | https://workspaceupdates.googleblog.com/2026/04/new-ways-to-customize-ai-generated-meeting-notes.html
-2026-05-01 | https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/
-2026-05-01 | https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/
-2026-05-01 | https://blog.google/products/ads-commerce/ai-max-for-shopping/
-2026-05-01 | https://blog.google/products/ads-commerce/ai-max-for-travel/
-2026-05-01 | https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/
-2026-05-01 | https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 46
-- **Gesamt erfasste Meldungen:** 661
+- **Gesamt Recherche-Läufe:** 47
+- **Gesamt erfasste Meldungen:** 681
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-08
+- **Letzter Lauf:** 2026-05-09
 
 ---
 
