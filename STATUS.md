@@ -10,6 +10,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
 | 2026-05-11 | 10 | 2 | – | – |
+| 2026-05-09 | 20 | 3 | – | – |
 | 2026-05-08 | 22 | 5 | – | – |
 | 2026-05-07 | 16 | 5 | – | – |
 | 2026-05-06 | 13 | 3 | – | – |
@@ -75,6 +76,18 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-11 | https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly
 2026-05-11 | https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/
 2026-05-11 | https://www.reuters.com/world/asia-pacific/alibaba-integrate-qwen-ai-with-taobao-launch-agentic-shopping-source-says-2026-05-10/
+2026-05-09 | https://openai.com/index/running-codex-safely/
+2026-05-09 | https://openai.com/index/introducing-trusted-contact-in-chatgpt/
+2026-05-09 | https://workspaceupdates.googleblog.com/2026/05/improvements-to-help-me-write-in-gmail.html
+2026-05-09 | https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users
+2026-05-09 | https://github.blog/changelog/2026-05-08-more-flexible-secrets-and-variables-for-copilot-cloud-agent/
+2026-05-09 | https://github.blog/changelog/2026-05-08-copilot-code-review-comment-types-now-in-usage-metrics-api/
+2026-05-09 | https://github.blog/changelog/2026-05-08-upcoming-deprecation-of-grok-code-fast-1/
+2026-05-09 | https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games
+2026-05-09 | https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers
+2026-05-09 | https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/
+2026-05-09 | https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/
+2026-05-09 | https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/
 2026-05-08 | https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/
 2026-05-08 | https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/
 2026-05-08 | https://openai.com/index/testing-ads-in-chatgpt/
@@ -142,6 +155,37 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-05 | https://www.globenewswire.com/news-release/2026/05/04/3286769/0/en/Operant-AI-Launches-Endpoint-Protector-Securing-Shadow-AI-Coding-Agents-and-MCP-Across-the-Enterprise.html
 2026-05-05 | https://www.nature.com/articles/s41586-026-10303-2
 2026-05-05 | https://www.nature.com/articles/s41598-026-46517-7
+2026-05-03 | https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/
+2026-05-03 | https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/
+2026-05-03 | https://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html
+2026-05-03 | https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai
+2026-05-03 | https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/
+2026-05-03 | https://9to5google.com/2026/05/01/google-cosmo-assistant/
+2026-05-03 | https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/
+2026-05-03 | https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/
+2026-05-03 | https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/
+2026-05-03 | https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/
+2026-05-03 | https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/
+2026-05-03 | https://www.reuters.com/world/middle-east/us-navy-turns-ai-firm-domino-options-counter-iranian-mines-2026-05-01/
+2026-05-03 | https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/
+2026-05-03 | https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/
+2026-05-02 | https://openai.com/index/advanced-account-security/
+2026-05-02 | https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
+2026-05-02 | https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update/
+2026-05-02 | https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/
+2026-05-02 | https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-gemini-tips-2026/
+2026-05-02 | https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce/
+2026-05-02 | https://newsroom.ibm.com/2026-05-01-IBM-Debuts-New-AI-Powered-Features-for-the-Scuderia-Ferrari-App
+2026-05-02 | https://blog.google/products/ads-commerce/ai-max-new-features/
+2026-05-02 | https://www.reuters.com/legal/litigation/banks-asia-brace-complex-cyber-threats-frontier-ai-2026-04-30/
+2026-05-02 | https://www.reuters.com/world/china/prices-nvidias-b300-server-1-million-china-us-curbs-sources-say-2026-04-30/
+2026-05-02 | https://www.reuters.com/business/retail-consumer/google-cloud-pulls-ahead-big-techs-ai-bet-swells-700-billion-2026-04-30/
+2026-05-02 | https://www.reuters.com/business/atlassian-beats-quarterly-revenue-estimates-strong-cloud-demand-shares-rise-2026-04-30/
+2026-05-02 | https://www.reuters.com/technology/iron-mountain-raises-annual-forecast-ai-fueled-data-center-boom-2026-04-30/
+2026-05-02 | https://www.reuters.com/business/schneider-electric-tops-revenue-forecast-it-rides-ai-data-centre-wave-2026-04-30/
+2026-05-02 | https://www.reuters.com/sustainability/sustainable-finance-reporting/us-growth-picks-up-first-quarter-2026-04-30/
+2026-05-02 | https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/
+2026-05-02 | https://newsroom.ibm.com/2026-04-30-ibm-and-dallara-to-advance-ai-and-quantum-powered-design-for-high-performance-vehicles
 ```
 
 ---
