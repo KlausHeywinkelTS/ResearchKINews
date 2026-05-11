@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-11 | 10 | 2 | – | – |
 | 2026-05-09 | 20 | 3 | – | – |
 | 2026-05-08 | 22 | 5 | – | – |
 | 2026-05-07 | 16 | 5 | – | – |
@@ -67,6 +68,14 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-11 | https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/
+2026-05-11 | https://blog.google/products/ads-commerce/bidding-budgeting-google-marketing-live-2026/
+2026-05-11 | https://completeaitraining.com/news/vercel-releases-deepsec-an-open-source-ai-security-scanner/
+2026-05-11 | https://itwire.com/business-it-news/business-technology/sas-unveils-governed-ai-agents-digital-twins-and-quantum-ambitions-at-innovate-2026
+2026-05-11 | https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security
+2026-05-11 | https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly
+2026-05-11 | https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/
+2026-05-11 | https://www.reuters.com/world/asia-pacific/alibaba-integrate-qwen-ai-with-taobao-launch-agentic-shopping-source-says-2026-05-10/
 2026-05-09 | https://openai.com/index/running-codex-safely/
 2026-05-09 | https://openai.com/index/introducing-trusted-contact-in-chatgpt/
 2026-05-09 | https://workspaceupdates.googleblog.com/2026/05/improvements-to-help-me-write-in-gmail.html
@@ -184,9 +193,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 47
-- **Gesamt erfasste Meldungen:** 681
+- **Gesamt erfasste Meldungen:** 671
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-09
+- **Letzter Lauf:** 2026-05-11
 
 ---
 
