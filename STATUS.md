@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-12 | 12 | 3 | – | – |
 | 2026-05-11 | 10 | 2 | – | – |
 | 2026-05-09 | 20 | 3 | – | – |
 | 2026-05-08 | 22 | 5 | – | – |
@@ -68,6 +69,14 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-12 | https://openai.com/index/openai-launches-the-deployment-company/
+2026-05-12 | https://claude.com/blog/claude-platform-on-aws
+2026-05-12 | https://claude.com/blog/agent-view-in-claude-code
+2026-05-12 | https://thinkingmachines.ai/blog/interaction-models/
+2026-05-12 | https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai
+2026-05-12 | https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access
+2026-05-12 | https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/
+2026-05-12 | https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/
 2026-05-11 | https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/
 2026-05-11 | https://blog.google/products/ads-commerce/bidding-budgeting-google-marketing-live-2026/
 2026-05-11 | https://completeaitraining.com/news/vercel-releases-deepsec-an-open-source-ai-security-scanner/
@@ -155,47 +164,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-05 | https://www.globenewswire.com/news-release/2026/05/04/3286769/0/en/Operant-AI-Launches-Endpoint-Protector-Securing-Shadow-AI-Coding-Agents-and-MCP-Across-the-Enterprise.html
 2026-05-05 | https://www.nature.com/articles/s41586-026-10303-2
 2026-05-05 | https://www.nature.com/articles/s41598-026-46517-7
-2026-05-03 | https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/
-2026-05-03 | https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/
-2026-05-03 | https://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html
-2026-05-03 | https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai
-2026-05-03 | https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/
-2026-05-03 | https://9to5google.com/2026/05/01/google-cosmo-assistant/
-2026-05-03 | https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/
-2026-05-03 | https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/
-2026-05-03 | https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/
-2026-05-03 | https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/
-2026-05-03 | https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/
-2026-05-03 | https://www.reuters.com/world/middle-east/us-navy-turns-ai-firm-domino-options-counter-iranian-mines-2026-05-01/
-2026-05-03 | https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/
-2026-05-03 | https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/
-2026-05-02 | https://openai.com/index/advanced-account-security/
-2026-05-02 | https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes
-2026-05-02 | https://github.blog/changelog/2026-04-30-github-copilot-in-visual-studio-april-update/
-2026-05-02 | https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/
-2026-05-02 | https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-gemini-tips-2026/
-2026-05-02 | https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce/
-2026-05-02 | https://newsroom.ibm.com/2026-05-01-IBM-Debuts-New-AI-Powered-Features-for-the-Scuderia-Ferrari-App
-2026-05-02 | https://blog.google/products/ads-commerce/ai-max-new-features/
-2026-05-02 | https://www.reuters.com/legal/litigation/banks-asia-brace-complex-cyber-threats-frontier-ai-2026-04-30/
-2026-05-02 | https://www.reuters.com/world/china/prices-nvidias-b300-server-1-million-china-us-curbs-sources-say-2026-04-30/
-2026-05-02 | https://www.reuters.com/business/retail-consumer/google-cloud-pulls-ahead-big-techs-ai-bet-swells-700-billion-2026-04-30/
-2026-05-02 | https://www.reuters.com/business/atlassian-beats-quarterly-revenue-estimates-strong-cloud-demand-shares-rise-2026-04-30/
-2026-05-02 | https://www.reuters.com/technology/iron-mountain-raises-annual-forecast-ai-fueled-data-center-boom-2026-04-30/
-2026-05-02 | https://www.reuters.com/business/schneider-electric-tops-revenue-forecast-it-rides-ai-data-centre-wave-2026-04-30/
-2026-05-02 | https://www.reuters.com/sustainability/sustainable-finance-reporting/us-growth-picks-up-first-quarter-2026-04-30/
-2026-05-02 | https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/
-2026-05-02 | https://newsroom.ibm.com/2026-04-30-ibm-and-dallara-to-advance-ai-and-quantum-powered-design-for-high-performance-vehicles
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 47
-- **Gesamt erfasste Meldungen:** 671
+- **Gesamt Recherche-Läufe:** 48
+- **Gesamt erfasste Meldungen:** 683
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-11
+- **Letzter Lauf:** 2026-05-12
 
 ---
 
