@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-13 | 12 | 3 | – | – |
 | 2026-05-12 | 12 | 3 | – | – |
 | 2026-05-11 | 10 | 2 | – | – |
 | 2026-05-09 | 20 | 3 | – | – |
@@ -69,6 +70,18 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-13 | https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/
+2026-05-13 | https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/
+2026-05-13 | https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/
+2026-05-13 | https://blog.google/products-and-platforms/platforms/android/meet-googlebook/
+2026-05-13 | https://claude.com/blog/claude-for-the-legal-industry
+2026-05-13 | https://claude.com/blog/agent-view-in-claude-code
+2026-05-13 | https://claude.com/blog/claude-platform-on-aws
+2026-05-13 | https://github.blog/changelog/2026-05-12-copilot-code-review-comment-experience-improvements/
+2026-05-13 | https://github.blog/changelog/2026-05-12-april-reports-are-now-available-to-prepare-for-usage-based-billing/
+2026-05-13 | https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai
+2026-05-13 | https://openai.com/index/what-parameter-golf-taught-us/
+2026-05-13 | https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/
 2026-05-12 | https://openai.com/index/openai-launches-the-deployment-company/
 2026-05-12 | https://claude.com/blog/claude-platform-on-aws
 2026-05-12 | https://claude.com/blog/agent-view-in-claude-code
@@ -173,7 +186,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 - **Gesamt Recherche-Läufe:** 48
 - **Gesamt erfasste Meldungen:** 683
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-12
+- **Letzter Lauf:** 2026-05-13
 
 ---
 
