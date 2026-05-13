@@ -10,6 +10,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
 | 2026-05-13 | 12 | 3 | – | – |
+| 2026-05-12 | 12 | 3 | – | – |
 | 2026-05-11 | 10 | 2 | – | – |
 | 2026-05-09 | 20 | 3 | – | – |
 | 2026-05-08 | 22 | 5 | – | – |
@@ -81,6 +82,14 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-13 | https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai
 2026-05-13 | https://openai.com/index/what-parameter-golf-taught-us/
 2026-05-13 | https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/
+2026-05-12 | https://openai.com/index/openai-launches-the-deployment-company/
+2026-05-12 | https://claude.com/blog/claude-platform-on-aws
+2026-05-12 | https://claude.com/blog/agent-view-in-claude-code
+2026-05-12 | https://thinkingmachines.ai/blog/interaction-models/
+2026-05-12 | https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai
+2026-05-12 | https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access
+2026-05-12 | https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/
+2026-05-12 | https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/
 2026-05-11 | https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/
 2026-05-11 | https://blog.google/products/ads-commerce/bidding-budgeting-google-marketing-live-2026/
 2026-05-11 | https://completeaitraining.com/news/vercel-releases-deepsec-an-open-source-ai-security-scanner/
@@ -148,6 +157,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-06 | https://www.ibm.com/new/announcements/ibm-sovereign-core-the-new-end-to-end-system-for-sovereign-ai
 2026-05-06 | https://www.reuters.com/business/meta-plans-advanced-agentic-ai-assistant-users-ft-reports-2026-05-05/
 2026-05-06 | https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/
+2026-05-05 | https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/
+2026-05-05 | https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-ai/
+2026-05-05 | https://openai.com/index/openai-pwc-finance-collaboration/
+2026-05-05 | https://www.anthropic.com/news/enterprise-ai-services-company?vid=13
+2026-05-05 | https://www.prnewswire.com/news-releases/incredibuild-launches-islo-an-agent-sandbox-with-granular-security-and-robust-isolation-bringing-enterprise-controls-to-ai-driven-software-development-302761292.html
+2026-05-05 | https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-dataset-qa/
+2026-05-05 | https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/
+2026-05-05 | https://www.businesswire.com/news/home/20260504163346/en/Highspot-Unveils-GTM-Agent-to-Turn-Go-to-Market-Strategy-into-a-Winning-Revenue-Performance-System
+2026-05-05 | https://www.prnewswire.com/apac/news-releases/omnichat-transforms-into-ai-native-customer-experience-platform-omni-ai-with-agentic-ai-workforce-302761252.html
+2026-05-05 | https://www.prnewswire.com/news-releases/elysian-softech-announces-mastermind---a-platform-for-developing-ai-agents-using-simple-prompts-302761224.html
+2026-05-05 | https://www.prnewswire.com/news-releases/humain-one-powered-by-aws-will-be-the-industrys-first-enterprise-grade-operating-system-for-building-deploying-and-governing-autonomous-ai-agents-at-scale-302761234.html
+2026-05-05 | https://www.businesswire.com/news/home/20260504771246/en/Loop-Launches-the-Logistics-Data-Platform-Powered-by-New-AI-Capabilities
+2026-05-05 | https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch
+2026-05-05 | https://www.theverge.com/tech/922886/instagram-is-getting-an-ai-creator-label
+2026-05-05 | https://www.buildfastwithai.com/blogs/kimi-k2-6-review-benchmarks
+2026-05-05 | https://www.theverge.com/ai-artificial-intelligence/923776/the-white-house-reportedly-is-working-on-an-executive-order-about-ai-oversight-and-access
+2026-05-05 | https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/
+2026-05-05 | https://www.globenewswire.com/news-release/2026/05/04/3286769/0/en/Operant-AI-Launches-Endpoint-Protector-Securing-Shadow-AI-Coding-Agents-and-MCP-Across-the-Enterprise.html
+2026-05-05 | https://www.nature.com/articles/s41586-026-10303-2
+2026-05-05 | https://www.nature.com/articles/s41598-026-46517-7
 ```
 
 ---
