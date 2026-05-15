@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-15 | 22 | 2 | – | – |
 | 2026-05-14 | 11 | 4 | – | – |
 | 2026-05-13 | 12 | 3 | – | – |
 | 2026-05-12 | 12 | 3 | – | – |
@@ -71,6 +72,28 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-15 | https://www.theregister.com/ai-ml/2026/05/14/ai-models-are-getting-better-at-replacing-cybersecurity-pros-on-certain-tasks/
+2026-05-15 | https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/
+2026-05-15 | https://9to5google.com/2026/05/14/gemini-spark-insight/
+2026-05-15 | https://www.theverge.com/ai-artificial-intelligence/930802/xai-launches-an-early-beta-of-its-agentic-cli-for-grok
+2026-05-15 | https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/
+2026-05-15 | https://www.theverge.com/tech/929791/meta-ai-incognito-chats
+2026-05-15 | https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done
+2026-05-15 | https://www.engadget.com/2172610/microsoft-copilot-edge-desktop-mobile/
+2026-05-15 | https://techcommunity.microsoft.com/blog/microsoft365insiderblog/new-copilot-entry-points-smart-suggestions-and-keyboard-first-design/4517930
+2026-05-15 | https://www.theverge.com/ai-artificial-intelligence/931078/openclaw-now-works-better-with-openai-models-and-codex
+2026-05-15 | https://aithority.com/machine-learning/hedy-ai-launches-on-device-ai-processing-to-bring-privacy-back-to-ai-tools/
+2026-05-15 | https://cloud.google.com/blog/products/application-development/new-app-capabilities-for-the-entire-software-lifecycle
+2026-05-15 | https://github.com/anomalyco/opencode/releases/tag/v1.14.51
+2026-05-15 | https://github.com/cline/cline/releases/tag/cli-v3.0.3
+2026-05-15 | https://securitybrief.asia/story/sweet-launches-ai-red-team-agent-to-test-attack-paths
+2026-05-15 | https://semaphore.io/introducing-semaphore-for-ai-agents-an-ai-native-developer-experience-for-ci-cd
+2026-05-15 | https://www.digitimes.com/news/a20260515VL208/apple-openai-partnership-chatgpt-legal.html
+2026-05-15 | https://www.publictechnology.net/2026/05/15/society-and-welfare/government-ai-chatbot-goes-live-across-gov-uk-app/
+2026-05-15 | https://www.anthropic.com/news/pwc-expanded-partnership
+2026-05-15 | https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead
+2026-05-15 | https://arxiv.org/html/2605.12466
+2026-05-15 | https://arxiv.org/abs/2604.11778v1
 2026-05-14 | https://www.anthropic.com/news/claude-for-small-business
 2026-05-14 | https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/
 2026-05-14 | https://www.aboutamazon.com/news/retail/alexa-for-shopping-ai-assistant
@@ -137,32 +160,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-08 | https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/
 2026-05-08 | https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/
 2026-05-08 | https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/
-2026-05-07 | https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/
-2026-05-07 | https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/
-2026-05-07 | https://www.anthropic.com/news/higher-limits-spacex
-2026-05-07 | https://openai.com/index/mrc-supercomputer-networking/
-2026-05-07 | https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-ai-agents/
-2026-05-07 | https://github.blog/changelog/2026-05-06-github-copilot-in-visual-studio-code-april-releases/
-2026-05-07 | https://github.blog/changelog/2026-05-05-secret-scanning-with-github-mcp-server-is-now-generally-available/
-2026-05-07 | https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search/
-2026-05-07 | https://www.theverge.com/tech/925559/google-project-mariner-shut-down
-2026-05-07 | https://openai.com/index/how-chatgpt-protects-privacy/
-2026-05-07 | https://about.fb.com/news/2026/05/ai-age-assurance-teens/
-2026-05-07 | https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/
-2026-05-07 | https://aws.amazon.com/about-aws/whats-new/2026/05/bedrock-agentcore-launch-aws-govcloud-us/
-2026-05-07 | https://www.ibm.com/new/announcements/ready-to-put-ai-to-work-so-are-our-agents
-2026-05-07 | https://www.ibm.com/new/announcements/advancing-ai-operations-with-ai-agent-and-llm-observability
-2026-05-07 | https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 49
-- **Gesamt erfasste Meldungen:** 694
+- **Gesamt Recherche-Läufe:** 50
+- **Gesamt erfasste Meldungen:** 716
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-14
+- **Letzter Lauf:** 2026-05-15
 
 ---
 
