@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-16 | 12 | 4 | – | – |
 | 2026-05-15 | 22 | 2 | – | – |
 | 2026-05-14 | 11 | 4 | – | – |
 | 2026-05-13 | 12 | 3 | – | – |
@@ -72,6 +73,18 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-16 | https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle
+2026-05-16 | https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/
+2026-05-16 | https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/
+2026-05-16 | https://www.semafor.com/article/05/15/2026/the-new-era-is-here-fears-rise-over-ai-hacking
+2026-05-16 | https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/
+2026-05-16 | https://9to5google.com/2026/05/15/gemini-intelligence-android-spec-requirements/
+2026-05-16 | https://github.blog/changelog/2026-05-14-copilot-cloud-agent-supports-auto-model-selection/
+2026-05-16 | https://github.blog/changelog/2026-05-15-copilot-memory-supports-user-preferences-for-pro-pro-users/
+2026-05-16 | https://www.semafor.com/article/05/15/2026/ai-generated-papers-flood-submissions-to-scientific-journals
+2026-05-16 | https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/
+2026-05-16 | https://github.blog/changelog/2026-05-14-team-level-copilot-usage-metrics-now-available-via-api/
+2026-05-16 | https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75/
 2026-05-15 | https://www.theregister.com/ai-ml/2026/05/14/ai-models-are-getting-better-at-replacing-cybersecurity-pros-on-certain-tasks/
 2026-05-15 | https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/
 2026-05-15 | https://9to5google.com/2026/05/14/gemini-spark-insight/
@@ -142,34 +155,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-09 | https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/
 2026-05-09 | https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/
 2026-05-09 | https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/
-2026-05-08 | https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/
-2026-05-08 | https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/
-2026-05-08 | https://openai.com/index/testing-ads-in-chatgpt/
-2026-05-08 | https://openai.com/index/introducing-b2b-signals/
-2026-05-08 | https://openai.com/index/introducing-chatgpt-futures-class-of-2026/
-2026-05-08 | https://www.theverge.com/ai-artificial-intelligence/926520/openai-launched-a-codex-extension-for-chrome
-2026-05-08 | https://claude.com/blog/new-in-claude-managed-agents
-2026-05-08 | https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook
-2026-05-08 | https://github.blog/changelog/2026-05-07-claude-sonnet-4-deprecated/
-2026-05-08 | https://github.blog/changelog/2026-05-07-upcoming-deprecation-of-gpt-4-1
-2026-05-08 | https://github.blog/changelog/2026-05-07-rubber-duck-in-github-copilot-cli-now-supports-more-models
-2026-05-08 | https://github.blog/changelog/2026-05-06-enterprise-managed-plugins-in-github-copilot-cli-are-now-in-public-preview
-2026-05-08 | https://ibm.com/new/announcements/productivity-revolution-with-ai-agents-that-work-across-stack
-2026-05-08 | https://www.ibm.com/new/announcements/introducing-new-ai-agents-in-ibm-watsonx-orchestrate-designed-to-deliver-enterprise-productivity-at-scale
-2026-05-08 | https://www.ibm.com/new/announcements/revolutionizing-ai-agent-management-with-ibm-watsonx-orchestrate-new-observability-and-governance-capabilities
-2026-05-08 | https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/
-2026-05-08 | https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/
-2026-05-08 | https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 50
-- **Gesamt erfasste Meldungen:** 716
+- **Gesamt Recherche-Läufe:** 51
+- **Gesamt erfasste Meldungen:** 728
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-15
+- **Letzter Lauf:** 2026-05-16
 
 ---
 
