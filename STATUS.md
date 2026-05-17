@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-17 | 15 | 3 | – | – |
 | 2026-05-15 | 22 | 2 | – | – |
 | 2026-05-14 | 11 | 4 | – | – |
 | 2026-05-13 | 12 | 3 | – | – |
@@ -72,6 +73,21 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-17 | https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/
+2026-05-17 | https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/
+2026-05-17 | https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/
+2026-05-17 | https://github.blog/changelog/2026-05-15-copilot-memory-supports-user-preferences-for-pro-pro-users/
+2026-05-17 | https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent
+2026-05-17 | https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/
+2026-05-17 | https://www.phocuswire.com/news/technology/fcm-sam-ai-tool-global-deployment
+2026-05-17 | https://www.phocuswire.com/news/technology/ixigo-launches-travel-app-conversational-booking-agentic-ai
+2026-05-17 | https://www.phocuswire.com/news/technology/msc-cruises-ai-concierge-mobile-app
+2026-05-17 | https://www.phocuswire.com/news/technology/direct-ferries-chatgpt-app-ai-search-ferry
+2026-05-17 | https://github.com/NousResearch/hermes-agent/releases/tag/v2026.5.16
+2026-05-17 | https://www.globenewswire.com/news-release/2026/05/15/3296131/0/en/zerion-launches-open-source-cli-giving-ai-agents-crypto-capabilities.html
+2026-05-17 | https://www.globenewswire.com/news-release/2026/05/15/3295963/0/en/Airia-Launches-Form-Review-Step-Giving-Enterprises-Human-Verified-AI-Document-Extraction.html
+2026-05-17 | https://github.blog/changelog/2026-05-15-grok-code-fast-1-deprecated
+2026-05-17 | https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/
 2026-05-15 | https://www.theregister.com/ai-ml/2026/05/14/ai-models-are-getting-better-at-replacing-cybersecurity-pros-on-certain-tasks/
 2026-05-15 | https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/
 2026-05-15 | https://9to5google.com/2026/05/14/gemini-spark-insight/
@@ -130,46 +146,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-11 | https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly
 2026-05-11 | https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/
 2026-05-11 | https://www.reuters.com/world/asia-pacific/alibaba-integrate-qwen-ai-with-taobao-launch-agentic-shopping-source-says-2026-05-10/
-2026-05-09 | https://openai.com/index/running-codex-safely/
-2026-05-09 | https://openai.com/index/introducing-trusted-contact-in-chatgpt/
-2026-05-09 | https://workspaceupdates.googleblog.com/2026/05/improvements-to-help-me-write-in-gmail.html
-2026-05-09 | https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users
-2026-05-09 | https://github.blog/changelog/2026-05-08-more-flexible-secrets-and-variables-for-copilot-cloud-agent/
-2026-05-09 | https://github.blog/changelog/2026-05-08-copilot-code-review-comment-types-now-in-usage-metrics-api/
-2026-05-09 | https://github.blog/changelog/2026-05-08-upcoming-deprecation-of-grok-code-fast-1/
-2026-05-09 | https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games
-2026-05-09 | https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers
-2026-05-09 | https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/
-2026-05-09 | https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/
-2026-05-09 | https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/
-2026-05-08 | https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/
-2026-05-08 | https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/
-2026-05-08 | https://openai.com/index/testing-ads-in-chatgpt/
-2026-05-08 | https://openai.com/index/introducing-b2b-signals/
-2026-05-08 | https://openai.com/index/introducing-chatgpt-futures-class-of-2026/
-2026-05-08 | https://www.theverge.com/ai-artificial-intelligence/926520/openai-launched-a-codex-extension-for-chrome
-2026-05-08 | https://claude.com/blog/new-in-claude-managed-agents
-2026-05-08 | https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook
-2026-05-08 | https://github.blog/changelog/2026-05-07-claude-sonnet-4-deprecated/
-2026-05-08 | https://github.blog/changelog/2026-05-07-upcoming-deprecation-of-gpt-4-1
-2026-05-08 | https://github.blog/changelog/2026-05-07-rubber-duck-in-github-copilot-cli-now-supports-more-models
-2026-05-08 | https://github.blog/changelog/2026-05-06-enterprise-managed-plugins-in-github-copilot-cli-are-now-in-public-preview
-2026-05-08 | https://ibm.com/new/announcements/productivity-revolution-with-ai-agents-that-work-across-stack
-2026-05-08 | https://www.ibm.com/new/announcements/introducing-new-ai-agents-in-ibm-watsonx-orchestrate-designed-to-deliver-enterprise-productivity-at-scale
-2026-05-08 | https://www.ibm.com/new/announcements/revolutionizing-ai-agent-management-with-ibm-watsonx-orchestrate-new-observability-and-governance-capabilities
-2026-05-08 | https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/
-2026-05-08 | https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/
-2026-05-08 | https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 50
-- **Gesamt erfasste Meldungen:** 716
+- **Gesamt Recherche-Läufe:** 51
+- **Gesamt erfasste Meldungen:** 731
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-15
+- **Letzter Lauf:** 2026-05-17
 
 ---
 
