@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-18 | 10 | 2 | – | – |
 | 2026-05-17 | 15 | 3 | – | – |
 | 2026-05-16 | 12 | 4 | – | – |
 | 2026-05-15 | 22 | 2 | – | – |
@@ -74,6 +75,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-18 | https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/
+2026-05-18 | https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/
+2026-05-18 | https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/
+2026-05-18 | https://www.engadget.com/2174282/youtube-likeness-detection-ai-deepfakes-expansion/
+2026-05-18 | https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant
+2026-05-18 | https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/
+2026-05-18 | https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys
+2026-05-18 | https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/
+2026-05-18 | https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement
+2026-05-18 | https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/
 2026-05-17 | https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/
 2026-05-17 | https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/
 2026-05-17 | https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/
@@ -178,9 +189,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 51
-- **Gesamt erfasste Meldungen:** 731
+- **Gesamt erfasste Meldungen:** 726
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-17
+- **Letzter Lauf:** 2026-05-18
 
 ---
 
