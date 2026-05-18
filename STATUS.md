@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-17 | 15 | 3 | – | – |
 | 2026-05-16 | 12 | 4 | – | – |
 | 2026-05-15 | 22 | 2 | – | – |
 | 2026-05-14 | 11 | 4 | – | – |
@@ -73,6 +74,21 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-17 | https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/
+2026-05-17 | https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/
+2026-05-17 | https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/
+2026-05-17 | https://github.blog/changelog/2026-05-15-copilot-memory-supports-user-preferences-for-pro-pro-users/
+2026-05-17 | https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent
+2026-05-17 | https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/
+2026-05-17 | https://www.phocuswire.com/news/technology/fcm-sam-ai-tool-global-deployment
+2026-05-17 | https://www.phocuswire.com/news/technology/ixigo-launches-travel-app-conversational-booking-agentic-ai
+2026-05-17 | https://www.phocuswire.com/news/technology/msc-cruises-ai-concierge-mobile-app
+2026-05-17 | https://www.phocuswire.com/news/technology/direct-ferries-chatgpt-app-ai-search-ferry
+2026-05-17 | https://github.com/NousResearch/hermes-agent/releases/tag/v2026.5.16
+2026-05-17 | https://www.globenewswire.com/news-release/2026/05/15/3296131/0/en/zerion-launches-open-source-cli-giving-ai-agents-crypto-capabilities.html
+2026-05-17 | https://www.globenewswire.com/news-release/2026/05/15/3295963/0/en/Airia-Launches-Form-Review-Step-Giving-Enterprises-Human-Verified-AI-Document-Extraction.html
+2026-05-17 | https://github.blog/changelog/2026-05-15-grok-code-fast-1-deprecated
+2026-05-17 | https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/
 2026-05-16 | https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle
 2026-05-16 | https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/
 2026-05-16 | https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/
@@ -162,9 +178,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 51
-- **Gesamt erfasste Meldungen:** 728
+- **Gesamt erfasste Meldungen:** 731
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-16
+- **Letzter Lauf:** 2026-05-17
 
 ---
 
