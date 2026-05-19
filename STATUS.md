@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-19 | 22 | 3 | – | – |
 | 2026-05-18 | 10 | 2 | – | – |
 | 2026-05-17 | 15 | 3 | – | – |
 | 2026-05-16 | 12 | 4 | – | – |
@@ -75,6 +76,28 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-19 | https://www.anthropic.com/news/anthropic-acquires-stainless?lid=1z8JARze4cdDIJ48M
+2026-05-19 | https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits
+2026-05-19 | https://openai.com/index/dell-codex-enterprise-partnership/
+2026-05-19 | https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/
+2026-05-19 | https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/
+2026-05-19 | https://github.blog/changelog/2026-05-18-copilot-cloud-agent-fast-cost-efficient-models-for-simple-tasks/
+2026-05-19 | https://github.blog/changelog/2026-05-18-one-click-fixes-for-failing-actions-with-copilot-cloud-agent/
+2026-05-19 | https://github.blog/changelog/2026-05-18-ask-questions-in-context-with-copilot-on-web/
+2026-05-19 | https://github.blog/changelog/2026-05-18-copilot-spaces-api-now-generally-available/
+2026-05-19 | https://github.blog/changelog/2026-05-18-remote-control-for-copilot-cli-sessions-now-generally-available-on-mobile-web-and-vs-code/
+2026-05-19 | https://www.24-7pressrelease.com/press-release/535011/surfacegx-launches-ai-visibility-repair-infrastructure-platform
+2026-05-19 | https://www.prweb.com/releases/zenlytic-launches-zoe-self-learning-the-ai-data-analyst-that-onboards-itself-302773223.html
+2026-05-19 | https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/
+2026-05-19 | https://t3n.de/news/datenschutzfreundliche-ki-damit-will-apple-in-ios-27-punkten-1742936/
+2026-05-19 | https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html
+2026-05-19 | https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/
+2026-05-19 | https://www.heise.de/news/Zu-spaet-geklagt-Musk-verliert-gegen-Altman-11298061.html
+2026-05-19 | https://www.dell.com/en-us/dt/corporate/newsroom/announcements/detailpage.press-releases~usa~2026~05~dell-technologies-delivers-production-ready-agentic-ai-from-deskside-to-data-center.htm
+2026-05-19 | https://www.globenewswire.com/news-release/2026/05/18/3296553/0/en/Zignal-Labs-Launches-Zignal-AI-to-Deliver-Structured-Intelligence-for-Mission-Systems-Partners-and-Agent-Driven-Workflows.html
+2026-05-19 | https://github.blog/changelog/2026-05-18-audit-repository-copilot-cloud-agent-configuration-via-the-rest-api/
+2026-05-19 | https://arxiv.org/pdf/2605.15188
+2026-05-19 | https://t3n.de/news/menschen-ueberschaetzen-ki-kompetenz-1742977/
 2026-05-18 | https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/
 2026-05-18 | https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/
 2026-05-18 | https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/
@@ -162,36 +185,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-12 | https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access
 2026-05-12 | https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/
 2026-05-12 | https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/
-2026-05-11 | https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/
-2026-05-11 | https://blog.google/products/ads-commerce/bidding-budgeting-google-marketing-live-2026/
-2026-05-11 | https://completeaitraining.com/news/vercel-releases-deepsec-an-open-source-ai-security-scanner/
-2026-05-11 | https://itwire.com/business-it-news/business-technology/sas-unveils-governed-ai-agents-digital-twins-and-quantum-ambitions-at-innovate-2026
-2026-05-11 | https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security
-2026-05-11 | https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly
-2026-05-11 | https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/
-2026-05-11 | https://www.reuters.com/world/asia-pacific/alibaba-integrate-qwen-ai-with-taobao-launch-agentic-shopping-source-says-2026-05-10/
-2026-05-09 | https://openai.com/index/running-codex-safely/
-2026-05-09 | https://openai.com/index/introducing-trusted-contact-in-chatgpt/
-2026-05-09 | https://workspaceupdates.googleblog.com/2026/05/improvements-to-help-me-write-in-gmail.html
-2026-05-09 | https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users
-2026-05-09 | https://github.blog/changelog/2026-05-08-more-flexible-secrets-and-variables-for-copilot-cloud-agent/
-2026-05-09 | https://github.blog/changelog/2026-05-08-copilot-code-review-comment-types-now-in-usage-metrics-api/
-2026-05-09 | https://github.blog/changelog/2026-05-08-upcoming-deprecation-of-grok-code-fast-1/
-2026-05-09 | https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games
-2026-05-09 | https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers
-2026-05-09 | https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/
-2026-05-09 | https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/
-2026-05-09 | https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 51
-- **Gesamt erfasste Meldungen:** 726
+- **Gesamt Recherche-Läufe:** 52
+- **Gesamt erfasste Meldungen:** 748
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-18
+- **Letzter Lauf:** 2026-05-19
 
 ---
 
