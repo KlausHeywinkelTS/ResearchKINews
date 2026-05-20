@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-20 | 27 | 5 | – | – |
 | 2026-05-19 | 22 | 3 | – | – |
 | 2026-05-18 | 10 | 2 | – | – |
 | 2026-05-17 | 15 | 3 | – | – |
@@ -76,6 +77,32 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-20 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
+2026-05-20 | https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/
+2026-05-20 | https://blog.google/products-and-platforms/products/search/search-io-2026
+2026-05-20 | https://openai.com/index/advancing-content-provenance/
+2026-05-20 | https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/
+2026-05-20 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/
+2026-05-20 | https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/
+2026-05-20 | https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/
+2026-05-20 | https://blog.google/products-and-platforms/products/workspace/workspace-updates
+2026-05-20 | https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates/
+2026-05-20 | https://github.blog/changelog/2026-05-20-semantic-issue-search-in-copilot-chat
+2026-05-20 | https://github.blog/changelog/2026-05-19-easily-apply-copilot-code-review-feedback-with-copilot-cloud-agent
+2026-05-20 | https://github.blog/changelog/2026-05-19-gemini-3-5-flash-is-generally-available-for-github-copilot
+2026-05-20 | https://www.figma.com/blog/the-figma-agent-is-here/
+2026-05-20 | https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking
+2026-05-20 | https://blog.google/products-and-platforms/products/shopping/google-shopping-cart
+2026-05-20 | https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/
+2026-05-20 | https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/
+2026-05-20 | https://openai.com/index/the-next-phase-of-education-for-countries/
+2026-05-20 | https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts
+2026-05-20 | https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can
+2026-05-20 | https://openai.com/index/introducing-openai-for-singapore/
+2026-05-20 | https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/
+2026-05-20 | https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html
+2026-05-20 | https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/
+2026-05-20 | https://the-decoder.de/im-test-von-cloudflare-baut-mythos-preview-eigenstaendig-exploitketten-aus-kleinen-fehlern/
 2026-05-19 | https://www.anthropic.com/news/anthropic-acquires-stainless?lid=1z8JARze4cdDIJ48M
 2026-05-19 | https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits
 2026-05-19 | https://openai.com/index/dell-codex-enterprise-partnership/
@@ -180,21 +207,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-13 | https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai
 2026-05-13 | https://openai.com/index/what-parameter-golf-taught-us/
 2026-05-13 | https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/
-2026-05-12 | https://openai.com/index/openai-launches-the-deployment-company/
-2026-05-12 | https://thinkingmachines.ai/blog/interaction-models/
-2026-05-12 | https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access
-2026-05-12 | https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/
-2026-05-12 | https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 52
-- **Gesamt erfasste Meldungen:** 748
+- **Gesamt Recherche-Läufe:** 53
+- **Gesamt erfasste Meldungen:** 775
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-19
+- **Letzter Lauf:** 2026-05-20
 
 ---
 
