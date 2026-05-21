@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-21 | 10 | 4 | – | – |
 | 2026-05-20 | 27 | 5 | – | – |
 | 2026-05-19 | 22 | 3 | – | – |
 | 2026-05-18 | 10 | 2 | – | – |
@@ -77,6 +78,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-21 | https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a
+2026-05-21 | https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/
+2026-05-21 | https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai
+2026-05-21 | https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds
+2026-05-21 | https://github.blog/changelog/2026-05-20-auto-model-selection-now-routes-based-on-your-task-in-vs-code/
+2026-05-21 | https://github.blog/changelog/2026-05-20-updates-to-available-models-in-copilot-on-web/
+2026-05-21 | https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai
+2026-05-21 | https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/
+2026-05-21 | https://huggingface.co/blog/huggingface/agent-traces-as-memory
+2026-05-21 | https://blog.google/products/ads-commerce/google-marketing-live-search-ads/
 2026-05-20 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
 2026-05-20 | https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/
 2026-05-20 | https://blog.google/products-and-platforms/products/search/search-io-2026
@@ -195,28 +206,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-14 | https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/
 2026-05-14 | https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/
 2026-05-14 | https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google
-2026-05-13 | https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/
-2026-05-13 | https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/
-2026-05-13 | https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/
-2026-05-13 | https://blog.google/products-and-platforms/platforms/android/meet-googlebook/
-2026-05-13 | https://claude.com/blog/claude-for-the-legal-industry
-2026-05-13 | https://claude.com/blog/agent-view-in-claude-code
-2026-05-13 | https://claude.com/blog/claude-platform-on-aws
-2026-05-13 | https://github.blog/changelog/2026-05-12-copilot-code-review-comment-experience-improvements/
-2026-05-13 | https://github.blog/changelog/2026-05-12-april-reports-are-now-available-to-prepare-for-usage-based-billing/
-2026-05-13 | https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai
-2026-05-13 | https://openai.com/index/what-parameter-golf-taught-us/
-2026-05-13 | https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 53
-- **Gesamt erfasste Meldungen:** 775
+- **Gesamt Recherche-Läufe:** 54
+- **Gesamt erfasste Meldungen:** 785
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-20
+- **Letzter Lauf:** 2026-05-21
 
 ---
 
