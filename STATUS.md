@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-26 | 21 | 5 | – | – |
 | 2026-05-25 | 12 | 2 | – | – |
 | 2026-05-24 | 15 | 4 | – | – |
 | 2026-05-23 | 14 | 3 | – | – |
@@ -81,6 +82,27 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-26 | https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5
+2026-05-26 | https://www.computerworld.com/article/4176809/google-adds-open-source-agent-executor-to-support-ai-agents-in-production-3.html
+2026-05-26 | https://cybersecuritynews.com/claude-mythos-moves-toward-public/
+2026-05-26 | https://winbuzzer.com/2026/05/25/microsoft-webwright-turns-web-agents-into-reusable-code-xcxwbn/
+2026-05-26 | https://www.resultsense.com/news/2026-05-25-metr-frontier-models-rogue-behaviour/
+2026-05-26 | https://mistral.ai/news/workflows
+2026-05-26 | https://startupfortune.com/nuextract3-gives-startups-a-smaller-path-to-document-ai/
+2026-05-26 | https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/
+2026-05-26 | https://www.techi.com/grok-build-xai-coding-agent/
+2026-05-26 | https://www.businesstoday.in/latest/trends/story/the-118-pet-whisperer-this-chinese-smart-collar-claims-to-give-you-beloved-pet-a-voice-533133-2026-05-25
+2026-05-26 | https://www.anthropic.com/news/chris-olah-pope-leo-encyclical
+2026-05-26 | https://openai.com/index/grupo-folha-grupo-uol-partnership/
+2026-05-26 | https://www.prnewswire.com/news-releases/persistent-and-kong-announce-strategic-partnership-to-help-enterprises-securely-move-ai-into-production-302781058.html
+2026-05-26 | https://itbrief.co.uk/story/informatica-expands-google-cloud-tie-up-with-claire-gpt
+2026-05-26 | https://www.prnewswire.com/news-releases/expertai-and-fincons-group-join-forces-to-bring-neuro-symbolic-ai-to-data-driven-businesses-302780037.html
+2026-05-26 | https://www.cxodigitalpulse.com/kore-ai-launches-artemis-enterprise-ai-agent-platform/
+2026-05-26 | https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/
+2026-05-26 | https://www.marktechpost.com/2026/05/25/together-ai-open-sources-oscar-an-attention-aware-2-bit-kv-cache-quantization-system-for-long-context-llm-serving/
+2026-05-26 | https://global.fujitsu/en-global/pr/news/2026/05/25-01
+2026-05-26 | https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/
+2026-05-26 | https://the-decoder.com/george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development/
 2026-05-25 | https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/
 2026-05-25 | https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/
 2026-05-25 | https://www.marktechpost.com/2026/05/23/tencent-open-sources-tencentdb-agent-memory-a-4-tier-local-memory-pipeline-for-ai-agents/
@@ -180,53 +202,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-19 | https://github.blog/changelog/2026-05-18-audit-repository-copilot-cloud-agent-configuration-via-the-rest-api/
 2026-05-19 | https://arxiv.org/pdf/2605.15188
 2026-05-19 | https://t3n.de/news/menschen-ueberschaetzen-ki-kompetenz-1742977/
-2026-05-18 | https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/
-2026-05-18 | https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/
-2026-05-18 | https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/
-2026-05-18 | https://www.engadget.com/2174282/youtube-likeness-detection-ai-deepfakes-expansion/
-2026-05-18 | https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant
-2026-05-18 | https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/
-2026-05-18 | https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys
-2026-05-18 | https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/
-2026-05-18 | https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement
-2026-05-18 | https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/
-2026-05-17 | https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/
-2026-05-17 | https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/
-2026-05-17 | https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/
-2026-05-17 | https://github.blog/changelog/2026-05-15-copilot-memory-supports-user-preferences-for-pro-pro-users/
-2026-05-17 | https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent
-2026-05-17 | https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/
-2026-05-17 | https://www.phocuswire.com/news/technology/fcm-sam-ai-tool-global-deployment
-2026-05-17 | https://www.phocuswire.com/news/technology/ixigo-launches-travel-app-conversational-booking-agentic-ai
-2026-05-17 | https://www.phocuswire.com/news/technology/msc-cruises-ai-concierge-mobile-app
-2026-05-17 | https://www.phocuswire.com/news/technology/direct-ferries-chatgpt-app-ai-search-ferry
-2026-05-17 | https://github.com/NousResearch/hermes-agent/releases/tag/v2026.5.16
-2026-05-17 | https://www.globenewswire.com/news-release/2026/05/15/3296131/0/en/zerion-launches-open-source-cli-giving-ai-agents-crypto-capabilities.html
-2026-05-17 | https://www.globenewswire.com/news-release/2026/05/15/3295963/0/en/Airia-Launches-Form-Review-Step-Giving-Enterprises-Human-Verified-AI-Document-Extraction.html
-2026-05-17 | https://github.blog/changelog/2026-05-15-grok-code-fast-1-deprecated
-2026-05-17 | https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/
-2026-05-16 | https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle
-2026-05-16 | https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/
-2026-05-16 | https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/
-2026-05-16 | https://www.semafor.com/article/05/15/2026/the-new-era-is-here-fears-rise-over-ai-hacking
-2026-05-16 | https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/
-2026-05-16 | https://9to5google.com/2026/05/15/gemini-intelligence-android-spec-requirements/
-2026-05-16 | https://github.blog/changelog/2026-05-14-copilot-cloud-agent-supports-auto-model-selection/
-2026-05-16 | https://github.blog/changelog/2026-05-15-copilot-memory-supports-user-preferences-for-pro-pro-users/
-2026-05-16 | https://www.semafor.com/article/05/15/2026/ai-generated-papers-flood-submissions-to-scientific-journals
-2026-05-16 | https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/
-2026-05-16 | https://github.blog/changelog/2026-05-14-team-level-copilot-usage-metrics-now-available-via-api/
-2026-05-16 | https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 55
-- **Gesamt erfasste Meldungen:** 797
+- **Gesamt Recherche-Läufe:** 56
+- **Gesamt erfasste Meldungen:** 818
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-25
+- **Letzter Lauf:** 2026-05-26
 
 ---
 
