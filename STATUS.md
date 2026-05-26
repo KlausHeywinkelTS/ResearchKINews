@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-24 | 15 | 4 | – | – |
 | 2026-05-23 | 14 | 3 | – | – |
 | 2026-05-21 | 10 | 4 | – | – |
 | 2026-05-20 | 27 | 5 | – | – |
@@ -79,6 +80,21 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-24 | https://www.anthropic.com/research/glasswing-initial-update
+2026-05-24 | https://www.engadget.com/2180062/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/
+2026-05-24 | https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video
+2026-05-24 | https://mistral.ai/news/accelerate-ai-native-industry
+2026-05-24 | https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/
+2026-05-24 | https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on
+2026-05-24 | https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/
+2026-05-24 | https://www.theverge.com/ai-artificial-intelligence/936637/anthropic-is-making-the-security-tools-its-used-with-claude-mythos-preview-just-a-bit-more-available
+2026-05-24 | https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard
+2026-05-24 | https://huggingface.co/blog/nvidia/nemotron-labs-diffusion
+2026-05-24 | https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen
+2026-05-24 | https://openai.com/index/gartner-2026-agentic-coding-leader/
+2026-05-24 | https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/
+2026-05-24 | https://developer.nvidia.com/blog/synthesize-realistic-3d-medical-images-at-scale-to-ship-pre-trained-models/
+2026-05-24 | https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database
 2026-05-23 | https://www.anthropic.com/research/glasswing-initial-update
 2026-05-23 | https://developers.openai.com/codex/changelog
 2026-05-23 | https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce
@@ -195,9 +211,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 55
-- **Gesamt erfasste Meldungen:** 799
+- **Gesamt erfasste Meldungen:** 800
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-23
+- **Letzter Lauf:** 2026-05-24
 
 ---
 
