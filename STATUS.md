@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-25 | 12 | 2 | – | – |
 | 2026-05-24 | 15 | 4 | – | – |
 | 2026-05-23 | 14 | 3 | – | – |
 | 2026-05-21 | 10 | 4 | – | – |
@@ -80,6 +81,18 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-25 | https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/
+2026-05-25 | https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/
+2026-05-25 | https://www.marktechpost.com/2026/05/23/tencent-open-sources-tencentdb-agent-memory-a-4-tier-local-memory-pipeline-for-ai-agents/
+2026-05-25 | https://github.com/openclaw/openclaw/releases/tag/v2026.5.22
+2026-05-25 | https://www.marktechpost.com/2026/05/24/stepfun-releases-stepaudio-2-5-realtime-an-end-to-end-voice-model-with-roleplay-specific-rlhf-and-paralinguistic-comprehension/
+2026-05-25 | https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/
+2026-05-25 | https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video
+2026-05-25 | https://www.theverge.com/column/935545/hackers-ai-chatbots
+2026-05-25 | https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/
+2026-05-25 | https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/
+2026-05-25 | https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet
+2026-05-25 | https://huggingface.co/blog/nvidia/nemotron-labs-diffusion
 2026-05-24 | https://www.anthropic.com/research/glasswing-initial-update
 2026-05-24 | https://www.engadget.com/2180062/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/
 2026-05-24 | https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video
@@ -211,9 +224,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 ## Statistiken
 
 - **Gesamt Recherche-Läufe:** 55
-- **Gesamt erfasste Meldungen:** 800
+- **Gesamt erfasste Meldungen:** 797
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-24
+- **Letzter Lauf:** 2026-05-25
 
 ---
 
