@@ -10,6 +10,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
 | 2026-05-24 | 15 | 4 | – | – |
+| 2026-05-23 | 14 | 3 | – | – |
 | 2026-05-21 | 10 | 4 | – | – |
 | 2026-05-20 | 27 | 5 | – | – |
 | 2026-05-19 | 22 | 3 | – | – |
@@ -94,6 +95,20 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-24 | https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/
 2026-05-24 | https://developer.nvidia.com/blog/synthesize-realistic-3d-medical-images-at-scale-to-ship-pre-trained-models/
 2026-05-24 | https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database
+2026-05-23 | https://www.anthropic.com/research/glasswing-initial-update
+2026-05-23 | https://developers.openai.com/codex/changelog
+2026-05-23 | https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce
+2026-05-23 | https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/
+2026-05-23 | https://github.blog/changelog/2026-05-21-github-copilot-for-eclipse-is-open-source
+2026-05-23 | https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/
+2026-05-23 | https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/
+2026-05-23 | https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/
+2026-05-23 | https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/
+2026-05-23 | https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/
+2026-05-23 | https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/
+2026-05-23 | https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/
+2026-05-23 | https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/
+2026-05-23 | https://openai.com/index/gartner-2026-agentic-coding-leader/
 2026-05-21 | https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a
 2026-05-21 | https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/
 2026-05-21 | https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai
@@ -177,6 +192,18 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-17 | https://www.globenewswire.com/news-release/2026/05/15/3295963/0/en/Airia-Launches-Form-Review-Step-Giving-Enterprises-Human-Verified-AI-Document-Extraction.html
 2026-05-17 | https://github.blog/changelog/2026-05-15-grok-code-fast-1-deprecated
 2026-05-17 | https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/
+2026-05-16 | https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle
+2026-05-16 | https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/
+2026-05-16 | https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/
+2026-05-16 | https://www.semafor.com/article/05/15/2026/the-new-era-is-here-fears-rise-over-ai-hacking
+2026-05-16 | https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/
+2026-05-16 | https://9to5google.com/2026/05/15/gemini-intelligence-android-spec-requirements/
+2026-05-16 | https://github.blog/changelog/2026-05-14-copilot-cloud-agent-supports-auto-model-selection/
+2026-05-16 | https://github.blog/changelog/2026-05-15-copilot-memory-supports-user-preferences-for-pro-pro-users/
+2026-05-16 | https://www.semafor.com/article/05/15/2026/ai-generated-papers-flood-submissions-to-scientific-journals
+2026-05-16 | https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/
+2026-05-16 | https://github.blog/changelog/2026-05-14-team-level-copilot-usage-metrics-now-available-via-api/
+2026-05-16 | https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75/
 ```
 
 ---
