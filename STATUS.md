@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-05-27 | 20 | 5 | – | – |
 | 2026-05-26 | 21 | 5 | – | – |
 | 2026-05-25 | 12 | 2 | – | – |
 | 2026-05-24 | 15 | 4 | – | – |
@@ -82,6 +83,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-05-27 | https://cybersecuritynews.com/free-security-plugin-for-claude-code/
+2026-05-27 | https://siliconangle.com/2026/05/26/detectify-debuts-mcp-server-let-ai-agents-find-fix-vulnerabilities-real-time/
+2026-05-27 | https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole
+2026-05-27 | https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/
+2026-05-27 | https://www.einpresswire.com/article/914997722/avaturn-releases-avtr-1-first-open-weights-ai-avatar-duplex-model
+2026-05-27 | https://siliconangle.com/2026/05/26/novee-debuts-agentic-fix-pushing-pentest-findings-claude-copilot-cursor/
+2026-05-27 | https://github.blog/changelog/2026-05-26-target-copilot-models-to-organizations-with-model-rules/
+2026-05-27 | https://github.blog/changelog/2026-05-26-copilot-memory-has-more-controls-for-deletion-scope-and-the-copilot-cli/
+2026-05-27 | https://github.com/openai/openai-agents-python/releases/tag/v0.17.4
+2026-05-27 | https://techhq.com/news/microsoft-copilot-studio-computer-use-agents-enterprise/
+2026-05-27 | https://memeburn.com/chatgpt-and-claude-live-trading-app-can-now-execute-real-trades-for-you/
+2026-05-27 | https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/
+2026-05-27 | https://www.theverge.com/ai-artificial-intelligence/937098/ai-powered-justice-is-a-double-edged-sword
+2026-05-27 | https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines
+2026-05-27 | https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/
+2026-05-27 | https://global.fujitsu/en-global/pr/news/2026/05/27-01
+2026-05-27 | https://appomni.com/press-releases/announcing-marlin-ai/
+2026-05-27 | https://www.globenewswire.com/news-release/2026/05/26/3301008/0/en/After-7-Million-Investigations-in-Production-7AI-Widens-the-Gap-in-Agentic-Security-with-PLAID-ELITE-and-100-New-AI-Jobs-in-Boston.html
+2026-05-27 | https://www.heise.de/news/Figure-AI-demonstriert-Roboter-im-200-Stunden-Arbeitseinsatz-11306594.html
+2026-05-27 | https://www.heise.de/news/Sensoren-und-KI-sollen-marode-Bruecken-vor-Sperrung-retten-11305850.html
 2026-05-26 | https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5
 2026-05-26 | https://www.computerworld.com/article/4176809/google-adds-open-source-agent-executor-to-support-ai-agents-in-production-3.html
 2026-05-26 | https://cybersecuritynews.com/claude-mythos-moves-toward-public/
@@ -180,38 +201,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-05-20 | https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html
 2026-05-20 | https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/
 2026-05-20 | https://the-decoder.de/im-test-von-cloudflare-baut-mythos-preview-eigenstaendig-exploitketten-aus-kleinen-fehlern/
-2026-05-19 | https://www.anthropic.com/news/anthropic-acquires-stainless?lid=1z8JARze4cdDIJ48M
-2026-05-19 | https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits
-2026-05-19 | https://openai.com/index/dell-codex-enterprise-partnership/
-2026-05-19 | https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/
-2026-05-19 | https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/
-2026-05-19 | https://github.blog/changelog/2026-05-18-copilot-cloud-agent-fast-cost-efficient-models-for-simple-tasks/
-2026-05-19 | https://github.blog/changelog/2026-05-18-one-click-fixes-for-failing-actions-with-copilot-cloud-agent/
-2026-05-19 | https://github.blog/changelog/2026-05-18-ask-questions-in-context-with-copilot-on-web/
-2026-05-19 | https://github.blog/changelog/2026-05-18-copilot-spaces-api-now-generally-available/
-2026-05-19 | https://github.blog/changelog/2026-05-18-remote-control-for-copilot-cli-sessions-now-generally-available-on-mobile-web-and-vs-code/
-2026-05-19 | https://www.24-7pressrelease.com/press-release/535011/surfacegx-launches-ai-visibility-repair-infrastructure-platform
-2026-05-19 | https://www.prweb.com/releases/zenlytic-launches-zoe-self-learning-the-ai-data-analyst-that-onboards-itself-302773223.html
-2026-05-19 | https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/
-2026-05-19 | https://t3n.de/news/datenschutzfreundliche-ki-damit-will-apple-in-ios-27-punkten-1742936/
-2026-05-19 | https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html
-2026-05-19 | https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/
-2026-05-19 | https://www.heise.de/news/Zu-spaet-geklagt-Musk-verliert-gegen-Altman-11298061.html
-2026-05-19 | https://www.dell.com/en-us/dt/corporate/newsroom/announcements/detailpage.press-releases~usa~2026~05~dell-technologies-delivers-production-ready-agentic-ai-from-deskside-to-data-center.htm
-2026-05-19 | https://www.globenewswire.com/news-release/2026/05/18/3296553/0/en/Zignal-Labs-Launches-Zignal-AI-to-Deliver-Structured-Intelligence-for-Mission-Systems-Partners-and-Agent-Driven-Workflows.html
-2026-05-19 | https://github.blog/changelog/2026-05-18-audit-repository-copilot-cloud-agent-configuration-via-the-rest-api/
-2026-05-19 | https://arxiv.org/pdf/2605.15188
-2026-05-19 | https://t3n.de/news/menschen-ueberschaetzen-ki-kompetenz-1742977/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 56
-- **Gesamt erfasste Meldungen:** 818
+- **Gesamt Recherche-Läufe:** 57
+- **Gesamt erfasste Meldungen:** 838
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-26
+- **Letzter Lauf:** 2026-05-27
 
 ---
 
