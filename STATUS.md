@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-01 | 30 | 5 | – | – |
 | 2026-05-27 | 20 | 5 | – | – |
 | 2026-05-26 | 21 | 5 | – | – |
 | 2026-05-25 | 12 | 2 | – | – |
@@ -83,134 +84,46 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
-2026-05-27 | https://cybersecuritynews.com/free-security-plugin-for-claude-code/
-2026-05-27 | https://siliconangle.com/2026/05/26/detectify-debuts-mcp-server-let-ai-agents-find-fix-vulnerabilities-real-time/
-2026-05-27 | https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole
-2026-05-27 | https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/
-2026-05-27 | https://www.einpresswire.com/article/914997722/avaturn-releases-avtr-1-first-open-weights-ai-avatar-duplex-model
-2026-05-27 | https://siliconangle.com/2026/05/26/novee-debuts-agentic-fix-pushing-pentest-findings-claude-copilot-cursor/
-2026-05-27 | https://github.blog/changelog/2026-05-26-target-copilot-models-to-organizations-with-model-rules/
-2026-05-27 | https://github.blog/changelog/2026-05-26-copilot-memory-has-more-controls-for-deletion-scope-and-the-copilot-cli/
-2026-05-27 | https://github.com/openai/openai-agents-python/releases/tag/v0.17.4
-2026-05-27 | https://techhq.com/news/microsoft-copilot-studio-computer-use-agents-enterprise/
-2026-05-27 | https://memeburn.com/chatgpt-and-claude-live-trading-app-can-now-execute-real-trades-for-you/
-2026-05-27 | https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/
-2026-05-27 | https://www.theverge.com/ai-artificial-intelligence/937098/ai-powered-justice-is-a-double-edged-sword
-2026-05-27 | https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines
-2026-05-27 | https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/
-2026-05-27 | https://global.fujitsu/en-global/pr/news/2026/05/27-01
-2026-05-27 | https://appomni.com/press-releases/announcing-marlin-ai/
-2026-05-27 | https://www.globenewswire.com/news-release/2026/05/26/3301008/0/en/After-7-Million-Investigations-in-Production-7AI-Widens-the-Gap-in-Agentic-Security-with-PLAID-ELITE-and-100-New-AI-Jobs-in-Boston.html
-2026-05-27 | https://www.heise.de/news/Figure-AI-demonstriert-Roboter-im-200-Stunden-Arbeitseinsatz-11306594.html
-2026-05-27 | https://www.heise.de/news/Sensoren-und-KI-sollen-marode-Bruecken-vor-Sperrung-retten-11305850.html
-2026-05-26 | https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5
-2026-05-26 | https://www.computerworld.com/article/4176809/google-adds-open-source-agent-executor-to-support-ai-agents-in-production-3.html
-2026-05-26 | https://cybersecuritynews.com/claude-mythos-moves-toward-public/
-2026-05-26 | https://winbuzzer.com/2026/05/25/microsoft-webwright-turns-web-agents-into-reusable-code-xcxwbn/
-2026-05-26 | https://www.resultsense.com/news/2026-05-25-metr-frontier-models-rogue-behaviour/
-2026-05-26 | https://mistral.ai/news/workflows
-2026-05-26 | https://startupfortune.com/nuextract3-gives-startups-a-smaller-path-to-document-ai/
-2026-05-26 | https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/
-2026-05-26 | https://www.techi.com/grok-build-xai-coding-agent/
-2026-05-26 | https://www.businesstoday.in/latest/trends/story/the-118-pet-whisperer-this-chinese-smart-collar-claims-to-give-you-beloved-pet-a-voice-533133-2026-05-25
-2026-05-26 | https://www.anthropic.com/news/chris-olah-pope-leo-encyclical
-2026-05-26 | https://openai.com/index/grupo-folha-grupo-uol-partnership/
-2026-05-26 | https://www.prnewswire.com/news-releases/persistent-and-kong-announce-strategic-partnership-to-help-enterprises-securely-move-ai-into-production-302781058.html
-2026-05-26 | https://itbrief.co.uk/story/informatica-expands-google-cloud-tie-up-with-claire-gpt
-2026-05-26 | https://www.prnewswire.com/news-releases/expertai-and-fincons-group-join-forces-to-bring-neuro-symbolic-ai-to-data-driven-businesses-302780037.html
-2026-05-26 | https://www.cxodigitalpulse.com/kore-ai-launches-artemis-enterprise-ai-agent-platform/
-2026-05-26 | https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/
-2026-05-26 | https://www.marktechpost.com/2026/05/25/together-ai-open-sources-oscar-an-attention-aware-2-bit-kv-cache-quantization-system-for-long-context-llm-serving/
-2026-05-26 | https://global.fujitsu/en-global/pr/news/2026/05/25-01
-2026-05-26 | https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/
-2026-05-26 | https://the-decoder.com/george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development/
-2026-05-25 | https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/
-2026-05-25 | https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/
-2026-05-25 | https://www.marktechpost.com/2026/05/23/tencent-open-sources-tencentdb-agent-memory-a-4-tier-local-memory-pipeline-for-ai-agents/
-2026-05-25 | https://github.com/openclaw/openclaw/releases/tag/v2026.5.22
-2026-05-25 | https://www.marktechpost.com/2026/05/24/stepfun-releases-stepaudio-2-5-realtime-an-end-to-end-voice-model-with-roleplay-specific-rlhf-and-paralinguistic-comprehension/
-2026-05-25 | https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/
-2026-05-25 | https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video
-2026-05-25 | https://www.theverge.com/column/935545/hackers-ai-chatbots
-2026-05-25 | https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/
-2026-05-25 | https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/
-2026-05-25 | https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet
-2026-05-25 | https://huggingface.co/blog/nvidia/nemotron-labs-diffusion
-2026-05-24 | https://www.anthropic.com/research/glasswing-initial-update
-2026-05-24 | https://www.engadget.com/2180062/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/
-2026-05-24 | https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video
-2026-05-24 | https://mistral.ai/news/accelerate-ai-native-industry
-2026-05-24 | https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/
-2026-05-24 | https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on
-2026-05-24 | https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/
-2026-05-24 | https://www.theverge.com/ai-artificial-intelligence/936637/anthropic-is-making-the-security-tools-its-used-with-claude-mythos-preview-just-a-bit-more-available
-2026-05-24 | https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard
-2026-05-24 | https://huggingface.co/blog/nvidia/nemotron-labs-diffusion
-2026-05-24 | https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen
-2026-05-24 | https://openai.com/index/gartner-2026-agentic-coding-leader/
-2026-05-24 | https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/
-2026-05-24 | https://developer.nvidia.com/blog/synthesize-realistic-3d-medical-images-at-scale-to-ship-pre-trained-models/
-2026-05-24 | https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database
-2026-05-23 | https://www.anthropic.com/research/glasswing-initial-update
-2026-05-23 | https://developers.openai.com/codex/changelog
-2026-05-23 | https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce
-2026-05-23 | https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/
-2026-05-23 | https://github.blog/changelog/2026-05-21-github-copilot-for-eclipse-is-open-source
-2026-05-23 | https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/
-2026-05-23 | https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/
-2026-05-23 | https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/
-2026-05-23 | https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/
-2026-05-23 | https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/
-2026-05-23 | https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/
-2026-05-23 | https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/
-2026-05-23 | https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/
-2026-05-23 | https://openai.com/index/gartner-2026-agentic-coding-leader/
-2026-05-21 | https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a
-2026-05-21 | https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/
-2026-05-21 | https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai
-2026-05-21 | https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds
-2026-05-21 | https://github.blog/changelog/2026-05-20-auto-model-selection-now-routes-based-on-your-task-in-vs-code/
-2026-05-21 | https://github.blog/changelog/2026-05-20-updates-to-available-models-in-copilot-on-web/
-2026-05-21 | https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai
-2026-05-21 | https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/
-2026-05-21 | https://huggingface.co/blog/huggingface/agent-traces-as-memory
-2026-05-21 | https://blog.google/products/ads-commerce/google-marketing-live-search-ads/
-2026-05-20 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
-2026-05-20 | https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/
-2026-05-20 | https://blog.google/products-and-platforms/products/search/search-io-2026
-2026-05-20 | https://openai.com/index/advancing-content-provenance/
-2026-05-20 | https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/
-2026-05-20 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/
-2026-05-20 | https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/
-2026-05-20 | https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/
-2026-05-20 | https://blog.google/products-and-platforms/products/workspace/workspace-updates
-2026-05-20 | https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates/
-2026-05-20 | https://github.blog/changelog/2026-05-20-semantic-issue-search-in-copilot-chat
-2026-05-20 | https://github.blog/changelog/2026-05-19-easily-apply-copilot-code-review-feedback-with-copilot-cloud-agent
-2026-05-20 | https://github.blog/changelog/2026-05-19-gemini-3-5-flash-is-generally-available-for-github-copilot
-2026-05-20 | https://www.figma.com/blog/the-figma-agent-is-here/
-2026-05-20 | https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking
-2026-05-20 | https://blog.google/products-and-platforms/products/shopping/google-shopping-cart
-2026-05-20 | https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/
-2026-05-20 | https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/
-2026-05-20 | https://openai.com/index/the-next-phase-of-education-for-countries/
-2026-05-20 | https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts
-2026-05-20 | https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can
-2026-05-20 | https://openai.com/index/introducing-openai-for-singapore/
-2026-05-20 | https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/
-2026-05-20 | https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html
-2026-05-20 | https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/
-2026-05-20 | https://the-decoder.de/im-test-von-cloudflare-baut-mythos-preview-eigenstaendig-exploitketten-aus-kleinen-fehlern/
+2026-07-01 | https://www.anthropic.com/news/redeploying-fable-5
+2026-07-01 | https://www.anthropic.com/news/claude-sonnet-5
+2026-07-01 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/
+2026-07-01 | https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/
+2026-07-01 | https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/
+2026-07-01 | https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/
+2026-07-01 | https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga
+2026-07-01 | https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/
+2026-07-01 | https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available/
+2026-07-01 | https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task/
+2026-07-01 | https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk/
+2026-07-01 | https://developers.googleblog.com/en/build-agentic-full-stack-apps-with-genkit/
+2026-07-01 | https://x.ai/news/grok-voice-agent-builder
+2026-07-01 | https://uktechnews.co.uk/2026/07/01/harness-launches-autonomous-worker-agents-for-software-delivery/
+2026-07-01 | https://securitybrief.news/story/ory-unveils-agent-dx-for-enterprise-ai-coding-agents
+2026-07-01 | https://cryptobriefing.com/bnb-chain-launches-ai-agent-platform-built-with-aws/
+2026-07-01 | https://www.meta.com/blog/meta-ai-glasses-oakley-meta-hstn-oakley-meta-vanguard-18birdies-arccos/
+2026-07-01 | https://www.anthropic.com/news/claude-fable-5-mythos-5
+2026-07-01 | https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/
+2026-07-01 | https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/
+2026-07-01 | https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand
+2026-07-01 | https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/
+2026-07-01 | https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
+2026-07-01 | https://techamerica.ai/cursor-launches-mobile-app-to-manage-ai-coding-projects-anywhere
+2026-07-01 | https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/
+2026-07-01 | https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/
+2026-07-01 | https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/
+2026-07-01 | https://huggingface.co/blog/feyninc/pulpie
+2026-07-01 | https://creati.ai/ai-news/2026-07-01/openai-launches-genebench-pro-to-test-whether-ai-can-make-research-grade-judgment-calls-in-compu/
+2026-07-01 | https://creati.ai/ai-news/2026-07-01/z-ai-pushes-glm-5-2-into-open-weight-spotlight-as-chinese-model-climbs-rankings-and-coding-bench/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 57
-- **Gesamt erfasste Meldungen:** 838
+- **Gesamt Recherche-Läufe:** 58
+- **Gesamt erfasste Meldungen:** 868
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-05-27
+- **Letzter Lauf:** 2026-07-01
 
 ---
 
