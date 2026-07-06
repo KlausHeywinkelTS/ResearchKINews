@@ -9,6 +9,9 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-05 | 11 | 4 | – | – |
+| 2026-07-04 | 15 | 5 | – | – |
+| 2026-07-03 | 15 | 5 | – | – |
 | 2026-07-02 | 24 | 5 | – | – |
 | 2026-07-01 | 30 | 5 | – | – |
 | 2026-05-27 | 20 | 5 | – | – |
@@ -85,6 +88,23 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-05 | https://aitoolsrecap.com/Blog/ai-news-july-5-2026
+2026-07-05 | https://www.anthropic.com/news/claude-science-ai-workbench
+2026-07-05 | https://deploymentsafety.openai.com/gpt-5-6-preview
+2026-07-05 | https://claude-news.today/en/briefings/briefing-2026-07-05/
+2026-07-04 | https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026
+2026-07-04 | https://aitoolsrecap.com/Blog/ai-news-july-4-2026
+2026-07-04 | https://www.techtimes.com/articles/319687/20260704/claude-enterprise-spend-controls-arrive-agentic-ai-bills-blow-past-budgets.htm
+2026-07-04 | https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/
+2026-07-04 | https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7
+2026-07-04 | https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/openai-proposes-handing-trump-administration-5-stake-ft-reports-amid-growing-us-scrutiny-ai-firms
+2026-07-04 | https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/
+2026-07-03 | https://openai.com/index/previewing-gpt-5-6-sol/
+2026-07-03 | https://aidigest.shelfcritter.com/digest/2026-07-03
+2026-07-03 | https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026
+2026-07-03 | https://arxiv.org/abs/2607.02512
+2026-07-03 | https://arxiv.org/abs/2607.02255
+2026-07-03 | https://arxiv.org/abs/2607.01642
 2026-07-02 | https://www.anthropic.com/news/fable-safeguards-jailbreak-framework
 2026-07-02 | https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview/
 2026-07-02 | https://www.techtimes.com/articles/319532/20260702/claude-code-dynamic-workflows-go-ga-pro-users-can-now-spawn-1000-parallel-agents.htm
@@ -145,10 +165,10 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 59
-- **Gesamt erfasste Meldungen:** 892
+- **Gesamt Recherche-Läufe:** 62
+- **Gesamt erfasste Meldungen:** 933
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-02
+- **Letzter Lauf:** 2026-07-05
 
 ---
 
