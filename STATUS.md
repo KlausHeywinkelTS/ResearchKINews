@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-06 | 20 | 5 | – | – |
 | 2026-07-05 | 11 | 4 | – | – |
 | 2026-07-04 | 15 | 5 | – | – |
 | 2026-07-03 | 15 | 5 | – | – |
@@ -88,6 +89,25 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-06 | https://www.anthropic.com/news/alberta-government-claude-cybersecurity
+2026-07-06 | https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/
+2026-07-06 | https://x.ai/news/grok-4-1-fast
+2026-07-06 | https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/
+2026-07-06 | https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/
+2026-07-06 | https://tachiuokoshien.com/article/github-integrates-claude-codex-ai-revolutionizing-coding-with-agent-hq
+2026-07-06 | https://t3n.de/news/halluzination-als-feature-warum-diese-ki-kreativer-ist-als-chatgpt-und-claude-1750963/
+2026-07-06 | https://unrot.co/blogs/today-top-10-ai-news-july-6-2026
+2026-07-06 | https://www.buildfastwithai.com/blogs/ai-news-today-july-6-2026
+2026-07-06 | https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/
+2026-07-06 | https://www.heise.de/news/KI-Update-UN-Bericht-zu-KI-Plaedoyer-fuer-Open-Source-Vorsicht-vor-KI-Kollegen-11353568.html
+2026-07-06 | https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/
+2026-07-06 | https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/
+2026-07-06 | https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
+2026-07-06 | https://www.heise.de/news/OpenAI-soll-Inferenzkosten-um-mehr-als-die-Haelfte-gesenkt-haben-11350595.html
+2026-07-06 | https://t3n.de/news/chatgpt-marktanteil-50-prozent-gemini-claude-auf-den-fersen-1747980/
+2026-07-06 | https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/
+2026-07-06 | https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/
+2026-07-06 | https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/
 2026-07-05 | https://aitoolsrecap.com/Blog/ai-news-july-5-2026
 2026-07-05 | https://www.anthropic.com/news/claude-science-ai-workbench
 2026-07-05 | https://deploymentsafety.openai.com/gpt-5-6-preview
@@ -165,10 +185,10 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 62
-- **Gesamt erfasste Meldungen:** 933
+- **Gesamt Recherche-Läufe:** 63
+- **Gesamt erfasste Meldungen:** 953
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-05
+- **Letzter Lauf:** 2026-07-06
 
 ---
 
