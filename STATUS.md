@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-08 | 24 | 5 | – | – |
 | 2026-07-07 | 22 | 5 | – | – |
 | 2026-07-06 | 20 | 5 | – | – |
 | 2026-07-05 | 11 | 4 | – | – |
@@ -90,6 +91,30 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-08 | https://openai.com/index/introducing-gpt-live/
+2026-07-08 | https://x.ai/news/grok-4-5
+2026-07-08 | https://blog.google/products-and-platforms/products/photos/video-remix/
+2026-07-08 | https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message
+2026-07-08 | https://www.prnewswire.com/news-releases/langchain-and-nvidia-launch-nemoclaw-deep-agents-blueprint-for-enterprise-agents-302820446.html
+2026-07-08 | https://www.macrumors.com/2026/07/08/meta-ai-muse-image/
+2026-07-08 | https://www.engadget.com/2210283/meta-disable-camera-glasses-tamper-with-recording-led/
+2026-07-08 | https://www.marketminute.com/article/bizwire-2026-7-8-airbyte-agents-data-platform-available-on-openai-app-marketplace-adds-command-line-interface-and-ability-to-write-to-salesforce
+2026-07-08 | https://www.prnewswire.com/news-releases/akeneo-introduces-the-first-truly-agentic-product-experience-platform-302819885.html
+2026-07-08 | https://www.prnewswire.com/news-releases/clockworkai-launches-mira-the-ai-giving-3-000-businesses-a-cfo-they-could-never-afford-302820886.html
+2026-07-08 | https://www.businesswire.com/news/home/20260708584390/en/Teamily-AI-Publicly-Launches-HumanAI-Social-Platform-to-Make-Building-and-Growing-a-Company-Easy-for-Every-Team
+2026-07-08 | https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/lexis-with-protege-is-now-purpose-built-ai-for-in-house-legal-and-compliance-teams/2380724
+2026-07-08 | https://www.law.com/legaltechnews/2026/07/08/suited-announces-launch-of-lateral-hiring-platform/
+2026-07-08 | https://cursor.com/blog/grok-4-5
+2026-07-08 | https://www.anthropic.com/news/how-anthropic-teams-use-claude-code
+2026-07-08 | https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/07/moving-sales-and-service-organizations-forward-with-agentic-cx-and-microsoft-365-copilot/
+2026-07-08 | https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/
+2026-07-08 | https://www.prnewswire.com/news-releases/deepfabric-announces-general-availability-of-its-ai-agent-platform-for-end-to-end-supply-chain-operations-302820223.html
+2026-07-08 | https://www.prnewswire.com/news-releases/rainfocus-launches-ai-agent-connectivity-for-event-data-with-mcp-profiles-302819987.html
+2026-07-08 | http://newsincredible.com/quiq-launches-verified-intelligence-to-give-enterprise-brands-full-control-over-agentic-ai/
+2026-07-08 | https://www.helpnetsecurity.com/2026/07/08/first-recon-ai-security-runtime-helps-enterprises-govern-ai-with-audit-ready-evidence/
+2026-07-08 | https://www.helpnetsecurity.com/2026/07/08/codenotary-launches-ai-security-platform-that-learns-from-ai-agent-behavior/
+2026-07-08 | https://www.prnewswire.com/news-releases/kythera-labs-expands-partnership-with-databricks-launching-the-clinical-semantic-bridge-mcp-on-databricks-marketplace-302817357.html
+2026-07-08 | https://www.innovationopenlab.com/news-biz/69533/lantern-pharma-launches-zetaomics-an-autonomous-intelligent-computational-biologist-that-brings-expert-grade-bioinformatics-biostatistics-reasoning-to-every-cancer.html
 2026-07-07 | https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/
 2026-07-07 | https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web
 2026-07-07 | https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/
@@ -172,46 +197,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-07-02 | https://securitybrief.com.au/story/agentic-ai-creates-enterprise-challenge-beyond-llm-boom
 2026-07-02 | https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks
 2026-07-02 | https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m
-2026-07-01 | https://www.anthropic.com/news/redeploying-fable-5
-2026-07-01 | https://www.anthropic.com/news/claude-sonnet-5
-2026-07-01 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/
-2026-07-01 | https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/
-2026-07-01 | https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/
-2026-07-01 | https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/
-2026-07-01 | https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga
-2026-07-01 | https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/
-2026-07-01 | https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available/
-2026-07-01 | https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task/
-2026-07-01 | https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk/
-2026-07-01 | https://developers.googleblog.com/en/build-agentic-full-stack-apps-with-genkit/
-2026-07-01 | https://x.ai/news/grok-voice-agent-builder
-2026-07-01 | https://uktechnews.co.uk/2026/07/01/harness-launches-autonomous-worker-agents-for-software-delivery/
-2026-07-01 | https://securitybrief.news/story/ory-unveils-agent-dx-for-enterprise-ai-coding-agents
-2026-07-01 | https://cryptobriefing.com/bnb-chain-launches-ai-agent-platform-built-with-aws/
-2026-07-01 | https://www.meta.com/blog/meta-ai-glasses-oakley-meta-hstn-oakley-meta-vanguard-18birdies-arccos/
-2026-07-01 | https://www.anthropic.com/news/claude-fable-5-mythos-5
-2026-07-01 | https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/
-2026-07-01 | https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/
-2026-07-01 | https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand
-2026-07-01 | https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/
-2026-07-01 | https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
-2026-07-01 | https://techamerica.ai/cursor-launches-mobile-app-to-manage-ai-coding-projects-anywhere
-2026-07-01 | https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/
-2026-07-01 | https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/
-2026-07-01 | https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/
-2026-07-01 | https://huggingface.co/blog/feyninc/pulpie
-2026-07-01 | https://creati.ai/ai-news/2026-07-01/openai-launches-genebench-pro-to-test-whether-ai-can-make-research-grade-judgment-calls-in-compu/
-2026-07-01 | https://creati.ai/ai-news/2026-07-01/z-ai-pushes-glm-5-2-into-open-weight-spotlight-as-chinese-model-climbs-rankings-and-coding-bench/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 64
-- **Gesamt erfasste Meldungen:** 975
+- **Gesamt Recherche-Läufe:** 65
+- **Gesamt erfasste Meldungen:** 999
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-07
+- **Letzter Lauf:** 2026-07-08
 
 ---
 
