@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-09 | 24 | 5 | – | – |
 | 2026-07-08 | 24 | 5 | – | – |
 | 2026-07-07 | 22 | 5 | – | – |
 | 2026-07-06 | 20 | 5 | – | – |
@@ -91,6 +92,30 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-09 | https://openai.com/index/gpt-5-6/
+2026-07-09 | https://openai.com/index/chatgpt-for-your-most-ambitious-work/
+2026-07-09 | https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/
+2026-07-09 | https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone
+2026-07-09 | https://www.prnewswire.com/news-releases/ibm-advances-enterprise-ai-software-development-with-multi-agent-capabilities-and-specialized-modernization-workflows-302821766.html
+2026-07-09 | https://www.businesswire.com/news/home/20260709330028/en/Wrike-Introduces-Conversational-AI-Agent-Builder-Alongside-a-Series-of-Platform-Updates
+2026-07-09 | https://www.prnewswire.com/news-releases/cresta-launches-training-simulator-using-ai-agents-to-provide-dynamic-training-to-human-agents-302821292.html
+2026-07-09 | https://www.prnewswire.com/news-releases/matillion-launches-maia-foundation-on-google-bigquery-302821746.html
+2026-07-09 | https://finance.yahoo.com/technology/ai/articles/zoominfo-launches-gtm-ai-cli-155500518.html
+2026-07-09 | https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+2026-07-09 | https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/
+2026-07-09 | https://www.helpnetsecurity.com/2026/07/09/citrix-mcp-gateway/
+2026-07-09 | https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/
+2026-07-09 | https://openai.com/index/bio-bug-bounty/
+2026-07-09 | http://anthropic.com/news/reflect-with-claude
+2026-07-09 | https://www.anthropic.com/news/hard-questions
+2026-07-09 | https://www.anthropic.com/news/ben-bernanke
+2026-07-09 | https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/
+2026-07-09 | https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/
+2026-07-09 | https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research
+2026-07-09 | https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds
+2026-07-09 | https://www.helpnetsecurity.com/2026/07/09/vectogate-ai-governance-platform/
+2026-07-09 | https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/
+2026-07-09 | https://www.helpnetsecurity.com/2026/07/09/malicious-ai-agent-skills-scan/
 2026-07-08 | https://openai.com/index/introducing-gpt-live/
 2026-07-08 | https://x.ai/news/grok-4-5
 2026-07-08 | https://blog.google/products-and-platforms/products/photos/video-remix/
@@ -173,40 +198,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-07-03 | https://arxiv.org/abs/2607.02512
 2026-07-03 | https://arxiv.org/abs/2607.02255
 2026-07-03 | https://arxiv.org/abs/2607.01642
-2026-07-02 | https://www.anthropic.com/news/fable-safeguards-jailbreak-framework
-2026-07-02 | https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview/
-2026-07-02 | https://www.techtimes.com/articles/319532/20260702/claude-code-dynamic-workflows-go-ga-pro-users-can-now-spawn-1000-parallel-agents.htm
-2026-07-02 | https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99
-2026-07-02 | https://www.techtimes.com/articles/319531/20260702/nvidia-diffusion-llm-hits-242x-throughput-without-retraining-nemotron-twotower-released.htm
-2026-07-02 | https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding
-2026-07-02 | https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions/
-2026-07-02 | https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports/
-2026-07-02 | https://securitybrief.com.au/story/ory-unveils-agent-dx-for-enterprise-ai-coding-agents
-2026-07-02 | https://securitybrief.com.au/story/exabeam-expands-ai-agent-security-tools-with-claude
-2026-07-02 | https://www.govinfosecurity.com/anthropic-unveils-ai-tool-for-scientists-medical-rd-a-32144
-2026-07-02 | https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/
-2026-07-02 | https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/
-2026-07-02 | https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/
-2026-07-02 | https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov
-2026-07-02 | https://fortune.com/2026/07/02/anthropic-fable-and-mythos-are-restored-but-us-ai-policy-is-still-a-mess/
-2026-07-02 | https://www.heise.de/news/KI-Kosten-explodieren-Konzerne-sperren-Zugaenge-oder-raten-zu-aelteren-Modellen-11351857.html
-2026-07-02 | https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
-2026-07-02 | https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/
-2026-07-02 | https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/
-2026-07-02 | https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/
-2026-07-02 | https://securitybrief.com.au/story/agentic-ai-creates-enterprise-challenge-beyond-llm-boom
-2026-07-02 | https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks
-2026-07-02 | https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 65
-- **Gesamt erfasste Meldungen:** 999
+- **Gesamt Recherche-Läufe:** 66
+- **Gesamt erfasste Meldungen:** 1023
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-08
+- **Letzter Lauf:** 2026-07-09
 
 ---
 
