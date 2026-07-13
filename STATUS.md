@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-10 bis 2026-07-12 (kombiniert) | 23 | 4 | – | – |
 | 2026-07-09 | 24 | 5 | – | – |
 | 2026-07-08 | 24 | 5 | – | – |
 | 2026-07-07 | 22 | 5 | – | – |
@@ -92,6 +93,23 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-12 | https://www.marktechpost.com/2026/07/12/meet-neurovfm-a-new-neuroimaging-foundation-model-trained-with-vol-jepa-on-uncurated-clinical-mri-and-ct-volumes/
+2026-07-12 | https://ranzware.com/revolut-x-introduces-ai-powered-cryptocurrency-trading-with-claude-and-gemini-integration
+2026-07-12 | https://t3n.de/news/laut-pangram-analyse-mehr-als-40-prozent-der-posts-auf-linkedin-sind-ki-generiert-1752464/
+2026-07-12 | https://aitoolsrecap.com/Blog/ai-news-july-12-2026
+2026-07-12 | https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains
+2026-07-12 | https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026
+2026-07-12 | https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/
+2026-07-11 | https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/
+2026-07-11 | https://hoploninfosec.com/agentic-ransomware-jadepuffer-attack
+2026-07-11 | https://topaiproduct.com/2026/07/11/google-labs-releases-stitch-skills-official-stitch-plugins-for-claude-code-cursor-and-codex/
+2026-07-11 | https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7
+2026-07-11 | https://aitoolsrecap.com/Blog/ai-news-july-11-2026
+2026-07-10 | https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html
+2026-07-10 | https://aitoolsrecap.com/Blog/grok-4-5-public-launch-thursday-july-10-2026
+2026-07-10 | https://crypto.news/robinhood-hands-ai-agents-your-crypto-trades-in-shift/
+2026-07-10 | https://www.marketingprofs.com/opinions/2026/55247/ai-update-july-10-2026-ai-news-and-views-from-the-past-week
+2026-07-10 | https://kyutai.org/blog/2026-07-10-muscriptor
 2026-07-09 | https://openai.com/index/gpt-5-6/
 2026-07-09 | https://openai.com/index/chatgpt-for-your-most-ambitious-work/
 2026-07-09 | https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/
@@ -181,33 +199,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-07-06 | https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/
 2026-07-06 | https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/
 2026-07-06 | https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/
-2026-07-05 | https://aitoolsrecap.com/Blog/ai-news-july-5-2026
-2026-07-05 | https://www.anthropic.com/news/claude-science-ai-workbench
-2026-07-05 | https://deploymentsafety.openai.com/gpt-5-6-preview
-2026-07-05 | https://claude-news.today/en/briefings/briefing-2026-07-05/
-2026-07-04 | https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026
-2026-07-04 | https://aitoolsrecap.com/Blog/ai-news-july-4-2026
-2026-07-04 | https://www.techtimes.com/articles/319687/20260704/claude-enterprise-spend-controls-arrive-agentic-ai-bills-blow-past-budgets.htm
-2026-07-04 | https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/
-2026-07-04 | https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7
-2026-07-04 | https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/openai-proposes-handing-trump-administration-5-stake-ft-reports-amid-growing-us-scrutiny-ai-firms
-2026-07-04 | https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/
-2026-07-03 | https://openai.com/index/previewing-gpt-5-6-sol/
-2026-07-03 | https://aidigest.shelfcritter.com/digest/2026-07-03
-2026-07-03 | https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026
-2026-07-03 | https://arxiv.org/abs/2607.02512
-2026-07-03 | https://arxiv.org/abs/2607.02255
-2026-07-03 | https://arxiv.org/abs/2607.01642
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 66
-- **Gesamt erfasste Meldungen:** 1023
+- **Gesamt Recherche-Läufe:** 67
+- **Gesamt erfasste Meldungen:** 1046
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-09
+- **Letzter Lauf:** 2026-07-12
 
 ---
 
