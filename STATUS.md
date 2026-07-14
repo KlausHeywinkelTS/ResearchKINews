@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-13 | 22 | 3 | – | – |
 | 2026-07-10 bis 2026-07-12 (kombiniert) | 23 | 4 | – | – |
 | 2026-07-09 | 24 | 5 | – | – |
 | 2026-07-08 | 24 | 5 | – | – |
@@ -93,6 +94,28 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-13 | https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
+2026-07-13 | https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai
+2026-07-13 | https://blog.google/waze/waze-updates-gemini-motorcycle-mode/
+2026-07-13 | https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/
+2026-07-13 | https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on
+2026-07-13 | https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/
+2026-07-13 | https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/
+2026-07-13 | https://www.newsbytesapp.com/news/science/anthropic-launches-claude-reflect-beta-to-review-ai-usage-patterns/tldr
+2026-07-13 | https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/07/moving-sales-and-service-organizations-forward-with-agentic-cx-and-microsoft-365-copilot/
+2026-07-13 | https://www.heise.de/news/Specs-first-OpenSpec-sortiert-das-KI-Chaos-beim-Entwickeln-11360349.html
+2026-07-13 | https://t3n.de/news/large-tabular-models-neue-ki-modelle-machen-schluss-mit-dem-excel-handicap-1752212/
+2026-07-13 | https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/
+2026-07-13 | https://www.theverge.com/news/964587/anthropics-heavyweight-hiring-spree-continues
+2026-07-13 | https://www.heise.de/news/Microsoft-nutzt-in-manchen-Apps-offenbar-eigene-KI-statt-OpenAI-und-Anthropic-11362060.html
+2026-07-13 | https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/
+2026-07-13 | https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/
+2026-07-13 | https://www.heise.de/news/Metas-groesstes-KI-Rechenzentrum-soll-mehr-als-250-Milliarden-Dollar-verschlingen-11363423.html
+2026-07-13 | https://the-decoder.com/turing-award-winner-rich-sutton-founds-oak-lab-to-build-ai-agents-that-learn-on-their-own/
+2026-07-13 | https://www.heise.de/news/Kamerabrillen-So-stellt-sich-Meta-Gesichtserkennung-vor-11362762.html
+2026-07-13 | https://the-decoder.com/sensorfm/
+2026-07-13 | https://arxiv.org/pdf/2607.09657
+2026-07-13 | https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost
 2026-07-12 | https://www.marktechpost.com/2026/07/12/meet-neurovfm-a-new-neuroimaging-foundation-model-trained-with-vol-jepa-on-uncurated-clinical-mri-and-ct-volumes/
 2026-07-12 | https://ranzware.com/revolut-x-introduces-ai-powered-cryptocurrency-trading-with-claude-and-gemini-integration
 2026-07-12 | https://t3n.de/news/laut-pangram-analyse-mehr-als-40-prozent-der-posts-auf-linkedin-sind-ki-generiert-1752464/
@@ -180,35 +203,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-07-07 | https://www.googlecloudpresscorner.com/2026-07-07-Accenture-Edge-and-Google-Cloud-Bring-Scalable-Agentic-AI-Solutions-to-Mid-Market-Companies
 2026-07-07 | https://www.businesswire.com/news/home/20260707777574/en/Peraton-Unveils-Peratonx-The-First-True-Enterprise-Agentic-AI-Platform-Built-for-the-Nations-Most-Critical-Operations-and-Missions
 2026-07-07 | https://www.businesswire.com/news/home/20260707626465/en/DDN-Unveils-Infinia-2.4-at-RAISE-Establishing-an-Enterprise-Foundation-for-Production-AI-Inference-Economics-and-Sovereign-AI-Factories
-2026-07-06 | https://www.anthropic.com/news/alberta-government-claude-cybersecurity
-2026-07-06 | https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/
-2026-07-06 | https://x.ai/news/grok-4-1-fast
-2026-07-06 | https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/
-2026-07-06 | https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/
-2026-07-06 | https://tachiuokoshien.com/article/github-integrates-claude-codex-ai-revolutionizing-coding-with-agent-hq
-2026-07-06 | https://t3n.de/news/halluzination-als-feature-warum-diese-ki-kreativer-ist-als-chatgpt-und-claude-1750963/
-2026-07-06 | https://unrot.co/blogs/today-top-10-ai-news-july-6-2026
-2026-07-06 | https://www.buildfastwithai.com/blogs/ai-news-today-july-6-2026
-2026-07-06 | https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/
-2026-07-06 | https://www.heise.de/news/KI-Update-UN-Bericht-zu-KI-Plaedoyer-fuer-Open-Source-Vorsicht-vor-KI-Kollegen-11353568.html
-2026-07-06 | https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/
-2026-07-06 | https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/
-2026-07-06 | https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
-2026-07-06 | https://www.heise.de/news/OpenAI-soll-Inferenzkosten-um-mehr-als-die-Haelfte-gesenkt-haben-11350595.html
-2026-07-06 | https://t3n.de/news/chatgpt-marktanteil-50-prozent-gemini-claude-auf-den-fersen-1747980/
-2026-07-06 | https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/
-2026-07-06 | https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/
-2026-07-06 | https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 67
-- **Gesamt erfasste Meldungen:** 1046
+- **Gesamt Recherche-Läufe:** 68
+- **Gesamt erfasste Meldungen:** 1068
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-12
+- **Letzter Lauf:** 2026-07-13
 
 ---
 
