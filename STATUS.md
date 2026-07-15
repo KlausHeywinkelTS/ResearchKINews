@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-14 | 20 | 3 | – | – |
 | 2026-07-13 | 22 | 3 | – | – |
 | 2026-07-10 bis 2026-07-12 (kombiniert) | 23 | 4 | – | – |
 | 2026-07-09 | 24 | 5 | – | – |
@@ -94,6 +95,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-14 | https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/
+2026-07-14 | https://www.anthropic.com/news/claude-for-teachers
+2026-07-14 | https://cmotech.uk/story/meta-launches-muse-image-in-meta-ai-for-chats-apps
+2026-07-14 | https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+2026-07-14 | https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/
+2026-07-14 | https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts
+2026-07-14 | https://www.oracle.com/news/announcement/oracle-introduces-ai-native-builder-experience-2026-07-14/
+2026-07-14 | https://the-decoder.com/google-search-now-generates-ai-images-when-it-cant-find-what-youre-looking-for-on-the-web/
+2026-07-14 | https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/
+2026-07-14 | https://www.prnewswire.com/news-releases/sail-research-launches-sailboxes-the-first-cloud-environment-purpose-built-for-long-horizon-ai-agents-302825300.html
+2026-07-14 | https://www.prnewswire.com/news-releases/frigade-launches-skills-giving-any-product-an-ai-assistant-that-takes-action-for-users-no-code-required-302824744.html
+2026-07-14 | https://siliconangle.com/2026/07/14/concho-ai-turns-enterprise-codebases-knowledge-layer-ai-agents/
+2026-07-14 | https://www.globenewswire.com/news-release/2026/07/14/3326753/0/en/Checkmarx-Unveils-Self-Healing-Application-Security-in-Assist-Agent-Family.html
+2026-07-14 | https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
+2026-07-14 | https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/
+2026-07-14 | https://www.prnewswire.com/news-releases/new-study-most-organizations-have-abandoned-human-ai-oversight-302825345.html
+2026-07-14 | https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis
+2026-07-14 | https://www.thehindubusinessline.com/economy/agri-business/cropin-google-cloud-launch-orbitai-an-agentic-ai-platform-for-food-and-agriculture/article71221070.ece
+2026-07-14 | https://www.prnewswire.com/news-releases/bmc-brings-governed-ai-agents-to-enterprise-workflows-and-mainframe-operations-302824542.html
+2026-07-14 | https://www.prnewswire.com/news-releases/as-ai-agents-scale-enterprises-demand-execution-control--devenex-takes-control-302825506.html
 2026-07-13 | https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
 2026-07-13 | https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai
 2026-07-13 | https://blog.google/waze/waze-updates-gemini-motorcycle-mode/
@@ -181,38 +202,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-07-08 | https://www.helpnetsecurity.com/2026/07/08/codenotary-launches-ai-security-platform-that-learns-from-ai-agent-behavior/
 2026-07-08 | https://www.prnewswire.com/news-releases/kythera-labs-expands-partnership-with-databricks-launching-the-clinical-semantic-bridge-mcp-on-databricks-marketplace-302817357.html
 2026-07-08 | https://www.innovationopenlab.com/news-biz/69533/lantern-pharma-launches-zetaomics-an-autonomous-intelligent-computational-biologist-that-brings-expert-grade-bioinformatics-biostatistics-reasoning-to-every-cancer.html
-2026-07-07 | https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/
-2026-07-07 | https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web
-2026-07-07 | https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/
-2026-07-07 | https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/
-2026-07-07 | https://community.openai.com/t/new-realtime-models-on-the-api-gpt-realtime-2-1-and-gpt-realtime-2-1-mini/1385896
-2026-07-07 | https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise/
-2026-07-07 | https://9to5mac.com/2026/07/07/notion-just-launched-a-brand-new-iphone-app-called-agents/
-2026-07-07 | https://www.prweb.com/releases/intuiface-launches-experience-generator-an-agentic-ai-system-for-creating-interactive-experiences-from-natural-language-prompts-302818977.html
-2026-07-07 | https://www.prnewswire.com/news-releases/agent-approve-brings-ai-agent-observability-and-control-to-your-wrist-302819165.html
-2026-07-07 | https://trustwallet.com/blog/announcements/trust-wallet-agent-kit-the-non-custodial-wallet-primitive-for-ai-agents
-2026-07-07 | https://www.prnewswire.com/news-releases/popl-launches-worlds-first-ai-assistant-for-events-in-anthropics-claude-302819826.html
-2026-07-07 | https://www.einpresswire.com/article/924965536/sber-unveils-gigachat-3-5-ultra-the-model-writes-code-better-handles-agent-based-tasks-and-works-with-long-texts
-2026-07-07 | https://technode.com/2026/07/07/tencent-launches-hunyuan-hy3-integrates-model-across-multiple-products/
-2026-07-07 | https://www.caixinglobal.com/2026-07-07/meituan-open-sources-16-trillion-parameter-ai-model-built-on-chinese-chips-102461495.html
-2026-07-07 | https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/
-2026-07-07 | https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception/
-2026-07-07 | https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/
-2026-07-07 | https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/
-2026-07-07 | https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/
-2026-07-07 | https://www.googlecloudpresscorner.com/2026-07-07-Accenture-Edge-and-Google-Cloud-Bring-Scalable-Agentic-AI-Solutions-to-Mid-Market-Companies
-2026-07-07 | https://www.businesswire.com/news/home/20260707777574/en/Peraton-Unveils-Peratonx-The-First-True-Enterprise-Agentic-AI-Platform-Built-for-the-Nations-Most-Critical-Operations-and-Missions
-2026-07-07 | https://www.businesswire.com/news/home/20260707626465/en/DDN-Unveils-Infinia-2.4-at-RAISE-Establishing-an-Enterprise-Foundation-for-Production-AI-Inference-Economics-and-Sovereign-AI-Factories
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 68
-- **Gesamt erfasste Meldungen:** 1068
+- **Gesamt Recherche-Läufe:** 69
+- **Gesamt erfasste Meldungen:** 1088
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-13
+- **Letzter Lauf:** 2026-07-14
 
 ---
 
