@@ -1,5 +1,5 @@
 ---
-description: Konfiguriert den täglichen KI-Recherche-Agenten für dieses Projekt. Aktiviert sich bei Trigger-Befehlen wie "recherche starten", "woche zusammenfassen" oder "monat zusammenfassen".
+description: Konfiguriert den täglichen KI-Recherche-Agenten für dieses Projekt. Aktiviert sich bei Trigger-Befehlen wie "recherche starten", "recherche für gestern", "recherche für das letzte Wochenende", "woche zusammenfassen" oder "monat zusammenfassen".
 alwaysApply: true
 ---
 
@@ -14,6 +14,8 @@ Alle inhaltlichen Vorgaben, Bewertungsschemas, Pflichtschritte und Formate sind 
 | Befehl | Aktion |
 |---|---|
 | `recherche starten` | Skill `ki-recherche` lesen → Abschnitt „Tagesrecherche" ausführen |
+| `/ki-recherche-gestern` / `recherche für gestern` | Skill `ki-recherche-gestern` lesen → Tagesrecherche ausschließlich für den vorherigen Kalendertag ausführen |
+| `/ki-recherche-letztes-wochenende` / `recherche für das letzte Wochenende` | Skill `ki-recherche-letztes-wochenende` lesen → Tagesrecherche getrennt für den letzten abgeschlossenen Samstag und Sonntag ausführen |
 | `woche zusammenfassen` / `wochenrückschau` / „fasse die Woche … bis … zusammen" | Skill `ki-recherche` lesen → Abschnitt „Wochenbericht" ausführen |
 | `monat zusammenfassen` | Skill `ki-recherche` lesen → Abschnitt „Monatsbericht" ausführen |
 | `status anzeigen` | `STATUS.md` lesen und Übersicht ausgeben |
