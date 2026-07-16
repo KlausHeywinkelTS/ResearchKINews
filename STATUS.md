@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-15 | 21 | 3 | – | – |
 | 2026-07-14 | 20 | 3 | – | – |
 | 2026-07-13 | 22 | 3 | – | – |
 | 2026-07-10 bis 2026-07-12 (kombiniert) | 23 | 4 | – | – |
@@ -95,6 +96,27 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-15 | https://thinkingmachines.ai/news/introducing-inkling/
+2026-07-15 | https://openai.com/index/unlocking-self-improvement-gpt-red
+2026-07-15 | https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/
+2026-07-15 | https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch
+2026-07-15 | https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/
+2026-07-15 | https://cast.ai/press-release/kimchi-coding-hits-general-availability/
+2026-07-15 | https://www.globenewswire.com/news-release/2026/07/15/3327948/0/en/Autonomize-AI-Launches-Genie-AI-Autonomous-Agent-Transforming-Every-Healthcare-Expert-into-an-AI-Builder.html
+2026-07-15 | https://www.globenewswire.com/news-release/2026/07/15/3328015/0/en/Eightfold-AI-Grows-Talent-Agents-to-2-0-with-Candidate-Agent-Giving-every-Candidate-a-Connected-Conversational-Hiring-Journey.html
+2026-07-15 | https://www.perplexity.ai/hub/blog/secure-sandboxes-for-agents
+2026-07-15 | https://siliconangle.com/2026/07/15/cadence-extends-ai-agents-beyond-chips-aurastack-circuit-boards-packaging/
+2026-07-15 | https://www.prnewswire.com/news-releases/intelagree-launches-saige-assist-agent-one-ai-agent-for-your-entire-contract-portfolio-302826630.html
+2026-07-15 | https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips
+2026-07-15 | https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a
+2026-07-15 | https://venturebeat.com/business/latent-labs-launches-latent-y-to-researchers-worldwide-with-free-daily-access-and-on-demand-credits-for-larger-campaigns
+2026-07-15 | https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/
+2026-07-15 | https://www.prnewswire.com/news-releases/3m-and-microsoft-announce-strategic-partnership-to-advance-ai-data-center-infrastructure-and-enterprise-transformation-302825813.html
+2026-07-15 | https://www.prnewswire.com/news-releases/ibm-launches-new-power-systems-and-software-built-for-enterprises-to-address-risk-productivity-and-flexibility-302825942.html
+2026-07-15 | https://www.prnewswire.com/news-releases/teradata-autonomous-knowledge-platform-reaches-general-availability-across-cloud-and-on-premises-302825673.html
+2026-07-15 | https://www.prnewswire.com/news-releases/isc2-begins-developing-its-ai-security-certification-and-opens-call-for-volunteers-worldwide-302825622.html
+2026-07-15 | https://www.prnewswire.com/news-releases/agile-defense-awarded-100-million-for-ai-prototype-supporting-combatant-commands-302826389.html
+2026-07-15 | https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam
 2026-07-14 | https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/
 2026-07-14 | https://www.anthropic.com/news/claude-for-teachers
 2026-07-14 | https://cmotech.uk/story/meta-launches-muse-image-in-meta-ai-for-chats-apps
@@ -208,10 +230,10 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 69
-- **Gesamt erfasste Meldungen:** 1088
+- **Gesamt Recherche-Läufe:** 70
+- **Gesamt erfasste Meldungen:** 1109
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-14
+- **Letzter Lauf:** 2026-07-15
 
 ---
 
