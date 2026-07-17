@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-16 | 20 | 3 | – | – |
 | 2026-07-15 | 21 | 3 | – | – |
 | 2026-07-14 | 20 | 3 | – | – |
 | 2026-07-13 | 22 | 3 | – | – |
@@ -96,6 +97,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-16 | https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems
+2026-07-16 | https://blog.google/products-and-platforms/products/search/deep-search-business-calling-google-search/
+2026-07-16 | https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox
+2026-07-16 | https://blog.google/products-and-platforms/products/search/connected-apps/
+2026-07-16 | https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/
+2026-07-16 | https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/
+2026-07-16 | https://lmstudio.ai/blog/introducing-lm-studio-bionic
+2026-07-16 | https://www.prnewswire.com/news-releases/uspto-launches-ai-image-search-in-trademark-search-system-powered-by-clarivate-302826692.html
+2026-07-16 | https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma
+2026-07-16 | https://www.theverge.com/ai-artificial-intelligence/966619/chatgpt-will-show-teens-more-frequent-break-reminders
+2026-07-16 | https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials
+2026-07-16 | https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway
+2026-07-16 | https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix
+2026-07-16 | https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/
+2026-07-16 | https://www.cxtoday.com/ai-automation-in-cx/pwc-openai-agentic-customer-service/
+2026-07-16 | https://sierra.ai/blog/horizon
+2026-07-16 | https://www.prnewswire.com/news-releases/parallel-announces-partnership-with-google-cloud-for-agentic-web-search-on-gemini-enterprise-agent-platform-302827075.html
+2026-07-16 | https://www.prnewswire.com/news-releases/coalition-for-health-ai-chai-launches-pulse-a-national-initiative-to-help-public-health-agencies-responsibly-implement-ai-at-scale-302827293.html
+2026-07-16 | https://www.globenewswire.com/news-release/2026/07/16/3328258/0/en/Japan-Government-Industrial-Leaders-and-NVIDIA-Launch-the-World-s-First-National-AI-Infrastructure.html
+2026-07-16 | https://www.globenewswire.com/news-release/2026/07/16/3328613/0/en/New-Silver-Launches-AI-Assisted-Underwriting-Agent.html
 2026-07-15 | https://thinkingmachines.ai/news/introducing-inkling/
 2026-07-15 | https://openai.com/index/unlocking-self-improvement-gpt-red
 2026-07-15 | https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/
@@ -200,40 +221,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-07-09 | https://www.helpnetsecurity.com/2026/07/09/vectogate-ai-governance-platform/
 2026-07-09 | https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/
 2026-07-09 | https://www.helpnetsecurity.com/2026/07/09/malicious-ai-agent-skills-scan/
-2026-07-08 | https://openai.com/index/introducing-gpt-live/
-2026-07-08 | https://x.ai/news/grok-4-5
-2026-07-08 | https://blog.google/products-and-platforms/products/photos/video-remix/
-2026-07-08 | https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message
-2026-07-08 | https://www.prnewswire.com/news-releases/langchain-and-nvidia-launch-nemoclaw-deep-agents-blueprint-for-enterprise-agents-302820446.html
-2026-07-08 | https://www.macrumors.com/2026/07/08/meta-ai-muse-image/
-2026-07-08 | https://www.engadget.com/2210283/meta-disable-camera-glasses-tamper-with-recording-led/
-2026-07-08 | https://www.marketminute.com/article/bizwire-2026-7-8-airbyte-agents-data-platform-available-on-openai-app-marketplace-adds-command-line-interface-and-ability-to-write-to-salesforce
-2026-07-08 | https://www.prnewswire.com/news-releases/akeneo-introduces-the-first-truly-agentic-product-experience-platform-302819885.html
-2026-07-08 | https://www.prnewswire.com/news-releases/clockworkai-launches-mira-the-ai-giving-3-000-businesses-a-cfo-they-could-never-afford-302820886.html
-2026-07-08 | https://www.businesswire.com/news/home/20260708584390/en/Teamily-AI-Publicly-Launches-HumanAI-Social-Platform-to-Make-Building-and-Growing-a-Company-Easy-for-Every-Team
-2026-07-08 | https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/lexis-with-protege-is-now-purpose-built-ai-for-in-house-legal-and-compliance-teams/2380724
-2026-07-08 | https://www.law.com/legaltechnews/2026/07/08/suited-announces-launch-of-lateral-hiring-platform/
-2026-07-08 | https://cursor.com/blog/grok-4-5
-2026-07-08 | https://www.anthropic.com/news/how-anthropic-teams-use-claude-code
-2026-07-08 | https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/07/moving-sales-and-service-organizations-forward-with-agentic-cx-and-microsoft-365-copilot/
-2026-07-08 | https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/
-2026-07-08 | https://www.prnewswire.com/news-releases/deepfabric-announces-general-availability-of-its-ai-agent-platform-for-end-to-end-supply-chain-operations-302820223.html
-2026-07-08 | https://www.prnewswire.com/news-releases/rainfocus-launches-ai-agent-connectivity-for-event-data-with-mcp-profiles-302819987.html
-2026-07-08 | http://newsincredible.com/quiq-launches-verified-intelligence-to-give-enterprise-brands-full-control-over-agentic-ai/
-2026-07-08 | https://www.helpnetsecurity.com/2026/07/08/first-recon-ai-security-runtime-helps-enterprises-govern-ai-with-audit-ready-evidence/
-2026-07-08 | https://www.helpnetsecurity.com/2026/07/08/codenotary-launches-ai-security-platform-that-learns-from-ai-agent-behavior/
-2026-07-08 | https://www.prnewswire.com/news-releases/kythera-labs-expands-partnership-with-databricks-launching-the-clinical-semantic-bridge-mcp-on-databricks-marketplace-302817357.html
-2026-07-08 | https://www.innovationopenlab.com/news-biz/69533/lantern-pharma-launches-zetaomics-an-autonomous-intelligent-computational-biologist-that-brings-expert-grade-bioinformatics-biostatistics-reasoning-to-every-cancer.html
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 70
-- **Gesamt erfasste Meldungen:** 1109
+- **Gesamt Recherche-Läufe:** 71
+- **Gesamt erfasste Meldungen:** 1129
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-15
+- **Letzter Lauf:** 2026-07-16
 
 ---
 
