@@ -9,6 +9,8 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-19 | 19 | 1 | – | – |
+| 2026-07-18 | 21 | 1 | – | – |
 | 2026-07-16 | 20 | 3 | – | – |
 | 2026-07-15 | 21 | 3 | – | – |
 | 2026-07-14 | 20 | 3 | – | – |
@@ -97,6 +99,46 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-19 | https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/
+2026-07-19 | https://siliconangle.com/2026/07/19/alibaba-previews-qwen3-8-claims-second-claude-fable-5/
+2026-07-19 | https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/
+2026-07-19 | https://the-decoder.com/moonshots-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math/
+2026-07-19 | https://www.techtimes.com/articles/320953/20260719/videochat3-beats-gpt-5-video-grounding-open-source-full-training-stack-released.htm
+2026-07-19 | https://www.marktechpost.com/2026/07/19/feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspects-the-database-before-writing-a-query/
+2026-07-19 | https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/
+2026-07-19 | https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/
+2026-07-19 | https://www.techtimes.com/articles/320959/20260719/ai-safety-grades-are-no-lab-tops-c-best-ones-are-retreating.htm
+2026-07-19 | https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/
+2026-07-19 | https://www.techtimes.com/articles/320958/20260719/microsoft-project-perception-ai-bug-hunter-set-rival-mythos-wider-access-lower-cost.htm
+2026-07-19 | https://winbuzzer.com/2026/07/19/sakana-ai-has-outlined-plans-to-add-nvidia-nemotron-specialists-to-its-fugu-ai-orchestration-platform-xcxwbn/
+2026-07-19 | https://www.androidauthority.com/things-gemini-still-cant-do-vs-chatgpt-3687922/
+2026-07-19 | https://www.techtimes.com/articles/320956/20260719/gemini-enterprise-agent-platform-leads-enterprise-ai-governance-openai-starts-billing-agents.htm
+2026-07-19 | https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/
+2026-07-19 | https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/
+2026-07-19 | https://winbuzzer.com/2026/07/19/patreon-says-it-has-begun-blocking-ai-training-crawlers-xcxwbn/
+2026-07-19 | https://winbuzzer.com/2026/07/19/hacked-code-maps-sunos-alleged-music-scraping-pipeline-xcxwbn/
+2026-07-19 | https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/
+2026-07-18 | https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/
+2026-07-18 | https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/
+2026-07-18 | https://www.globenewswire.com/news-release/2026/07/18/3329348/0/en/iFLYTEK-Launches-GuideX-Taking-Public-Services-from-Answering-Questions-to-Completing-Tasks.html
+2026-07-18 | https://winbuzzer.com/2026/07/18/spacexai-open-sources-grok-build-after-upload-backlash-xcxwbn/
+2026-07-18 | https://t3n.de/news/nach-sora-ende-haben-video-kis-eine-zukunft-1753038/
+2026-07-18 | https://www.prnewswire.com/news-releases/best-ai-design-tools-2026-capcut-named-a-top-choice-for-creating-images-and-marketing-assets-by-software-experts-302828625.html
+2026-07-18 | https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/
+2026-07-18 | https://9to5google.com/2026/07/18/galaxy-watch-9-is-powered-by-snapdragon-wear-elite-leaked-images-confirm-gallery/
+2026-07-18 | https://www.cnet.com/tech/services-and-software/who-will-win-world-cup-final-ai-models-predict/
+2026-07-18 | https://aiimpactbrief.substack.com/p/google-built-up-the-biggest-ai-launch
+2026-07-18 | https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/
+2026-07-18 | https://www.chinadaily.com.cn/a/202607/18/WS6a5b259ca310986e2b465fcc.html
+2026-07-18 | https://techcrunch.com/2026/07/18/kimi-threat-or-menace/
+2026-07-18 | https://www.prnewswire.com/news-releases/pudu-robotics-prasentiert-auf-der-waic-2026-seinen-physischen-agenten-nach-dem-prinzip-one-brain-multiple-embodiments-302829076.html
+2026-07-18 | https://www.chinadaily.com.cn/a/202607/18/WS6a5b7ea7a310986e2b466045.html
+2026-07-18 | https://www.prnewswire.com/news-releases/from-remote-racing-to-embodied-ai-fibocom-and-intedigo-bring-5g-bidirectional-data-transmission-into-real-world-applications-302828996.html
+2026-07-18 | https://thenewstack.io/musk-spacexai-grok-open-source/
+2026-07-18 | https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/
+2026-07-18 | https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/
+2026-07-18 | https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation
+2026-07-18 | https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/
 2026-07-16 | https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems
 2026-07-16 | https://blog.google/products-and-platforms/products/search/deep-search-business-calling-google-search/
 2026-07-16 | https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox
@@ -180,57 +222,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-07-13 | https://the-decoder.com/sensorfm/
 2026-07-13 | https://arxiv.org/pdf/2607.09657
 2026-07-13 | https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost
-2026-07-12 | https://www.marktechpost.com/2026/07/12/meet-neurovfm-a-new-neuroimaging-foundation-model-trained-with-vol-jepa-on-uncurated-clinical-mri-and-ct-volumes/
-2026-07-12 | https://ranzware.com/revolut-x-introduces-ai-powered-cryptocurrency-trading-with-claude-and-gemini-integration
-2026-07-12 | https://t3n.de/news/laut-pangram-analyse-mehr-als-40-prozent-der-posts-auf-linkedin-sind-ki-generiert-1752464/
-2026-07-12 | https://aitoolsrecap.com/Blog/ai-news-july-12-2026
-2026-07-12 | https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains
-2026-07-12 | https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026
-2026-07-12 | https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/
-2026-07-11 | https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/
-2026-07-11 | https://hoploninfosec.com/agentic-ransomware-jadepuffer-attack
-2026-07-11 | https://topaiproduct.com/2026/07/11/google-labs-releases-stitch-skills-official-stitch-plugins-for-claude-code-cursor-and-codex/
-2026-07-11 | https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7
-2026-07-11 | https://aitoolsrecap.com/Blog/ai-news-july-11-2026
-2026-07-10 | https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html
-2026-07-10 | https://aitoolsrecap.com/Blog/grok-4-5-public-launch-thursday-july-10-2026
-2026-07-10 | https://crypto.news/robinhood-hands-ai-agents-your-crypto-trades-in-shift/
-2026-07-10 | https://www.marketingprofs.com/opinions/2026/55247/ai-update-july-10-2026-ai-news-and-views-from-the-past-week
-2026-07-10 | https://kyutai.org/blog/2026-07-10-muscriptor
-2026-07-09 | https://openai.com/index/gpt-5-6/
-2026-07-09 | https://openai.com/index/chatgpt-for-your-most-ambitious-work/
-2026-07-09 | https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/
-2026-07-09 | https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone
-2026-07-09 | https://www.prnewswire.com/news-releases/ibm-advances-enterprise-ai-software-development-with-multi-agent-capabilities-and-specialized-modernization-workflows-302821766.html
-2026-07-09 | https://www.businesswire.com/news/home/20260709330028/en/Wrike-Introduces-Conversational-AI-Agent-Builder-Alongside-a-Series-of-Platform-Updates
-2026-07-09 | https://www.prnewswire.com/news-releases/cresta-launches-training-simulator-using-ai-agents-to-provide-dynamic-training-to-human-agents-302821292.html
-2026-07-09 | https://www.prnewswire.com/news-releases/matillion-launches-maia-foundation-on-google-bigquery-302821746.html
-2026-07-09 | https://finance.yahoo.com/technology/ai/articles/zoominfo-launches-gtm-ai-cli-155500518.html
-2026-07-09 | https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-2026-07-09 | https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/
-2026-07-09 | https://www.helpnetsecurity.com/2026/07/09/citrix-mcp-gateway/
-2026-07-09 | https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/
-2026-07-09 | https://openai.com/index/bio-bug-bounty/
-2026-07-09 | http://anthropic.com/news/reflect-with-claude
-2026-07-09 | https://www.anthropic.com/news/hard-questions
-2026-07-09 | https://www.anthropic.com/news/ben-bernanke
-2026-07-09 | https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/
-2026-07-09 | https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/
-2026-07-09 | https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research
-2026-07-09 | https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds
-2026-07-09 | https://www.helpnetsecurity.com/2026/07/09/vectogate-ai-governance-platform/
-2026-07-09 | https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/
-2026-07-09 | https://www.helpnetsecurity.com/2026/07/09/malicious-ai-agent-skills-scan/
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 71
-- **Gesamt erfasste Meldungen:** 1129
+- **Gesamt Recherche-Läufe:** 73
+- **Gesamt erfasste Meldungen:** 1169
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-16
+- **Letzter Lauf:** 2026-07-19
 
 ---
 
