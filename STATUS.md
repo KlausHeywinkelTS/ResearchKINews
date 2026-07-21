@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-20 | 20 | 2 | – | – |
 | 2026-07-19 | 19 | 1 | – | – |
 | 2026-07-18 | 21 | 1 | – | – |
 | 2026-07-16 | 20 | 3 | – | – |
@@ -99,6 +100,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-20 | https://huggingface.co/blog/security-incident-july-2026
+2026-07-20 | https://openai.com/index/safety-alignment-long-horizon-models
+2026-07-20 | https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/
+2026-07-20 | https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update
+2026-07-20 | https://www.globenewswire.com/news-release/2026/07/20/3329895/0/en/NVIDIA-Agent-Toolkit-Expands-With-New-Omniverse-Libraries-Putting-AI-Agents-to-Work-Building-Simulation-Ready-Worlds.html
+2026-07-20 | https://theaiinsider.tech/2026/07/20/roblox-launches-ai-powered-build-feature-allowing-users-to-create-games-from-text-prompts/
+2026-07-20 | https://www.globenewswire.com/news-release/2026/07/20/3329837/0/en/Qualifacts-Advances-AI-for-Behavioral-Health-with-New-Generative-and-Agentic-Capabilities-in-Qualifacts-iQ.html
+2026-07-20 | https://developers.openai.com/api/docs/deprecations
+2026-07-20 | https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/
+2026-07-20 | https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/
+2026-07-20 | https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/
+2026-07-20 | https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/
+2026-07-20 | https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/
+2026-07-20 | https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/
+2026-07-20 | https://pv-magazine-usa.com/2026/07/20/cuspai-launches-global-materials-discovery-network-alongside-solar-industry-partners/
+2026-07-20 | https://www.techtimes.com/articles/321019/20260720/robot-switches-grip-mid-fail-sensetime-spinoff-ace-robotics-goes-commercial.htm
+2026-07-20 | https://www.prnewswire.com/news-releases/sinch-research-60-of-executives-are-confident-their-ai-programs-are-succeeding-only-43-of-the-teams-delivering-them-agree-302829482.html
+2026-07-20 | https://t3n.de/news/google-android-ki-oeffnen-datenschuetzer-eu-1753607/
+2026-07-20 | https://www.theverge.com/ai-artificial-intelligence/968320/us-ai-safety-agency-head-resigns-three-months-after-being-appointed
+2026-07-20 | https://www.anthropic.com/news/rare-disease-research-grants
 2026-07-19 | https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/
 2026-07-19 | https://siliconangle.com/2026/07/19/alibaba-previews-qwen3-8-claims-second-claude-fable-5/
 2026-07-19 | https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/
@@ -200,38 +221,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-07-14 | https://www.thehindubusinessline.com/economy/agri-business/cropin-google-cloud-launch-orbitai-an-agentic-ai-platform-for-food-and-agriculture/article71221070.ece
 2026-07-14 | https://www.prnewswire.com/news-releases/bmc-brings-governed-ai-agents-to-enterprise-workflows-and-mainframe-operations-302824542.html
 2026-07-14 | https://www.prnewswire.com/news-releases/as-ai-agents-scale-enterprises-demand-execution-control--devenex-takes-control-302825506.html
-2026-07-13 | https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
-2026-07-13 | https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai
-2026-07-13 | https://blog.google/waze/waze-updates-gemini-motorcycle-mode/
-2026-07-13 | https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/
-2026-07-13 | https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on
-2026-07-13 | https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/
-2026-07-13 | https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/
-2026-07-13 | https://www.newsbytesapp.com/news/science/anthropic-launches-claude-reflect-beta-to-review-ai-usage-patterns/tldr
-2026-07-13 | https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/07/moving-sales-and-service-organizations-forward-with-agentic-cx-and-microsoft-365-copilot/
-2026-07-13 | https://www.heise.de/news/Specs-first-OpenSpec-sortiert-das-KI-Chaos-beim-Entwickeln-11360349.html
-2026-07-13 | https://t3n.de/news/large-tabular-models-neue-ki-modelle-machen-schluss-mit-dem-excel-handicap-1752212/
-2026-07-13 | https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/
-2026-07-13 | https://www.theverge.com/news/964587/anthropics-heavyweight-hiring-spree-continues
-2026-07-13 | https://www.heise.de/news/Microsoft-nutzt-in-manchen-Apps-offenbar-eigene-KI-statt-OpenAI-und-Anthropic-11362060.html
-2026-07-13 | https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/
-2026-07-13 | https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/
-2026-07-13 | https://www.heise.de/news/Metas-groesstes-KI-Rechenzentrum-soll-mehr-als-250-Milliarden-Dollar-verschlingen-11363423.html
-2026-07-13 | https://the-decoder.com/turing-award-winner-rich-sutton-founds-oak-lab-to-build-ai-agents-that-learn-on-their-own/
-2026-07-13 | https://www.heise.de/news/Kamerabrillen-So-stellt-sich-Meta-Gesichtserkennung-vor-11362762.html
-2026-07-13 | https://the-decoder.com/sensorfm/
-2026-07-13 | https://arxiv.org/pdf/2607.09657
-2026-07-13 | https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 73
-- **Gesamt erfasste Meldungen:** 1169
+- **Gesamt Recherche-Läufe:** 74
+- **Gesamt erfasste Meldungen:** 1189
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-19
+- **Letzter Lauf:** 2026-07-20
 
 ---
 
