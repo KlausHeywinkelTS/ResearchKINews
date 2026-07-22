@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-21 | 21 | 2 | – | – |
 | 2026-07-20 | 20 | 2 | – | – |
 | 2026-07-19 | 19 | 1 | – | – |
 | 2026-07-18 | 21 | 1 | – | – |
@@ -100,6 +101,27 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-21 | https://openai.com/index/hugging-face-model-evaluation-security-incident/
+2026-07-21 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/
+2026-07-21 | https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/
+2026-07-21 | https://openai.com/index/introducing-chatgpt-small-business-program/
+2026-07-21 | https://poolside.ai/blog/introducing-laguna-s-2-1
+2026-07-21 | https://the-decoder.com/alibabas-qwen-image-3-0-renders-full-infographic-grids-and-readable-ten-pixel-text-in-a-single-pass/
+2026-07-21 | https://www.axios.com/2026/07/21/cisco-open-source-ai-models-cybersecurity
+2026-07-21 | https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool
+2026-07-21 | https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved
+2026-07-21 | https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/
+2026-07-21 | https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/
+2026-07-21 | https://openai.com/index/david-velez-robin-vince-join-openai-boards/
+2026-07-21 | https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/
+2026-07-21 | https://www.appliedintuition.com/press-releases/applied-intuition-launches-dana
+2026-07-21 | https://www.prnewswire.com/apac/news-releases/tencent-cloud-unveils-a-major-upgrade-to-its-agent-development-platform-launching-an-enterprise-grade-agentops-platform-to-bring-ai-agents-into-production-at-scale-302830352.html
+2026-07-21 | https://www.prnewswire.com/news-releases/buda-ai-launches-cloud-native-multi-agent-workspace-to-transform-how-teams-work-with-artificial-intelligence-302831129.html
+2026-07-21 | https://www.prnewswire.com/news-releases/infrastructure-ai-launches-agentic-hub-1-0--302830167.html
+2026-07-21 | https://www.prnewswire.com/news-releases/90-of-organizations-report-strong-ai-and-cloud-foundations-but-business-performance-falls-short-unisys-finds-302830333.html
+2026-07-21 | https://venturebeat.com/orchestration/atlassian-why-ai-speeds-up-employees-but-not-organizations
+2026-07-21 | https://www.prnewswire.com/news-releases/citizens-around-the-world-are-ready-for-ai-powered-public-services-now-governments-need-to-deliver-302830129.html
+2026-07-21 | https://arxiv.org/html/2607.15330
 2026-07-20 | https://huggingface.co/blog/security-incident-july-2026
 2026-07-20 | https://openai.com/index/safety-alignment-long-horizon-models
 2026-07-20 | https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/
@@ -201,36 +223,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-07-15 | https://www.prnewswire.com/news-releases/isc2-begins-developing-its-ai-security-certification-and-opens-call-for-volunteers-worldwide-302825622.html
 2026-07-15 | https://www.prnewswire.com/news-releases/agile-defense-awarded-100-million-for-ai-prototype-supporting-combatant-commands-302826389.html
 2026-07-15 | https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam
-2026-07-14 | https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/
-2026-07-14 | https://www.anthropic.com/news/claude-for-teachers
-2026-07-14 | https://cmotech.uk/story/meta-launches-muse-image-in-meta-ai-for-chats-apps
-2026-07-14 | https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-2026-07-14 | https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/
-2026-07-14 | https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts
-2026-07-14 | https://www.oracle.com/news/announcement/oracle-introduces-ai-native-builder-experience-2026-07-14/
-2026-07-14 | https://the-decoder.com/google-search-now-generates-ai-images-when-it-cant-find-what-youre-looking-for-on-the-web/
-2026-07-14 | https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/
-2026-07-14 | https://www.prnewswire.com/news-releases/sail-research-launches-sailboxes-the-first-cloud-environment-purpose-built-for-long-horizon-ai-agents-302825300.html
-2026-07-14 | https://www.prnewswire.com/news-releases/frigade-launches-skills-giving-any-product-an-ai-assistant-that-takes-action-for-users-no-code-required-302824744.html
-2026-07-14 | https://siliconangle.com/2026/07/14/concho-ai-turns-enterprise-codebases-knowledge-layer-ai-agents/
-2026-07-14 | https://www.globenewswire.com/news-release/2026/07/14/3326753/0/en/Checkmarx-Unveils-Self-Healing-Application-Security-in-Assist-Agent-Family.html
-2026-07-14 | https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
-2026-07-14 | https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/
-2026-07-14 | https://www.prnewswire.com/news-releases/new-study-most-organizations-have-abandoned-human-ai-oversight-302825345.html
-2026-07-14 | https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis
-2026-07-14 | https://www.thehindubusinessline.com/economy/agri-business/cropin-google-cloud-launch-orbitai-an-agentic-ai-platform-for-food-and-agriculture/article71221070.ece
-2026-07-14 | https://www.prnewswire.com/news-releases/bmc-brings-governed-ai-agents-to-enterprise-workflows-and-mainframe-operations-302824542.html
-2026-07-14 | https://www.prnewswire.com/news-releases/as-ai-agents-scale-enterprises-demand-execution-control--devenex-takes-control-302825506.html
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 74
-- **Gesamt erfasste Meldungen:** 1189
+- **Gesamt Recherche-Läufe:** 75
+- **Gesamt erfasste Meldungen:** 1210
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-20
+- **Letzter Lauf:** 2026-07-21
 
 ---
 
