@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-22 | 20 | 2 | – | – |
 | 2026-07-21 | 21 | 2 | – | – |
 | 2026-07-20 | 20 | 2 | – | – |
 | 2026-07-19 | 19 | 1 | – | – |
@@ -101,6 +102,26 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-22 | https://openai.com/index/introducing-openai-presence/
+2026-07-22 | https://www.globenewswire.com/news-release/2026/07/22/3331662/0/en/TinyFish-Launches-Mako-A-Web-Native-AI-Model-Built-to-Operate-the-Live-Web.html
+2026-07-22 | https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/
+2026-07-22 | https://blog.google/products-and-platforms/products/gemini/gemini-live-camera-how-to/
+2026-07-22 | https://www.anthropic.com/news/anthropic-economic-index-connector
+2026-07-22 | https://venturebeat.com/orchestration/inflection-ai-returns-to-consumer-market-with-pi-journeys-after-microsoft-upheaval
+2026-07-22 | https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/
+2026-07-22 | https://news.microsoft.com/signal/articles/a-new-approach-to-ai-data-puts-communities-in-charge/
+2026-07-22 | https://www.theverge.com/tech/969624/google-says-gemini-now-has-950-million-monthly-users
+2026-07-22 | https://www.theverge.com/ai-artificial-intelligence/969104/reddit-might-cut-ties-with-google-as-traffic-drops
+2026-07-22 | https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump
+2026-07-22 | https://www.theverge.com/ai-artificial-intelligence/969359/the-machines-are-taking-both-the-content-and-the-readers-at-an-industrial-scale-too
+2026-07-22 | https://news.microsoft.com/source/canada/2026/07/22/manulife-expands-partnership-with-microsoft-to-accelerate-enterprise-ai-governance-and-innovation/
+2026-07-22 | https://huggingface.co/papers/2607.19139
+2026-07-22 | https://arxiv.org/abs/2607.18232
+2026-07-22 | https://arxiv.org/abs/2607.18867
+2026-07-22 | https://arxiv.org/abs/2607.18259
+2026-07-22 | https://arxiv.org/abs/2607.16530
+2026-07-22 | https://arxiv.org/abs/2607.12713
+2026-07-22 | https://arxiv.org/abs/2607.14396
 2026-07-21 | https://openai.com/index/hugging-face-model-evaluation-security-incident/
 2026-07-21 | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/
 2026-07-21 | https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/
@@ -202,37 +223,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-07-16 | https://www.prnewswire.com/news-releases/coalition-for-health-ai-chai-launches-pulse-a-national-initiative-to-help-public-health-agencies-responsibly-implement-ai-at-scale-302827293.html
 2026-07-16 | https://www.globenewswire.com/news-release/2026/07/16/3328258/0/en/Japan-Government-Industrial-Leaders-and-NVIDIA-Launch-the-World-s-First-National-AI-Infrastructure.html
 2026-07-16 | https://www.globenewswire.com/news-release/2026/07/16/3328613/0/en/New-Silver-Launches-AI-Assisted-Underwriting-Agent.html
-2026-07-15 | https://thinkingmachines.ai/news/introducing-inkling/
-2026-07-15 | https://openai.com/index/unlocking-self-improvement-gpt-red
-2026-07-15 | https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/
-2026-07-15 | https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch
-2026-07-15 | https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/
-2026-07-15 | https://cast.ai/press-release/kimchi-coding-hits-general-availability/
-2026-07-15 | https://www.globenewswire.com/news-release/2026/07/15/3327948/0/en/Autonomize-AI-Launches-Genie-AI-Autonomous-Agent-Transforming-Every-Healthcare-Expert-into-an-AI-Builder.html
-2026-07-15 | https://www.globenewswire.com/news-release/2026/07/15/3328015/0/en/Eightfold-AI-Grows-Talent-Agents-to-2-0-with-Candidate-Agent-Giving-every-Candidate-a-Connected-Conversational-Hiring-Journey.html
-2026-07-15 | https://www.perplexity.ai/hub/blog/secure-sandboxes-for-agents
-2026-07-15 | https://siliconangle.com/2026/07/15/cadence-extends-ai-agents-beyond-chips-aurastack-circuit-boards-packaging/
-2026-07-15 | https://www.prnewswire.com/news-releases/intelagree-launches-saige-assist-agent-one-ai-agent-for-your-entire-contract-portfolio-302826630.html
-2026-07-15 | https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips
-2026-07-15 | https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a
-2026-07-15 | https://venturebeat.com/business/latent-labs-launches-latent-y-to-researchers-worldwide-with-free-daily-access-and-on-demand-credits-for-larger-campaigns
-2026-07-15 | https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/
-2026-07-15 | https://www.prnewswire.com/news-releases/3m-and-microsoft-announce-strategic-partnership-to-advance-ai-data-center-infrastructure-and-enterprise-transformation-302825813.html
-2026-07-15 | https://www.prnewswire.com/news-releases/ibm-launches-new-power-systems-and-software-built-for-enterprises-to-address-risk-productivity-and-flexibility-302825942.html
-2026-07-15 | https://www.prnewswire.com/news-releases/teradata-autonomous-knowledge-platform-reaches-general-availability-across-cloud-and-on-premises-302825673.html
-2026-07-15 | https://www.prnewswire.com/news-releases/isc2-begins-developing-its-ai-security-certification-and-opens-call-for-volunteers-worldwide-302825622.html
-2026-07-15 | https://www.prnewswire.com/news-releases/agile-defense-awarded-100-million-for-ai-prototype-supporting-combatant-commands-302826389.html
-2026-07-15 | https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 75
-- **Gesamt erfasste Meldungen:** 1210
+- **Gesamt Recherche-Läufe:** 76
+- **Gesamt erfasste Meldungen:** 1230
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-21
+- **Letzter Lauf:** 2026-07-22
 
 ---
 
