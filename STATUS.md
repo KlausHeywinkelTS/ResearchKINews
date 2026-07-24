@@ -9,6 +9,7 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 | Datum | Anzahl Meldungen | Must-Reads | Wochenbericht | Monatsbericht |
 |-------|-----------------|------------|---------------|---------------|
+| 2026-07-23 | 21 | 5 | – | – |
 | 2026-07-22 | 20 | 2 | – | – |
 | 2026-07-21 | 21 | 2 | – | – |
 | 2026-07-20 | 20 | 2 | – | – |
@@ -102,6 +103,27 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 
 ```
 # Format: DATUM | URL
+2026-07-23 | https://openai.com/index/health-in-chatgpt/
+2026-07-23 | https://www.theverge.com/ai-artificial-intelligence/970324/openai-brings-its-updated-voice-mode-to-the-chatgpt-desktop-app
+2026-07-23 | https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/
+2026-07-23 | https://www.theverge.com/ai-artificial-intelligence/970420/googles-expanding-access-to-gemini-spark
+2026-07-23 | https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start
+2026-07-23 | https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/
+2026-07-23 | https://www.opensourceforu.com/2026/07/upstage-releases-open-source-solar-open-2-ai-agent-model/
+2026-07-23 | https://huggingface.co/nvidia/Qwen-Image-Flash
+2026-07-23 | https://github.com/langwatch/langwatch/releases/tag/skills@v0.7.0
+2026-07-23 | https://github.com/actually-useful-ai/accessibility-devkit/releases/tag/v1.0.0
+2026-07-23 | https://www.testingcatalog.com/offloop-launches-ai-agent-workspace-for-recurrent-work/
+2026-07-23 | https://venturebeat.com/security/openai-anthropic-google-and-xai-models-all-broke-under-multi-turn-attack-up-to-88-of-the-time
+2026-07-23 | https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/
+2026-07-23 | https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/
+2026-07-23 | https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/
+2026-07-23 | https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/
+2026-07-23 | https://news.microsoft.com/source/2026/07/23/databricks-and-microsoft-expand-partnership-to-help-enterprises-bring-business-context-to-enterprise-ai/
+2026-07-23 | https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/
+2026-07-23 | https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/
+2026-07-23 | https://www.usatoday.com/story/news/politics/2026/07/23/trump-data-centers-governors-ratepayers-protection-pledge/91013327007/
+2026-07-23 | https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/
 2026-07-22 | https://openai.com/index/introducing-openai-presence/
 2026-07-22 | https://www.globenewswire.com/news-release/2026/07/22/3331662/0/en/TinyFish-Launches-Mako-A-Web-Native-AI-Model-Built-to-Operate-the-Live-Web.html
 2026-07-22 | https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/
@@ -203,36 +225,16 @@ Sie dient zur Deduplizierung: Keine URL wird in zwei aufeinanderfolgenden Berich
 2026-07-18 | https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/
 2026-07-18 | https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation
 2026-07-18 | https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/
-2026-07-16 | https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems
-2026-07-16 | https://blog.google/products-and-platforms/products/search/deep-search-business-calling-google-search/
-2026-07-16 | https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox
-2026-07-16 | https://blog.google/products-and-platforms/products/search/connected-apps/
-2026-07-16 | https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/
-2026-07-16 | https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/
-2026-07-16 | https://lmstudio.ai/blog/introducing-lm-studio-bionic
-2026-07-16 | https://www.prnewswire.com/news-releases/uspto-launches-ai-image-search-in-trademark-search-system-powered-by-clarivate-302826692.html
-2026-07-16 | https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma
-2026-07-16 | https://www.theverge.com/ai-artificial-intelligence/966619/chatgpt-will-show-teens-more-frequent-break-reminders
-2026-07-16 | https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials
-2026-07-16 | https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway
-2026-07-16 | https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix
-2026-07-16 | https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/
-2026-07-16 | https://www.cxtoday.com/ai-automation-in-cx/pwc-openai-agentic-customer-service/
-2026-07-16 | https://sierra.ai/blog/horizon
-2026-07-16 | https://www.prnewswire.com/news-releases/parallel-announces-partnership-with-google-cloud-for-agentic-web-search-on-gemini-enterprise-agent-platform-302827075.html
-2026-07-16 | https://www.prnewswire.com/news-releases/coalition-for-health-ai-chai-launches-pulse-a-national-initiative-to-help-public-health-agencies-responsibly-implement-ai-at-scale-302827293.html
-2026-07-16 | https://www.globenewswire.com/news-release/2026/07/16/3328258/0/en/Japan-Government-Industrial-Leaders-and-NVIDIA-Launch-the-World-s-First-National-AI-Infrastructure.html
-2026-07-16 | https://www.globenewswire.com/news-release/2026/07/16/3328613/0/en/New-Silver-Launches-AI-Assisted-Underwriting-Agent.html
 ```
 
 ---
 
 ## Statistiken
 
-- **Gesamt Recherche-Läufe:** 76
-- **Gesamt erfasste Meldungen:** 1230
+- **Gesamt Recherche-Läufe:** 77
+- **Gesamt erfasste Meldungen:** 1251
 - **Erster Lauf:** 2026-03-24
-- **Letzter Lauf:** 2026-07-22
+- **Letzter Lauf:** 2026-07-23
 
 ---
 
